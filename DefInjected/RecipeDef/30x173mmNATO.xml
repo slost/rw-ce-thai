@@ -1,0 +1,34 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make 30x173mm NATO (AP) cartridge x200 -->
+  <MakeAmmo_30x173mmNATO_AP.label>TODO</MakeAmmo_30x173mmNATO_AP.label>
+  <!-- EN: Craft 200 30x173mm NATO (AP) cartridges. -->
+  <MakeAmmo_30x173mmNATO_AP.description>TODO</MakeAmmo_30x173mmNATO_AP.description>
+  <!-- EN: Making 30x173mm NATO (AP) cartridges. -->
+  <MakeAmmo_30x173mmNATO_AP.jobString>TODO</MakeAmmo_30x173mmNATO_AP.jobString>
+
+  <!-- EN: make 30x173mm NATO (AP-I) cartridge x200 -->
+  <MakeAmmo_30x173mmNATO_Incendiary.label>TODO</MakeAmmo_30x173mmNATO_Incendiary.label>
+  <!-- EN: Craft 200 .30x173mm NATO (AP-I) cartridges. -->
+  <MakeAmmo_30x173mmNATO_Incendiary.description>TODO</MakeAmmo_30x173mmNATO_Incendiary.description>
+  <!-- EN: Making .30x173mm NATO (AP-I) cartridges. -->
+  <MakeAmmo_30x173mmNATO_Incendiary.jobString>TODO</MakeAmmo_30x173mmNATO_Incendiary.jobString>
+
+  <!-- EN: make 30x173mm NATO (AP-HE) cartridge x200 -->
+  <MakeAmmo_30x173mmNATO_HE.label>TODO</MakeAmmo_30x173mmNATO_HE.label>
+  <!-- EN: Craft 200 .30x173mm NATO (AP-HE) cartridges. -->
+  <MakeAmmo_30x173mmNATO_HE.description>TODO</MakeAmmo_30x173mmNATO_HE.description>
+  <!-- EN: Making .30x173mm NATO (AP-HE) cartridges. -->
+  <MakeAmmo_30x173mmNATO_HE.jobString>TODO</MakeAmmo_30x173mmNATO_HE.jobString>
+
+  <!-- EN: make 30x173mm NATO (Sabot) cartridge x200 -->
+  <MakeAmmo_30x173mmNATO_Sabot.label>TODO</MakeAmmo_30x173mmNATO_Sabot.label>
+  <!-- EN: Craft 200 .30x173mm NATO (Sabot) cartridges. -->
+  <MakeAmmo_30x173mmNATO_Sabot.description>TODO</MakeAmmo_30x173mmNATO_Sabot.description>
+  <!-- EN: Making .30x173mm NATO (Sabot) cartridges. -->
+  <MakeAmmo_30x173mmNATO_Sabot.jobString>TODO</MakeAmmo_30x173mmNATO_Sabot.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,45 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: .338 Lapua Magnum cartridge (FMJ) -->
+  <Ammo_338Lapua_FMJ.label>TODO</Ammo_338Lapua_FMJ.label>
+  <!-- EN: The .338 Lapua Magnum (8.6×70mm or 8.58×70mm) is a rimless, bottlenecked, centerfire cartridge developed for military long-range sniper rifles. -->
+  <Ammo_338Lapua_FMJ.description>TODO</Ammo_338Lapua_FMJ.description>
+
+  <!-- EN: .338 Lapua Magnum cartridge (AP) -->
+  <Ammo_338Lapua_AP.label>TODO</Ammo_338Lapua_AP.label>
+  <!-- EN: The .338 Lapua Magnum (8.6×70mm or 8.58×70mm) is a rimless, bottlenecked, centerfire cartridge developed for military long-range sniper rifles. -->
+  <Ammo_338Lapua_AP.description>TODO</Ammo_338Lapua_AP.description>
+
+  <!-- EN: .338 Lapua Magnum cartridge (AP-I) -->
+  <Ammo_338Lapua_Incendiary.label>TODO</Ammo_338Lapua_Incendiary.label>
+  <!-- EN: The .338 Lapua Magnum (8.6×70mm or 8.58×70mm) is a rimless, bottlenecked, centerfire cartridge developed for military long-range sniper rifles. -->
+  <Ammo_338Lapua_Incendiary.description>TODO</Ammo_338Lapua_Incendiary.description>
+
+  <!-- EN: .338 Lapua Magnum cartridge (AP-HE) -->
+  <Ammo_338Lapua_HE.label>TODO</Ammo_338Lapua_HE.label>
+  <!-- EN: The .338 Lapua Magnum (8.6×70mm or 8.58×70mm) is a rimless, bottlenecked, centerfire cartridge developed for military long-range sniper rifles. -->
+  <Ammo_338Lapua_HE.description>TODO</Ammo_338Lapua_HE.description>
+
+  <!-- EN: .338 Lapua Magnum cartridge (Sabot) -->
+  <Ammo_338Lapua_Sabot.label>TODO</Ammo_338Lapua_Sabot.label>
+  <!-- EN: The .338 Lapua Magnum (8.6×70mm or 8.58×70mm) is a rimless, bottlenecked, centerfire cartridge developed for military long-range sniper rifles. -->
+  <Ammo_338Lapua_Sabot.description>TODO</Ammo_338Lapua_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: .338 Lapua Magnum bullet (FMJ) -->
+  <Bullet_338Lapua_FMJ.label>TODO</Bullet_338Lapua_FMJ.label>
+  <!-- EN: .338 Lapua Magnum bullet (AP) -->
+  <Bullet_338Lapua_AP.label>TODO</Bullet_338Lapua_AP.label>
+  <!-- EN: .338 Lapua Magnum bullet (AP-I) -->
+  <Bullet_338Lapua_Incendiary.label>TODO</Bullet_338Lapua_Incendiary.label>
+  <!-- EN: .338 Lapua Magnum bullet (AP-HE) -->
+  <Bullet_338Lapua_HE.label>TODO</Bullet_338Lapua_HE.label>
+  <!-- EN: .338 Lapua Magnum bullet (Sabot) -->
+  <Bullet_338Lapua_Sabot.label>TODO</Bullet_338Lapua_Sabot.label>
+
+
+</LanguageData>

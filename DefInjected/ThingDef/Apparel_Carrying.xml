@@ -1,0 +1,29 @@
+<LanguageData>
+
+  <!-- EN: tactical vest -->
+  <CE_Apparel_TacVest.label>TODO</CE_Apparel_TacVest.label>
+  <!-- EN: A loadbearing vest with a number of pouches to store magazines and other equipment.\n\nSpeeds up reloading but is quite bulky to wear. -->
+  <CE_Apparel_TacVest.description>TODO</CE_Apparel_TacVest.description>
+
+  <!-- EN: backpack -->
+  <CE_Apparel_Backpack.label>TODO</CE_Apparel_Backpack.label>
+  <!-- EN: A comfortable and spacious backpack for storing all kinds of items. -->
+  <CE_Apparel_Backpack.description>TODO</CE_Apparel_Backpack.description>
+
+  <!-- EN: kid backpack -->
+  <CE_Apparel_KidBackpack.label>TODO</CE_Apparel_KidBackpack.label>
+  <!-- EN: A small backpack sized for a child. -->
+  <CE_Apparel_KidBackpack.description>TODO</CE_Apparel_KidBackpack.description>
+
+  <!-- EN: tribal backpack -->
+  <CE_Apparel_TribalBackpack.label>TODO</CE_Apparel_TribalBackpack.label>
+  <!-- EN: Primitive backpack made from animal furs, useful for storing items when travelling. -->
+  <CE_Apparel_TribalBackpack.description>TODO</CE_Apparel_TribalBackpack.description>
+
+  <!-- EN: powered exoframe -->
+  <CE_Apparel_ExoFrame.label>TODO</CE_Apparel_ExoFrame.label>
+  <!-- EN: A powered exoframe with articulated joints, commonly used in industrial settings by workers handling heavy parts.\n\nIncreases lifting capacity, but is quite bulky to wear. -->
+  <CE_Apparel_ExoFrame.description>TODO</CE_Apparel_ExoFrame.description>
+
+
+</LanguageData>

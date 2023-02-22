@@ -1,0 +1,27 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make 30x64mm fuel cell (Incendiary) x50 -->
+  <MakeAmmo_30x64mmFuel_Incendiary.label>TODO</MakeAmmo_30x64mmFuel_Incendiary.label>
+  <!-- EN: Craft 50 30x64mm incendiary fuel cells. -->
+  <MakeAmmo_30x64mmFuel_Incendiary.description>TODO</MakeAmmo_30x64mmFuel_Incendiary.description>
+  <!-- EN: Making incendiary fuel cells. -->
+  <MakeAmmo_30x64mmFuel_Incendiary.jobString>TODO</MakeAmmo_30x64mmFuel_Incendiary.jobString>
+
+  <!-- EN: make 30x64mm fuel cell (Thermobaric) x50 -->
+  <MakeAmmo_30x64mmFuel_Thermobaric.label>TODO</MakeAmmo_30x64mmFuel_Thermobaric.label>
+  <!-- EN: Craft 50 30x64mm thermobaric fuel cells. -->
+  <MakeAmmo_30x64mmFuel_Thermobaric.description>TODO</MakeAmmo_30x64mmFuel_Thermobaric.description>
+  <!-- EN: Making thermobaric fuel cells. -->
+  <MakeAmmo_30x64mmFuel_Thermobaric.jobString>TODO</MakeAmmo_30x64mmFuel_Thermobaric.jobString>
+
+  <!-- EN: make 30x64mm fuel cell (Foam) x50 -->
+  <MakeAmmo_30x64mmFuel_Foam.label>TODO</MakeAmmo_30x64mmFuel_Foam.label>
+  <!-- EN: Craft 50 30x64mm foam fuel cells. -->
+  <MakeAmmo_30x64mmFuel_Foam.description>TODO</MakeAmmo_30x64mmFuel_Foam.description>
+  <!-- EN: Making foam fuel cells. -->
+  <MakeAmmo_30x64mmFuel_Foam.jobString>TODO</MakeAmmo_30x64mmFuel_Foam.jobString>
+
+
+</LanguageData>

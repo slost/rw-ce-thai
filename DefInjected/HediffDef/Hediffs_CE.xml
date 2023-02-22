@@ -1,0 +1,134 @@
+<LanguageData>
+
+  <!-- Global -->
+
+  <!-- EN: wearing gas mask -->
+  <WearingGasMask.label>TODO</WearingGasMask.label>
+  <!-- EN: Wearing a gas mask -->
+  <WearingGasMask.description>TODO</WearingGasMask.description>
+  <!-- EN: wearing -->
+  <WearingGasMask.stages.0.label>TODO</WearingGasMask.stages.0.label>
+
+  <!-- EN: smoke inhalation -->
+  <SmokeInhalation.label>TODO</SmokeInhalation.label>
+  <!-- EN: Inhaled Smoke -->
+  <SmokeInhalation.description>TODO</SmokeInhalation.description>
+  <!-- EN: initial -->
+  <SmokeInhalation.stages.0.label>TODO</SmokeInhalation.stages.0.label>
+  <!-- EN: initial -->
+  <SmokeInhalation.stages.1.label>TODO</SmokeInhalation.stages.1.label>
+  <!-- EN: minor -->
+  <SmokeInhalation.stages.2.label>TODO</SmokeInhalation.stages.2.label>
+  <!-- EN: moderate -->
+  <SmokeInhalation.stages.3.label>TODO</SmokeInhalation.stages.3.label>
+  <!-- EN: serious -->
+  <SmokeInhalation.stages.4.label>TODO</SmokeInhalation.stages.4.label>
+  <!-- EN: extreme -->
+  <SmokeInhalation.stages.5.label>TODO</SmokeInhalation.stages.5.label>
+
+  <!-- EN: venom buildup -->
+  <VenomBuildup.label>TODO</VenomBuildup.label>
+  <!-- EN: Venom building up -->
+  <VenomBuildup.description>TODO</VenomBuildup.description>
+  <!-- EN: initial -->
+  <VenomBuildup.stages.0.label>TODO</VenomBuildup.stages.0.label>
+  <!-- EN: initial -->
+  <VenomBuildup.stages.1.label>TODO</VenomBuildup.stages.1.label>
+  <!-- EN: minor -->
+  <VenomBuildup.stages.2.label>TODO</VenomBuildup.stages.2.label>
+  <!-- EN: moderate -->
+  <VenomBuildup.stages.3.label>TODO</VenomBuildup.stages.3.label>
+  <!-- EN: serious -->
+  <VenomBuildup.stages.4.label>TODO</VenomBuildup.stages.4.label>
+  <!-- EN: extreme -->
+  <VenomBuildup.stages.5.label>TODO</VenomBuildup.stages.5.label>
+
+  <!-- EN: muscle spasms -->
+  <MuscleSpasms.label>TODO</MuscleSpasms.label>
+  <!-- EN: Muscle Spasms -->
+  <MuscleSpasms.description>TODO</MuscleSpasms.description>
+  <!-- EN: trivial -->
+  <MuscleSpasms.stages.0.label>TODO</MuscleSpasms.stages.0.label>
+  <!-- EN: minor -->
+  <MuscleSpasms.stages.1.label>TODO</MuscleSpasms.stages.1.label>
+  <!-- EN: moderate -->
+  <MuscleSpasms.stages.2.label>TODO</MuscleSpasms.stages.2.label>
+  <!-- EN: severe -->
+  <MuscleSpasms.stages.3.label>TODO</MuscleSpasms.stages.3.label>
+  <!-- EN: extreme -->
+  <MuscleSpasms.stages.4.label>TODO</MuscleSpasms.stages.4.label>
+
+  <!-- EN: Prometheum-soaked -->
+  <PrometheumSoaked.label>TODO</PrometheumSoaked.label>
+  <!-- EN: Soaked in Prometheum -->
+  <PrometheumSoaked.description>TODO</PrometheumSoaked.description>
+  <!-- EN: minor -->
+  <PrometheumSoaked.stages.0.label>TODO</PrometheumSoaked.stages.0.label>
+  <!-- EN: dripping -->
+  <PrometheumSoaked.stages.1.label>TODO</PrometheumSoaked.stages.1.label>
+  <!-- EN: soaked -->
+  <PrometheumSoaked.stages.2.label>TODO</PrometheumSoaked.stages.2.label>
+  <!-- EN: drenched -->
+  <PrometheumSoaked.stages.3.label>TODO</PrometheumSoaked.stages.3.label>
+
+
+  <!-- For Project Red Horse: Militaires Sans Frontieres -->
+
+  <!-- EN: tranquilizer -->
+  <Tranquilizer.label>TODO</Tranquilizer.label>
+  <!-- EN: the effects of a tranquilizer dart -->
+  <Tranquilizer.description>TODO</Tranquilizer.description>
+
+
+  <!-- Injuries -->
+
+  <!-- EN: beanbag bruise -->
+  <BruiseBeanbag.label>TODO</BruiseBeanbag.label>
+  <!-- EN: a beanbag bruise -->
+  <BruiseBeanbag.labelNoun>TODO</BruiseBeanbag.labelNoun>
+
+  <!-- EN: beanbag crack -->
+  <CrackBeanbag.label>TODO</CrackBeanbag.label>
+  <!-- EN: a beanbag crack -->
+  <CrackBeanbag.labelNoun>TODO</CrackBeanbag.labelNoun>
+
+  <!-- EN: puncture -->
+  <TaserStab.label>TODO</TaserStab.label>
+  <!-- EN: a puncture wound from taser barbs -->
+  <TaserStab.labelNoun>TODO</TaserStab.labelNoun>
+
+  <!-- EN: venomous bite -->
+  <VenomousBite.label>TODO</VenomousBite.label>
+  <!-- EN: a venomous bite wound -->
+  <VenomousBite.labelNoun>TODO</VenomousBite.labelNoun>
+
+  <!-- EN: venomous scratch -->
+  <VenomousScratch.label>TODO</VenomousScratch.label>
+  <!-- EN: a venomous scratch wound -->
+  <VenomousScratch.labelNoun>TODO</VenomousScratch.labelNoun>
+
+  <!-- EN: venomous wound -->
+  <VenomousArrow.label>TODO</VenomousArrow.label>
+  <!-- EN: a venomous arrow wound -->
+  <VenomousArrow.labelNoun>TODO</VenomousArrow.labelNoun>
+
+  <!-- EN: electrical burn -->
+  <ElectricalBurn.label>TODO</ElectricalBurn.label>
+
+  <!-- EN: blasted -->
+  <Blast.label>TODO</Blast.label>
+  <!-- EN: Blasted -->
+  <Blast.description>TODO</Blast.description>
+  <!-- EN: bandaged -->
+  <Blast.comps.0.labelTendedWell>TODO</Blast.comps.0.labelTendedWell>
+  <!-- EN: sutured -->
+  <Blast.comps.0.labelTendedWellInner>TODO</Blast.comps.0.labelTendedWellInner>
+  <!-- EN: set -->
+  <Blast.comps.0.labelSolidTendedWell>TODO</Blast.comps.0.labelSolidTendedWell>
+  <!-- EN: Torn off -->
+  <Blast.injuryProps.destroyedLabel>TODO</Blast.injuryProps.destroyedLabel>
+  <!-- EN: Torn out -->
+  <Blast.injuryProps.destroyedOutLabel>TODO</Blast.injuryProps.destroyedOutLabel>
+
+
+</LanguageData>

@@ -1,0 +1,78 @@
+<LanguageData>
+
+  <!-- Concussion grenade -->
+
+  <!-- EN: concussion grenade -->
+  <Proj_GrenadeConcussion.label>TODO</Proj_GrenadeConcussion.label>
+
+  <!-- EN: concussion grenade -->
+  <Weapon_GrenadeConcussion.label>TODO</Weapon_GrenadeConcussion.label>
+  <!-- EN: A cylindrical concussion grenade designed to produce casualties during close combat while minimizing danger to friendly personnel exposed in the open owing to minimal fragmentation. -->
+  <Weapon_GrenadeConcussion.description>TODO</Weapon_GrenadeConcussion.description>
+  <!-- EN: throw concussion grenade -->
+  <Weapon_GrenadeConcussion.verbs.0.label>TODO</Weapon_GrenadeConcussion.verbs.0.label>
+  <!-- EN: Body -->
+  <Weapon_GrenadeConcussion.tools.0.label>TODO</Weapon_GrenadeConcussion.tools.0.label>
+
+
+  <!-- Flashbang grenade -->
+
+  <!-- EN: flashbang grenade -->
+  <Proj_GrenadeFlashbang.label>TODO</Proj_GrenadeFlashbang.label>
+
+  <!-- EN: flashbang grenade -->
+  <Weapon_GrenadeFlashbang.label>TODO</Weapon_GrenadeFlashbang.label>
+  <!-- EN: Pyrotechnic charge designed to produce a blinding flash of light and loud noise, temporarily blinding and disorienting anyone nearby. -->
+  <Weapon_GrenadeFlashbang.description>TODO</Weapon_GrenadeFlashbang.description>
+  <!-- EN: throw flashbang grenade -->
+  <Weapon_GrenadeFlashbang.verbs.0.label>TODO</Weapon_GrenadeFlashbang.verbs.0.label>
+  <!-- EN: Body -->
+  <Weapon_GrenadeFlashbang.tools.0.label>TODO</Weapon_GrenadeFlashbang.tools.0.label>
+
+
+  <!-- Stick bomb -->
+
+  <!-- EN: stick bomb -->
+  <Proj_GrenadeStickBomb.label>TODO</Proj_GrenadeStickBomb.label>
+
+  <!-- EN: stick bomb -->
+  <Weapon_GrenadeStickBomb.label>TODO</Weapon_GrenadeStickBomb.label>
+  <!-- EN: Primitive fuse-lit explosive. A favorite of tribals who use these to fight technologically advanced enemies with heavy armor. -->
+  <Weapon_GrenadeStickBomb.description>TODO</Weapon_GrenadeStickBomb.description>
+  <!-- EN: throw stick bomb -->
+  <Weapon_GrenadeStickBomb.verbs.0.label>TODO</Weapon_GrenadeStickBomb.verbs.0.label>
+  <!-- EN: Body -->
+  <Weapon_GrenadeStickBomb.tools.0.label>TODO</Weapon_GrenadeStickBomb.tools.0.label>
+
+
+  <!-- Smoke grenade -->
+
+  <!-- EN: smoke grenade -->
+  <Proj_GrenadeSmoke.label>TODO</Proj_GrenadeSmoke.label>
+
+  <!-- EN: smoke grenade -->
+  <Weapon_GrenadeSmoke.label>TODO</Weapon_GrenadeSmoke.label>
+  <!-- EN: Releases a large cloud of defensive smoke, providing concealment against gunfire. -->
+  <Weapon_GrenadeSmoke.description>TODO</Weapon_GrenadeSmoke.description>
+  <!-- EN: throw smoke grenade -->
+  <Weapon_GrenadeSmoke.verbs.0.label>TODO</Weapon_GrenadeSmoke.verbs.0.label>
+  <!-- EN: Body -->
+  <Weapon_GrenadeSmoke.tools.0.label>TODO</Weapon_GrenadeSmoke.tools.0.label>
+
+
+  <!-- Firefoam grenade -->
+
+  <!-- EN: firefoam grenade -->
+  <Proj_GrenadeFirefoam.label>TODO</Proj_GrenadeFirefoam.label>
+
+  <!-- EN: firefoam grenade -->
+  <Weapon_GrenadeFirefoam.label>TODO</Weapon_GrenadeFirefoam.label>
+  <!-- EN: Special firefighting grenade. Releases a cloud of firefoam upon impact. -->
+  <Weapon_GrenadeFirefoam.description>TODO</Weapon_GrenadeFirefoam.description>
+  <!-- EN: throw firefoam grenade -->
+  <Weapon_GrenadeFirefoam.verbs.0.label>TODO</Weapon_GrenadeFirefoam.verbs.0.label>
+  <!-- EN: Body -->
+  <Weapon_GrenadeFirefoam.tools.0.label>TODO</Weapon_GrenadeFirefoam.tools.0.label>
+
+
+</LanguageData>

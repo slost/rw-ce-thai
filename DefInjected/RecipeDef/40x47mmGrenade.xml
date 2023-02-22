@@ -1,0 +1,27 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make 40x47mm HE grenades x100 -->
+  <MakeAmmo_40x47mmGrenade_HE.label>TODO</MakeAmmo_40x47mmGrenade_HE.label>
+  <!-- EN: Craft 100 40x47mm HE grenades. -->
+  <MakeAmmo_40x47mmGrenade_HE.description>TODO</MakeAmmo_40x47mmGrenade_HE.description>
+  <!-- EN: Making 40x47mm HE grenades. -->
+  <MakeAmmo_40x47mmGrenade_HE.jobString>TODO</MakeAmmo_40x47mmGrenade_HE.jobString>
+
+  <!-- EN: make 40x47mm EMP grenades x100 -->
+  <MakeAmmo_40x47mmGrenade_EMP.label>TODO</MakeAmmo_40x47mmGrenade_EMP.label>
+  <!-- EN: Craft 100 40x47mm EMP grenades. -->
+  <MakeAmmo_40x47mmGrenade_EMP.description>TODO</MakeAmmo_40x47mmGrenade_EMP.description>
+  <!-- EN: Making 40x47mm EMP grenades. -->
+  <MakeAmmo_40x47mmGrenade_EMP.jobString>TODO</MakeAmmo_40x47mmGrenade_EMP.jobString>
+
+  <!-- EN: make 40x47mm smoke grenades x100 -->
+  <MakeAmmo_40x47mmGrenade_Smoke.label>TODO</MakeAmmo_40x47mmGrenade_Smoke.label>
+  <!-- EN: Craft 100 40x47mm smoke grenades. -->
+  <MakeAmmo_40x47mmGrenade_Smoke.description>TODO</MakeAmmo_40x47mmGrenade_Smoke.description>
+  <!-- EN: Making 40x47mm smoke grenades. -->
+  <MakeAmmo_40x47mmGrenade_Smoke.jobString>TODO</MakeAmmo_40x47mmGrenade_Smoke.jobString>
+
+
+</LanguageData>

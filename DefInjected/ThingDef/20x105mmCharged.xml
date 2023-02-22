@@ -1,0 +1,31 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 20x105mm Charged cartridge -->
+  <Ammo_20x105mmCharged.label>TODO</Ammo_20x105mmCharged.label>
+  <!-- EN: High-caliber charged shot ammo used by advanced autocannons. -->
+  <Ammo_20x105mmCharged.description>TODO</Ammo_20x105mmCharged.description>
+
+  <!-- EN: 20x105mm Charged cartridge (Conc.) -->
+  <Ammo_20x105mmCharged_AP.label>TODO</Ammo_20x105mmCharged_AP.label>
+  <!-- EN: High-caliber charged shot ammo used by advanced autocannons. -->
+  <Ammo_20x105mmCharged_AP.description>TODO</Ammo_20x105mmCharged_AP.description>
+
+  <!-- EN: 20x105mm Charged cartridge (Ion) -->
+  <Ammo_20x105mmCharged_Ion.label>TODO</Ammo_20x105mmCharged_Ion.label>
+  <!-- EN: High-caliber charged shot ammo used by advanced autocannons. -->
+  <Ammo_20x105mmCharged_Ion.description>TODO</Ammo_20x105mmCharged_Ion.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 20x105mm Charged bullet -->
+  <Bullet_20x105mmCharged.label>TODO</Bullet_20x105mmCharged.label>
+  <!-- EN: 20x105mm Charged bullet (Conc.) -->
+  <Bullet_20x105mmCharged_AP.label>TODO</Bullet_20x105mmCharged_AP.label>
+  <!-- EN: 20x105mm Charged bullet (Ion) -->
+  <Bullet_20x105mmCharged_Ion.label>TODO</Bullet_20x105mmCharged_Ion.label>
+
+
+</LanguageData>

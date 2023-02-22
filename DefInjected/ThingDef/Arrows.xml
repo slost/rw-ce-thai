@@ -1,0 +1,62 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: arrow (stone) -->
+  <Ammo_Arrow_Stone.label>TODO</Ammo_Arrow_Stone.label>
+  <!-- EN: Simple arrow design with a cutting head attached to a wooden shaft. -->
+  <Ammo_Arrow_Stone.description>TODO</Ammo_Arrow_Stone.description>
+
+  <!-- EN: arrow (steel) -->
+  <Ammo_Arrow_Steel.label>TODO</Ammo_Arrow_Steel.label>
+  <!-- EN: Simple arrow design with a cutting head attached to a wooden shaft. -->
+  <Ammo_Arrow_Steel.description>TODO</Ammo_Arrow_Steel.description>
+
+  <!-- EN: arrow (plasteel) -->
+  <Ammo_Arrow_Plasteel.label>TODO</Ammo_Arrow_Plasteel.label>
+  <!-- EN: Simple arrow design with a cutting head attached to a wooden shaft. -->
+  <Ammo_Arrow_Plasteel.description>TODO</Ammo_Arrow_Plasteel.description>
+
+  <!-- EN: arrow (venom) -->
+  <Ammo_Arrow_Venom.label>TODO</Ammo_Arrow_Venom.label>
+  <!-- EN: Simple arrow design with a cutting head attached to a wooden shaft. -->
+  <Ammo_Arrow_Venom.description>TODO</Ammo_Arrow_Venom.description>
+
+  <!-- EN: arrow (flame) -->
+  <Ammo_Arrow_Flame.label>TODO</Ammo_Arrow_Flame.label>
+  <!-- EN: Simple arrow design with a cutting head attached to a wooden shaft. -->
+  <Ammo_Arrow_Flame.description>TODO</Ammo_Arrow_Flame.description>
+
+
+  <!-- The amount of arrows usable over the ammo lifetime for each resource cost is equal to
+		[r / (1 - x)];
+			x = preExplosionSpawnChance,
+			r = resource cost. -->
+
+  <!-- EN: arrow (stone) -->
+  <Projectile_Arrow_Stone.label>TODO</Projectile_Arrow_Stone.label>
+  <!-- EN: arrow (steel) -->
+  <Projectile_Arrow_Steel.label>TODO</Projectile_Arrow_Steel.label>
+  <!-- EN: arrow (plasteel) -->
+  <Projectile_Arrow_Plasteel.label>TODO</Projectile_Arrow_Plasteel.label>
+  <!-- EN: arrow (venom) -->
+  <Projectile_Arrow_Venom.label>TODO</Projectile_Arrow_Venom.label>
+  <!-- EN: arrow (flame) -->
+  <Projectile_Arrow_Flame.label>TODO</Projectile_Arrow_Flame.label>
+
+
+  <!-- Projectiles (Recurve Bow) -->
+
+  <!-- EN: streamlined arrow (stone) -->
+  <Projectile_StreamlinedArrow_Stone.label>TODO</Projectile_StreamlinedArrow_Stone.label>
+  <!-- EN: streamlined arrow (steel) -->
+  <Projectile_StreamlinedArrow_Steel.label>TODO</Projectile_StreamlinedArrow_Steel.label>
+  <!-- EN: streamlined arrow (plasteel) -->
+  <Projectile_StreamlinedArrow_Plasteel.label>TODO</Projectile_StreamlinedArrow_Plasteel.label>
+  <!-- EN: streamlined arrow (venom) -->
+  <Projectile_StreamlinedArrow_Venom.label>TODO</Projectile_StreamlinedArrow_Venom.label>
+  <!-- EN: streamlined arrow (flame) -->
+  <Projectile_StreamlinedArrow_Flame.label>TODO</Projectile_StreamlinedArrow_Flame.label>
+
+
+</LanguageData>

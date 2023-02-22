@@ -1,0 +1,31 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: .22 LR cartridge (FMJ) -->
+  <Ammo_22LR_FMJ.label>TODO</Ammo_22LR_FMJ.label>
+  <!-- EN: Low caliber handgun cartridge massively lacking in stopping power. -->
+  <Ammo_22LR_FMJ.description>TODO</Ammo_22LR_FMJ.description>
+
+  <!-- EN: .22 LR cartridge (AP) -->
+  <Ammo_22LR_AP.label>TODO</Ammo_22LR_AP.label>
+  <!-- EN: Low caliber handgun cartridge massively lacking in stopping power. -->
+  <Ammo_22LR_AP.description>TODO</Ammo_22LR_AP.description>
+
+  <!-- EN: .22 LR cartridge (HP) -->
+  <Ammo_22LR_HP.label>TODO</Ammo_22LR_HP.label>
+  <!-- EN: Low caliber handgun cartridge massively lacking in stopping power. -->
+  <Ammo_22LR_HP.description>TODO</Ammo_22LR_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: .22 LR bullet (FMJ) -->
+  <Bullet_22LR_FMJ.label>TODO</Bullet_22LR_FMJ.label>
+  <!-- EN: .22 LR bullet (AP) -->
+  <Bullet_22LR_AP.label>TODO</Bullet_22LR_AP.label>
+  <!-- EN: .22 LR bullet (HP) -->
+  <Bullet_22LR_HP.label>TODO</Bullet_22LR_HP.label>
+
+
+</LanguageData>

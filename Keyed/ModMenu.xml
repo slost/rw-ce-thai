@@ -1,0 +1,153 @@
+<LanguageData>
+
+  <!-- ========== Headers ========== -->
+
+  <!-- EN: General -->
+  <CE_Settings_HeaderGeneral>TODO</CE_Settings_HeaderGeneral>
+  <!-- EN: Ammunition -->
+  <CE_Settings_HeaderAmmo>TODO</CE_Settings_HeaderAmmo>
+  <!-- EN: Autopatcher -->
+  <CE_Settings_HeaderAutopatcher>TODO</CE_Settings_HeaderAutopatcher>
+
+  <!-- ========== Sub Headers ========== -->
+
+  <!-- EN: Main menu only settings -->
+  <CE_Settings_MainMenuOnly_Title>TODO</CE_Settings_MainMenuOnly_Title>
+  <!-- EN: You can only change these settings from the main menu to avoid gameplay issues. -->
+  <CE_Settings_MainMenuOnly_Desc>TODO</CE_Settings_MainMenuOnly_Desc>
+
+  <!-- ========== General settings ========== -->
+
+  <!-- EN: Show shell casings -->
+  <CE_Settings_ShowCasings_Title>TODO</CE_Settings_ShowCasings_Title>
+  <!-- EN: Firing weapons will display a dropped casing effect. -->
+  <CE_Settings_ShowCasings_Desc>TODO</CE_Settings_ShowCasings_Desc>
+
+  <!-- EN: Create shell casing filth -->
+  <CE_Settings_СreateCasingsFilth_Title>TODO</CE_Settings_СreateCasingsFilth_Title>
+  <!-- EN: Firing weapons will create cleanable filth of dropped casings. -->
+  <CE_Settings_СreateCasingsFilth_Desc>TODO</CE_Settings_СreateCasingsFilth_Desc>
+
+  <!-- EN: Show combat taunts -->
+  <CE_Settings_ShowTaunts_Title>TODO</CE_Settings_ShowTaunts_Title>
+  <!-- EN: Pawns will display text-based taunts during combat. -->
+  <CE_Settings_ShowTaunts_Desc>TODO</CE_Settings_ShowTaunts_Desc>
+
+  <!-- EN: Allow hunting with melee weapons -->
+  <CE_Settings_AllowMeleeHunting_Title>TODO</CE_Settings_AllowMeleeHunting_Title>
+  <!-- EN: Hunters will still be allowed to hunt if they have a melee weapon equipped. -->
+  <CE_Settings_AllowMeleeHunting_Desc>TODO</CE_Settings_AllowMeleeHunting_Desc>
+
+  <!-- EN: Toggle black smoke system -->
+  <CE_Settings_SmokeEffects_Title>TODO</CE_Settings_SmokeEffects_Title>
+  <!-- EN: Fire generates dangerous black smoke clouds, causing health complications to anyone not wearing protective gear. -->
+  <CE_Settings_SmokeEffects_Desc>TODO</CE_Settings_SmokeEffects_Desc>
+
+  <!-- EN: Merge explosions -->
+  <CE_Settings_MergeExplosions_Title>TODO</CE_Settings_MergeExplosions_Title>
+  <!-- EN: Nearby explosions are merged into eachother, significantly improving performance during a massive explosives cook-off. Strongly recommended to leave on. -->
+  <CE_Settings_MergeExplosions_Desc>TODO</CE_Settings_MergeExplosions_Desc>
+
+  <!-- EN: Disable shield belts while manning turrets -->
+  <CE_Settings_TurretsBreakShields_Title>TODO</CE_Settings_TurretsBreakShields_Title>
+  <!-- EN:  When enabled, shield belts will deactivate while colonists are manning turrets. If disabled, shield belts will instead remain active, offering additional protection. -->
+  <CE_Settings_TurretsBreakShields_Desc>TODO</CE_Settings_TurretsBreakShields_Desc>
+
+  <!-- EN: Show backpacks -->
+  <CE_Settings_ShowBackpacks_Title>TODO</CE_Settings_ShowBackpacks_Title>
+  <!-- EN: Enables / Disables the rendering of backpacks (all pawns) -->
+  <CE_Settings_ShowBackpacks_Desc>TODO</CE_Settings_ShowBackpacks_Desc>
+
+  <!-- EN: Show tactical vests -->
+  <CE_Settings_ShowWebbing_Title>TODO</CE_Settings_ShowWebbing_Title>
+  <!-- EN: Enables / Disables the rendering of tactical vests (all pawns) -->
+  <CE_Settings_ShowWebbing_Desc>TODO</CE_Settings_ShowWebbing_Desc>
+
+  <!-- EN: Turn on partial armor -->
+  <CE_Settings_PartialStats_Title>TODO</CE_Settings_PartialStats_Title>
+  <!-- EN: When turned on some armor might have different stats on different body parts -->
+  <CE_Settings_PartialStats_Desc>TODO</CE_Settings_PartialStats_Desc>
+
+  <!-- ========== Ammo settings ========== -->
+
+  <!-- EN: Enable ammunition system -->
+  <CE_Settings_EnableAmmoSystem_Title>TODO</CE_Settings_EnableAmmoSystem_Title>
+  <!-- EN: Weapons require ammunition to reload and can use various specialized ammo types.\n\nWARNING: Changing this setting on an existing colony may cause bugs and instability, do so at your own risk. -->
+  <CE_Settings_EnableAmmoSystem_Desc>TODO</CE_Settings_EnableAmmoSystem_Desc>
+
+  <!-- EN: Use generic ammo system -->
+  <CE_Settings_GenericAmmo>TODO</CE_Settings_GenericAmmo>
+  <!-- EN: Instead of using full caliber system use several generic calibers, while retaining ammo types and ammo system. (requires game reload) -->
+  <CE_Settings_GenericAmmo_Desc>TODO</CE_Settings_GenericAmmo_Desc>
+
+  <!-- EN: Use simplified ammo types system -->
+  <CE_Settings_EnableSimplifiedAmmo_Title>TODO</CE_Settings_EnableSimplifiedAmmo_Title>
+  <!-- EN: Reduces the number of ammo variants available.\nRemoves hollow point, sabot (bullets only), beanbag, slug, and armor piercing variants.\n\nWARNING: Changing this setting on an existing colony may cause bugs and instability, do so at your own risk. (requires game reload) -->
+  <CE_Settings_EnableSimplifiedAmmo_Desc>TODO</CE_Settings_EnableSimplifiedAmmo_Desc>
+
+  <!-- EN: Right-click ammo selection -->
+  <CE_Settings_RightClickAmmoSelect_Title>TODO</CE_Settings_RightClickAmmoSelect_Title>
+  <!-- EN: Right-clicking the reload button brings up the ammo selection menu. -->
+  <CE_Settings_RightClickAmmoSelect_Desc>TODO</CE_Settings_RightClickAmmoSelect_Desc>
+
+  <!-- EN: Auto-reload on ammo select -->
+  <CE_Settings_AutoReloadOnChangeAmmo_Title>TODO</CE_Settings_AutoReloadOnChangeAmmo_Title>
+  <!-- EN: Pawns will automatically reload when a new ammo type is selected. -->
+  <CE_Settings_AutoReloadOnChangeAmmo_Desc>TODO</CE_Settings_AutoReloadOnChangeAmmo_Desc>
+
+  <!-- EN: Auto-equip ammo -->
+  <CE_Settings_AutoTakeAmmo_Title>TODO</CE_Settings_AutoTakeAmmo_Title>
+  <!-- EN: Pawns without loadouts assigned will automatically pick up ammo for their equipped weapon. -->
+  <CE_Settings_AutoTakeAmmo_Desc>TODO</CE_Settings_AutoTakeAmmo_Desc>
+
+  <!-- EN: Display weapon caliber -->
+  <CE_Settings_ShowCaliberOnGuns_Title>TODO</CE_Settings_ShowCaliberOnGuns_Title>
+  <!-- EN: Ammunition-using weapons will have their caliber appended behind their name. -->
+  <CE_Settings_ShowCaliberOnGuns_Desc>TODO</CE_Settings_ShowCaliberOnGuns_Desc>
+
+  <!-- EN: Re-use neolithic projectiles -->
+  <CE_Settings_ReuseNeolithicProjectiles_Title>TODO</CE_Settings_ReuseNeolithicProjectiles_Title>
+  <!-- EN: Neolithic projectiles will have a chance to drop on the floor on impact. They are automatically forbidden. -->
+  <CE_Settings_ReuseNeolithicProjectiles_Desc>TODO</CE_Settings_ReuseNeolithicProjectiles_Desc>
+
+  <!-- EN: Realistic cook-off -->
+  <CE_Settings_RealisticCookOff_Title>TODO</CE_Settings_RealisticCookOff_Title>
+  <!-- EN: Ammunition stacks won't spawn damaging projectiles on cooking off. -->
+  <CE_Settings_RealisticCookOff_Desc>TODO</CE_Settings_RealisticCookOff_Desc>
+
+  <!-- EN: Enables extra tooltips for the cell under the mouse pointer (hold left-shift to view). -->
+  <CE_Settings_ShowExtraTooltips_Desc>TODO</CE_Settings_ShowExtraTooltips_Desc>
+  <!-- EN: Show extra tooltips -->
+  <CE_Settings_ShowExtraTooltips_Title>TODO</CE_Settings_ShowExtraTooltips_Title>
+
+  <!-- EN: Enables extra (internal, redundant, or confusing) stats in some info cards. -->
+  <CE_Settings_ShowExtraStats_Desc>TODO</CE_Settings_ShowExtraStats_Desc>
+  <!-- EN: Show extra stats -->
+  <CE_Settings_ShowExtraStats_Title>TODO</CE_Settings_ShowExtraStats_Title>
+
+  <!-- EN: If true, damaging walls can generate fragments -->
+  <CE_Settings_FragmentsFromWalls_Desc>TODO</CE_Settings_FragmentsFromWalls_Desc>
+  <!-- EN: Fragments from walls -->
+  <CE_Settings_FragmentsFromWalls_Title>TODO</CE_Settings_FragmentsFromWalls_Title>
+
+  <!-- EN: If true, subsequent shots at the same, or nearby, targets are faster. -->
+  <CE_Settings_FasterRepeatShots_Desc>TODO</CE_Settings_FasterRepeatShots_Desc>
+  <!-- EN: Faster subsequent shots -->
+  <CE_Settings_FasterRepeatShots_Title>TODO</CE_Settings_FasterRepeatShots_Title>
+
+  <!-- ========== Bipod settings ========== -->
+
+  <!-- EN: Bipod settings -->
+  <CE_Settings_BipodSettings>TODO</CE_Settings_BipodSettings>
+
+  <!-- EN: Use bipod mechanics -->
+  <CE_Settings_BipodMechanics_Title>TODO</CE_Settings_BipodMechanics_Title>
+  <!-- EN: Some weapons will be equipped with bipods, giving penalties when not set up and slight bonuses when set up. -->
+  <CE_Settings_BipodMechanics_Desc>TODO</CE_Settings_BipodMechanics_Desc>
+
+  <!-- EN: Toggle bipod autosetup -->
+  <CE_Settings_BipodAutoSetUp_Title>TODO</CE_Settings_BipodAutoSetUp_Title>
+  <!-- EN: Weapons with bipods will automatically start setting up when not set to snapshot. -->
+  <CE_Settings_BipodAutoSetUp_Desc>TODO</CE_Settings_BipodAutoSetUp_Desc>
+
+</LanguageData>

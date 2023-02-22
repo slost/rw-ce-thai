@@ -1,0 +1,31 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 12 gauge charged shell -->
+  <Ammo_12GaugeCharged.label>TODO</Ammo_12GaugeCharged.label>
+  <!-- EN: Multi-pellet charge shot cartridge designed for shotgun-type weapons. -->
+  <Ammo_12GaugeCharged.description>TODO</Ammo_12GaugeCharged.description>
+
+  <!-- EN: 12 gauge charged shell (Slug) -->
+  <Ammo_12GaugeCharged_Slug.label>TODO</Ammo_12GaugeCharged_Slug.label>
+  <!-- EN: Multi-pellet charge shot cartridge designed for shotgun-type weapons. -->
+  <Ammo_12GaugeCharged_Slug.description>TODO</Ammo_12GaugeCharged_Slug.description>
+
+  <!-- EN: 12 gauge charged shell (Ion Shot) -->
+  <Ammo_12GaugeCharged_Ion.label>TODO</Ammo_12GaugeCharged_Ion.label>
+  <!-- EN: Multi-pellet charge shot cartridge designed for shotgun-type weapons. -->
+  <Ammo_12GaugeCharged_Ion.description>TODO</Ammo_12GaugeCharged_Ion.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: charge shot pellet -->
+  <Bullet_12GaugeCharged.label>TODO</Bullet_12GaugeCharged.label>
+  <!-- EN: charge shot (Slug) -->
+  <Bullet_12GaugeCharged_Slug.label>TODO</Bullet_12GaugeCharged_Slug.label>
+  <!-- EN: charge shot (Ion shot) -->
+  <Bullet_12GaugeCharged_Ion.label>TODO</Bullet_12GaugeCharged_Ion.label>
+
+
+</LanguageData>

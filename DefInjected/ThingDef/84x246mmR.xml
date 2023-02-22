@@ -1,0 +1,24 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 84x246mmR cartridge (HEAT) -->
+  <Ammo_84x246mmR_HEAT.label>TODO</Ammo_84x246mmR_HEAT.label>
+  <!-- EN: Recoilless cartridge designed for use with the Carl Gustav rifle. -->
+  <Ammo_84x246mmR_HEAT.description>TODO</Ammo_84x246mmR_HEAT.description>
+
+  <!-- EN: 84x246mmR cartridge (HE) -->
+  <Ammo_84x246mmR_HE.label>TODO</Ammo_84x246mmR_HE.label>
+  <!-- EN: Recoilless cartridge designed for use with the Carl Gustav rifle. -->
+  <Ammo_84x246mmR_HE.description>TODO</Ammo_84x246mmR_HE.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 84x246mmR shell (HEAT) -->
+  <Bullet_84x246mmR_HEAT.label>TODO</Bullet_84x246mmR_HEAT.label>
+  <!-- EN: 84x246mmR shell (HE) -->
+  <Bullet_84x246mmR_HE.label>TODO</Bullet_84x246mmR_HE.label>
+
+
+</LanguageData>

@@ -1,0 +1,31 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 8x35mm Charged cartridge -->
+  <Ammo_8x35mmCharged.label>TODO</Ammo_8x35mmCharged.label>
+  <!-- EN: Charged shot ammo used by advanced assault rifle designs. -->
+  <Ammo_8x35mmCharged.description>TODO</Ammo_8x35mmCharged.description>
+
+  <!-- EN: 8x35mm Charged cartridge (Conc.) -->
+  <Ammo_8x35mmCharged_AP.label>TODO</Ammo_8x35mmCharged_AP.label>
+  <!-- EN: Charged shot ammo used by advanced assault rifle designs. -->
+  <Ammo_8x35mmCharged_AP.description>TODO</Ammo_8x35mmCharged_AP.description>
+
+  <!-- EN: 8x35mm Charged cartridge (Ion) -->
+  <Ammo_8x35mmCharged_Ion.label>TODO</Ammo_8x35mmCharged_Ion.label>
+  <!-- EN: Charged shot ammo used by advanced assault rifle designs. -->
+  <Ammo_8x35mmCharged_Ion.description>TODO</Ammo_8x35mmCharged_Ion.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 8x35mm Charged bullet -->
+  <Bullet_8x35mmCharged.label>TODO</Bullet_8x35mmCharged.label>
+  <!-- EN: 8x35mm Charged bullet (Conc.) -->
+  <Bullet_8x35mmCharged_AP.label>TODO</Bullet_8x35mmCharged_AP.label>
+  <!-- EN: 8x35mm Charged bullet (Ion) -->
+  <Bullet_8x35mmCharged_Ion.label>TODO</Bullet_8x35mmCharged_Ion.label>
+
+
+</LanguageData>

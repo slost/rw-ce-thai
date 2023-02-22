@@ -1,0 +1,27 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make .25 ACP cartridge x500 -->
+  <MakeAmmo_25ACP_FMJ.label>TODO</MakeAmmo_25ACP_FMJ.label>
+  <!-- EN: Craft 500 .25 ACP cartridges. -->
+  <MakeAmmo_25ACP_FMJ.description>TODO</MakeAmmo_25ACP_FMJ.description>
+  <!-- EN: Making .25 ACP cartridges. -->
+  <MakeAmmo_25ACP_FMJ.jobString>TODO</MakeAmmo_25ACP_FMJ.jobString>
+
+  <!-- EN: make .25 ACP (AP) cartridge x500 -->
+  <MakeAmmo_25ACP_AP.label>TODO</MakeAmmo_25ACP_AP.label>
+  <!-- EN: Craft 500 .25 ACP (AP) cartridges. -->
+  <MakeAmmo_25ACP_AP.description>TODO</MakeAmmo_25ACP_AP.description>
+  <!-- EN: Making .25 ACP (AP) cartridges. -->
+  <MakeAmmo_25ACP_AP.jobString>TODO</MakeAmmo_25ACP_AP.jobString>
+
+  <!-- EN: make .25 ACP (HP) cartridge x500 -->
+  <MakeAmmo_25ACP_HP.label>TODO</MakeAmmo_25ACP_HP.label>
+  <!-- EN: Craft 500 .25 ACP (HP) cartridges. -->
+  <MakeAmmo_25ACP_HP.description>TODO</MakeAmmo_25ACP_HP.description>
+  <!-- EN: Making .25 ACP (HP) cartridges. -->
+  <MakeAmmo_25ACP_HP.jobString>TODO</MakeAmmo_25ACP_HP.jobString>
+
+
+</LanguageData>

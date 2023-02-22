@@ -1,0 +1,41 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make 60mm HE mortar shells x5 -->
+  <MakeShell_60mmMortar_HE.label>TODO</MakeShell_60mmMortar_HE.label>
+  <!-- EN: Craft 5 60mm HE mortar shells. -->
+  <MakeShell_60mmMortar_HE.description>TODO</MakeShell_60mmMortar_HE.description>
+  <!-- EN: Making 60mm HE mortar shells. -->
+  <MakeShell_60mmMortar_HE.jobString>TODO</MakeShell_60mmMortar_HE.jobString>
+
+  <!-- EN: make 60mm incendiary mortar shells x5 -->
+  <MakeShell_60mmMortar_Incendiary.label>TODO</MakeShell_60mmMortar_Incendiary.label>
+  <!-- EN: Craft 5 60mm incendiary mortar shells. -->
+  <MakeShell_60mmMortar_Incendiary.description>TODO</MakeShell_60mmMortar_Incendiary.description>
+  <!-- EN: Making 60mm incendiary mortar shells. -->
+  <MakeShell_60mmMortar_Incendiary.jobString>TODO</MakeShell_60mmMortar_Incendiary.jobString>
+
+  <!-- EN: make 60mm EMP mortar shells x5 -->
+  <MakeShell_60mmMortar_EMP.label>TODO</MakeShell_60mmMortar_EMP.label>
+  <!-- EN: Craft 5 60mm EMP mortar shells. -->
+  <MakeShell_60mmMortar_EMP.description>TODO</MakeShell_60mmMortar_EMP.description>
+  <!-- EN: Making 60mm EMP mortar shells. -->
+  <MakeShell_60mmMortar_EMP.jobString>TODO</MakeShell_60mmMortar_EMP.jobString>
+
+  <!-- EN: make 60mm firefoam mortar shells x5 -->
+  <MakeShell_60mmMortar_Firefoam.label>TODO</MakeShell_60mmMortar_Firefoam.label>
+  <!-- EN: Craft 5 60mm firefoam mortar shells. -->
+  <MakeShell_60mmMortar_Firefoam.description>TODO</MakeShell_60mmMortar_Firefoam.description>
+  <!-- EN: Making 60mm firefoam mortar shells. -->
+  <MakeShell_60mmMortar_Firefoam.jobString>TODO</MakeShell_60mmMortar_Firefoam.jobString>
+
+  <!-- EN: make 60mm smoke mortar shells x5 -->
+  <MakeShell_60mmMortar_Smoke.label>TODO</MakeShell_60mmMortar_Smoke.label>
+  <!-- EN: Craft 5 60mm smoke mortar shells. -->
+  <MakeShell_60mmMortar_Smoke.description>TODO</MakeShell_60mmMortar_Smoke.description>
+  <!-- EN: Making 60mm smoke mortar shells. -->
+  <MakeShell_60mmMortar_Smoke.jobString>TODO</MakeShell_60mmMortar_Smoke.jobString>
+
+
+</LanguageData>

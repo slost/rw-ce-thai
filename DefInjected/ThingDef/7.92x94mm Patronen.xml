@@ -1,0 +1,45 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 7.92x94mm Patronen cartridge (FMJ) -->
+  <Ammo_792x94mmPatronen_FMJ.label>TODO</Ammo_792x94mmPatronen_FMJ.label>
+  <!-- EN: Old-school anti-tank cartridge originally designed for AT rifles. -->
+  <Ammo_792x94mmPatronen_FMJ.description>TODO</Ammo_792x94mmPatronen_FMJ.description>
+
+  <!-- EN: 7.92x94mm Patronen cartridge (AP) -->
+  <Ammo_792x94mmPatronen_AP.label>TODO</Ammo_792x94mmPatronen_AP.label>
+  <!-- EN: Old-school anti-tank cartridge originally designed for AT rifles. -->
+  <Ammo_792x94mmPatronen_AP.description>TODO</Ammo_792x94mmPatronen_AP.description>
+
+  <!-- EN: 7.92x94mm Patronen cartridge (AP-I) -->
+  <Ammo_792x94mmPatronen_Incendiary.label>TODO</Ammo_792x94mmPatronen_Incendiary.label>
+  <!-- EN: Old-school anti-tank cartridge originally designed for AT rifles. -->
+  <Ammo_792x94mmPatronen_Incendiary.description>TODO</Ammo_792x94mmPatronen_Incendiary.description>
+
+  <!-- EN: 7.92x94mm Patronen cartridge (AP-HE) -->
+  <Ammo_792x94mmPatronen_HE.label>TODO</Ammo_792x94mmPatronen_HE.label>
+  <!-- EN: Old-school anti-tank cartridge originally designed for AT rifles. -->
+  <Ammo_792x94mmPatronen_HE.description>TODO</Ammo_792x94mmPatronen_HE.description>
+
+  <!-- EN: 7.92x94mm Patronen cartridge (Sabot) -->
+  <Ammo_792x94mmPatronen_Sabot.label>TODO</Ammo_792x94mmPatronen_Sabot.label>
+  <!-- EN: Old-school anti-tank cartridge originally designed for AT rifles. -->
+  <Ammo_792x94mmPatronen_Sabot.description>TODO</Ammo_792x94mmPatronen_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 7.92x94mm Patronen bullet (FMJ) -->
+  <Bullet_792x94mmPatronen_FMJ.label>TODO</Bullet_792x94mmPatronen_FMJ.label>
+  <!-- EN: 7.92x94mm Patronen bullet (AP) -->
+  <Bullet_792x94mmPatronen_AP.label>TODO</Bullet_792x94mmPatronen_AP.label>
+  <!-- EN: 7.92x94mm Patronen bullet (AP-I) -->
+  <Bullet_792x94mmPatronen_Incendiary.label>TODO</Bullet_792x94mmPatronen_Incendiary.label>
+  <!-- EN: 7.92x94mm Patronen bullet (AP-HE) -->
+  <Bullet_792x94mmPatronen_HE.label>TODO</Bullet_792x94mmPatronen_HE.label>
+  <!-- EN: 7.92x94mm Patronen bullet (Sabot) -->
+  <Bullet_792x94mmPatronen_Sabot.label>TODO</Bullet_792x94mmPatronen_Sabot.label>
+
+
+</LanguageData>

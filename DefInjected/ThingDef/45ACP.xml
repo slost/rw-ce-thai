@@ -1,0 +1,31 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: .45 ACP cartridge (FMJ) -->
+  <Ammo_45ACP_FMJ.label>TODO</Ammo_45ACP_FMJ.label>
+  <!-- EN: Pistol cartridge favoured for its above average stopping power. -->
+  <Ammo_45ACP_FMJ.description>TODO</Ammo_45ACP_FMJ.description>
+
+  <!-- EN: .45 ACP cartridge (AP) -->
+  <Ammo_45ACP_AP.label>TODO</Ammo_45ACP_AP.label>
+  <!-- EN: Pistol cartridge favoured for its above average stopping power. -->
+  <Ammo_45ACP_AP.description>TODO</Ammo_45ACP_AP.description>
+
+  <!-- EN: .45 ACP cartridge (HP) -->
+  <Ammo_45ACP_HP.label>TODO</Ammo_45ACP_HP.label>
+  <!-- EN: Pistol cartridge favoured for its above average stopping power. -->
+  <Ammo_45ACP_HP.description>TODO</Ammo_45ACP_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: .45 ACP bullet (FMJ) -->
+  <Bullet_45ACP_FMJ.label>TODO</Bullet_45ACP_FMJ.label>
+  <!-- EN: .45 ACP bullet (AP) -->
+  <Bullet_45ACP_AP.label>TODO</Bullet_45ACP_AP.label>
+  <!-- EN: .45 ACP bullet (HP) -->
+  <Bullet_45ACP_HP.label>TODO</Bullet_45ACP_HP.label>
+
+
+</LanguageData>

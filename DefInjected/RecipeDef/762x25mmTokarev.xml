@@ -1,0 +1,27 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make 7.62x25mm Tokarev (FMJ) cartridge x500 -->
+  <MakeAmmo_762x25mmTokarev_FMJ.label>TODO</MakeAmmo_762x25mmTokarev_FMJ.label>
+  <!-- EN: Craft 500 7.62x25mm Tokarev (FMJ) cartridges. -->
+  <MakeAmmo_762x25mmTokarev_FMJ.description>TODO</MakeAmmo_762x25mmTokarev_FMJ.description>
+  <!-- EN: Making 7.62x25mm Tokarev (FMJ) cartridges. -->
+  <MakeAmmo_762x25mmTokarev_FMJ.jobString>TODO</MakeAmmo_762x25mmTokarev_FMJ.jobString>
+
+  <!-- EN: make 7.62x25mm Tokarev (AP) cartridge x500 -->
+  <MakeAmmo_762x25mmTokarev_AP.label>TODO</MakeAmmo_762x25mmTokarev_AP.label>
+  <!-- EN: Craft 500 7.62x25mm Tokarev (AP) cartridges. -->
+  <MakeAmmo_762x25mmTokarev_AP.description>TODO</MakeAmmo_762x25mmTokarev_AP.description>
+  <!-- EN: Making 7.62x25mm Tokarev (AP) cartridges. -->
+  <MakeAmmo_762x25mmTokarev_AP.jobString>TODO</MakeAmmo_762x25mmTokarev_AP.jobString>
+
+  <!-- EN: make 7.62x25mm Tokarev (HP) cartridge x500 -->
+  <MakeAmmo_762x25mmTokarev_HP.label>TODO</MakeAmmo_762x25mmTokarev_HP.label>
+  <!-- EN: Craft 500 7.62x25mm Tokarev (HP) cartridges. -->
+  <MakeAmmo_762x25mmTokarev_HP.description>TODO</MakeAmmo_762x25mmTokarev_HP.description>
+  <!-- EN: Making 7.62x25mm Tokarev (HP) cartridges. -->
+  <MakeAmmo_762x25mmTokarev_HP.jobString>TODO</MakeAmmo_762x25mmTokarev_HP.jobString>
+
+
+</LanguageData>

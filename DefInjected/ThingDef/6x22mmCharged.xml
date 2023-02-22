@@ -1,0 +1,17 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 6x22mm Charged cartridge -->
+  <Ammo_6x22mmCharged.label>TODO</Ammo_6x22mmCharged.label>
+  <!-- EN: Mechanoid-built charged shot ammo used in mid range assault weapons. -->
+  <Ammo_6x22mmCharged.description>TODO</Ammo_6x22mmCharged.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 6x22mm Charged bullet -->
+  <Bullet_6x22mmCharged.label>TODO</Bullet_6x22mmCharged.label>
+
+
+</LanguageData>

@@ -1,0 +1,31 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: .25 ACP cartridge (FMJ) -->
+  <Ammo_25ACP_FMJ.label>TODO</Ammo_25ACP_FMJ.label>
+  <!-- EN: Low caliber handgun cartridge lacking in stopping power. -->
+  <Ammo_25ACP_FMJ.description>TODO</Ammo_25ACP_FMJ.description>
+
+  <!-- EN: .25 ACP cartridge (AP) -->
+  <Ammo_25ACP_AP.label>TODO</Ammo_25ACP_AP.label>
+  <!-- EN: Low caliber handgun cartridge lacking in stopping power. -->
+  <Ammo_25ACP_AP.description>TODO</Ammo_25ACP_AP.description>
+
+  <!-- EN: .25 ACP cartridge (HP) -->
+  <Ammo_25ACP_HP.label>TODO</Ammo_25ACP_HP.label>
+  <!-- EN: Low caliber handgun cartridge lacking in stopping power. -->
+  <Ammo_25ACP_HP.description>TODO</Ammo_25ACP_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: .25 ACP bullet (FMJ) -->
+  <Bullet_25ACP_FMJ.label>TODO</Bullet_25ACP_FMJ.label>
+  <!-- EN: .25 ACP bullet (AP) -->
+  <Bullet_25ACP_AP.label>TODO</Bullet_25ACP_AP.label>
+  <!-- EN: .25 ACP bullet (HP) -->
+  <Bullet_25ACP_HP.label>TODO</Bullet_25ACP_HP.label>
+
+
+</LanguageData>

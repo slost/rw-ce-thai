@@ -1,0 +1,27 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make .455 Webley (FMJ) cartridge x500 -->
+  <MakeAmmo_455Webley_FMJ.label>TODO</MakeAmmo_455Webley_FMJ.label>
+  <!-- EN: Craft 500 .455 Webley (FMJ) cartridges. -->
+  <MakeAmmo_455Webley_FMJ.description>TODO</MakeAmmo_455Webley_FMJ.description>
+  <!-- EN: Making .455 Webley (FMJ) cartridges. -->
+  <MakeAmmo_455Webley_FMJ.jobString>TODO</MakeAmmo_455Webley_FMJ.jobString>
+
+  <!-- EN: make .455 Webley (AP) cartridge x500 -->
+  <MakeAmmo_455Webley_AP.label>TODO</MakeAmmo_455Webley_AP.label>
+  <!-- EN: Craft 500 .455 Webley (AP) cartridges. -->
+  <MakeAmmo_455Webley_AP.description>TODO</MakeAmmo_455Webley_AP.description>
+  <!-- EN: Making .455 Webley (AP) cartridges. -->
+  <MakeAmmo_455Webley_AP.jobString>TODO</MakeAmmo_455Webley_AP.jobString>
+
+  <!-- EN: make .455 Webley (HP) cartridge x500 -->
+  <MakeAmmo_455Webley_HP.label>TODO</MakeAmmo_455Webley_HP.label>
+  <!-- EN: Craft 500 .455 Webley (HP) cartridges. -->
+  <MakeAmmo_455Webley_HP.description>TODO</MakeAmmo_455Webley_HP.description>
+  <!-- EN: Making .455 Webley (HP) cartridges. -->
+  <MakeAmmo_455Webley_HP.jobString>TODO</MakeAmmo_455Webley_HP.jobString>
+
+
+</LanguageData>

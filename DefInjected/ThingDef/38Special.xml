@@ -1,0 +1,31 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: .38 Special cartridge (FMJ) -->
+  <Ammo_38Special_FMJ.label>TODO</Ammo_38Special_FMJ.label>
+  <!-- EN: Ancient low-power revolver cartridge renowned for its manageability. -->
+  <Ammo_38Special_FMJ.description>TODO</Ammo_38Special_FMJ.description>
+
+  <!-- EN: .38 Special cartridge (AP) -->
+  <Ammo_38Special_AP.label>TODO</Ammo_38Special_AP.label>
+  <!-- EN: Ancient low-power revolver cartridge renowned for its manageability. -->
+  <Ammo_38Special_AP.description>TODO</Ammo_38Special_AP.description>
+
+  <!-- EN: .38 Special cartridge (HP) -->
+  <Ammo_38Special_HP.label>TODO</Ammo_38Special_HP.label>
+  <!-- EN: Ancient low-power revolver cartridge renowned for its manageability. -->
+  <Ammo_38Special_HP.description>TODO</Ammo_38Special_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: .38 Special bullet (FMJ) -->
+  <Bullet_38Special_FMJ.label>TODO</Bullet_38Special_FMJ.label>
+  <!-- EN: .38 Special bullet (AP) -->
+  <Bullet_38Special_AP.label>TODO</Bullet_38Special_AP.label>
+  <!-- EN: .38 Special bullet (HP) -->
+  <Bullet_38Special_HP.label>TODO</Bullet_38Special_HP.label>
+
+
+</LanguageData>

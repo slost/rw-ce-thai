@@ -1,0 +1,20 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make 84x246mmR HEAT cartridges x5 -->
+  <MakeAmmo_84x246mmR_HEAT.label>TODO</MakeAmmo_84x246mmR_HEAT.label>
+  <!-- EN: Craft 5 84x246mmR HEAT cartridges. -->
+  <MakeAmmo_84x246mmR_HEAT.description>TODO</MakeAmmo_84x246mmR_HEAT.description>
+  <!-- EN: Making 84x246mmR HEAT cartridge. -->
+  <MakeAmmo_84x246mmR_HEAT.jobString>TODO</MakeAmmo_84x246mmR_HEAT.jobString>
+
+  <!-- EN: make 84x246mmR HE cartridge x5 -->
+  <MakeAmmo_84x246mmR_HE.label>TODO</MakeAmmo_84x246mmR_HE.label>
+  <!-- EN: Craft 5 84x246mmR HE cartridges. -->
+  <MakeAmmo_84x246mmR_HE.description>TODO</MakeAmmo_84x246mmR_HE.description>
+  <!-- EN: Making 84x246mmR HE cartridges. -->
+  <MakeAmmo_84x246mmR_HE.jobString>TODO</MakeAmmo_84x246mmR_HE.jobString>
+
+
+</LanguageData>

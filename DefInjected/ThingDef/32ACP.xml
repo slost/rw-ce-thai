@@ -1,0 +1,31 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: .32 ACP cartridge (FMJ) -->
+  <Ammo_32ACP_FMJ.label>TODO</Ammo_32ACP_FMJ.label>
+  <!-- EN: Low caliber handgun cartridge lacking in stopping power. -->
+  <Ammo_32ACP_FMJ.description>TODO</Ammo_32ACP_FMJ.description>
+
+  <!-- EN: .32 ACP cartridge (AP) -->
+  <Ammo_32ACP_AP.label>TODO</Ammo_32ACP_AP.label>
+  <!-- EN: Low caliber handgun cartridge lacking in stopping power. -->
+  <Ammo_32ACP_AP.description>TODO</Ammo_32ACP_AP.description>
+
+  <!-- EN: .32 ACP cartridge (HP) -->
+  <Ammo_32ACP_HP.label>TODO</Ammo_32ACP_HP.label>
+  <!-- EN: Low caliber handgun cartridge lacking in stopping power. -->
+  <Ammo_32ACP_HP.description>TODO</Ammo_32ACP_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: .32 ACP bullet (FMJ) -->
+  <Bullet_32ACP_FMJ.label>TODO</Bullet_32ACP_FMJ.label>
+  <!-- EN: .32 ACP bullet (AP) -->
+  <Bullet_32ACP_AP.label>TODO</Bullet_32ACP_AP.label>
+  <!-- EN: .32 ACP bullet (HP) -->
+  <Bullet_32ACP_HP.label>TODO</Bullet_32ACP_HP.label>
+
+
+</LanguageData>

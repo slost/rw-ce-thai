@@ -1,0 +1,52 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: .30-06 Springfield cartridge (FMJ) -->
+  <Ammo_3006Springfield_FMJ.label>TODO</Ammo_3006Springfield_FMJ.label>
+  <!-- EN: Large rifle bullet used in machine guns and battle rifles. -->
+  <Ammo_3006Springfield_FMJ.description>TODO</Ammo_3006Springfield_FMJ.description>
+
+  <!-- EN: .30-06 Springfield cartridge (AP) -->
+  <Ammo_3006Springfield_AP.label>TODO</Ammo_3006Springfield_AP.label>
+  <!-- EN: Large rifle bullet used in machine guns and battle rifles. -->
+  <Ammo_3006Springfield_AP.description>TODO</Ammo_3006Springfield_AP.description>
+
+  <!-- EN: .30-06 Springfield cartridge (HP) -->
+  <Ammo_3006Springfield_HP.label>TODO</Ammo_3006Springfield_HP.label>
+  <!-- EN: Large rifle bullet used in machine guns and battle rifles. -->
+  <Ammo_3006Springfield_HP.description>TODO</Ammo_3006Springfield_HP.description>
+
+  <!-- EN: .30-06 Springfield cartridge (AP-I) -->
+  <Ammo_3006Springfield_Incendiary.label>TODO</Ammo_3006Springfield_Incendiary.label>
+  <!-- EN: Large rifle bullet used in machine guns and battle rifles. -->
+  <Ammo_3006Springfield_Incendiary.description>TODO</Ammo_3006Springfield_Incendiary.description>
+
+  <!-- EN: .30-06 Springfield cartridge (AP-HE) -->
+  <Ammo_3006Springfield_HE.label>TODO</Ammo_3006Springfield_HE.label>
+  <!-- EN: Large rifle bullet used in machine guns and battle rifles. -->
+  <Ammo_3006Springfield_HE.description>TODO</Ammo_3006Springfield_HE.description>
+
+  <!-- EN: .30-06 Springfield cartridge (Sabot) -->
+  <Ammo_3006Springfield_Sabot.label>TODO</Ammo_3006Springfield_Sabot.label>
+  <!-- EN: Large rifle bullet used in machine guns and battle rifles. -->
+  <Ammo_3006Springfield_Sabot.description>TODO</Ammo_3006Springfield_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: .30-06 Springfield cartridge (FMJ) -->
+  <Bullet_3006Springfield_FMJ.label>TODO</Bullet_3006Springfield_FMJ.label>
+  <!-- EN: .30-06 Springfield cartridge (AP) -->
+  <Bullet_3006Springfield_AP.label>TODO</Bullet_3006Springfield_AP.label>
+  <!-- EN: .30-06 Springfield cartridge (HP) -->
+  <Bullet_3006Springfield_HP.label>TODO</Bullet_3006Springfield_HP.label>
+  <!-- EN: .30-06 Springfield bullet (AP-I) -->
+  <Bullet_3006Springfield_Incendiary.label>TODO</Bullet_3006Springfield_Incendiary.label>
+  <!-- EN: .30-06 Springfield bullet (AP-HE) -->
+  <Bullet_3006Springfield_HE.label>TODO</Bullet_3006Springfield_HE.label>
+  <!-- EN: .30-06 Springfield bullet (Sabot) -->
+  <Bullet_3006Springfield_Sabot.label>TODO</Bullet_3006Springfield_Sabot.label>
+
+
+</LanguageData>

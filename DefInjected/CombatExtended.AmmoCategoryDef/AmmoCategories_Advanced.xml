@@ -1,0 +1,98 @@
+<LanguageData>
+
+  <!-- EN: charge -->
+  <Charged.label>TODO</Charged.label>
+  <!-- EN: The charged particle coating disrupts armor and tissue in equal measure. -->
+  <Charged.description>TODO</Charged.description>
+
+  <!-- EN: concentrated charge -->
+  <ChargedAP.label>TODO</ChargedAP.label>
+  <!-- EN: conc. -->
+  <ChargedAP.labelShort>TODO</ChargedAP.labelShort>
+  <!-- EN: Focuses charged particles around the tip of the core for improved armor penetration at the cost of stopping power. -->
+  <ChargedAP.description>TODO</ChargedAP.description>
+
+  <!-- EN: ion charge -->
+  <Ionized.label>TODO</Ionized.label>
+  <!-- EN: ion -->
+  <Ionized.labelShort>TODO</Ionized.labelShort>
+  <!-- EN: Designed to combat mechanoids, the round creates an electrical current on impact, disrupting electronic systems temporarily. -->
+  <Ionized.description>TODO</Ionized.description>
+
+  <!-- EN: incendiary -->
+  <IncendiaryFuel.label>TODO</IncendiaryFuel.label>
+  <!-- EN: Filled with incendiary agent that ignites after impact. -->
+  <IncendiaryFuel.description>TODO</IncendiaryFuel.description>
+
+  <!-- EN: jellied chemfuel -->
+  <NapalmFuel.label>TODO</NapalmFuel.label>
+  <!-- EN: Highly flammable liquid, burns over time and catches nearby objects on fire. -->
+  <NapalmFuel.description>TODO</NapalmFuel.description>
+
+  <!-- EN: jellied prometheum -->
+  <JelliedPrometheumFuel.label>TODO</JelliedPrometheumFuel.label>
+  <!-- EN: Advanced pyrophoric compound in gel-form. Self-ignites on contact with air, sticks to skin and seeps into openings, burning even mechanoids. -->
+  <JelliedPrometheumFuel.description>TODO</JelliedPrometheumFuel.description>
+
+  <!-- EN: thermobaric -->
+  <ThermobaricFuel.label>TODO</ThermobaricFuel.label>
+  <!-- EN: Filled with high-explosive aerosol that causes a large explosion and ignites flammable materials. -->
+  <ThermobaricFuel.description>TODO</ThermobaricFuel.description>
+
+  <!-- EN: foam -->
+  <FoamFuel.label>TODO</FoamFuel.label>
+  <!-- EN: Special round designed for civilian fire-fighting purposes. Filled with fire-retardant foam to suppress fires in a large area. -->
+  <FoamFuel.description>TODO</FoamFuel.description>
+
+  <!-- EN: antigrain warhead -->
+  <Antigrain.label>TODO</Antigrain.label>
+  <!-- EN: A tiny ultra-tech warhead usually used by spacecraft or glitterworld war machines. Powered by a grain of antimatter, it creates a huge explosion and starts fires around the target. -->
+  <Antigrain.description>TODO</Antigrain.description>
+
+
+  <!-- For Vanilla-Friendly Weapons Expansion -->
+
+  <!-- EN: radioactive (ionising) -->
+  <RadiationIonising.label>TODO</RadiationIonising.label>
+  <!-- EN: stone -->
+  <RadiationIonising.labelShort>TODO</RadiationIonising.labelShort>
+  <!-- EN: Contains ionising gamma radiation that significantly impairs consciousness, and is a carcinogen. -->
+  <RadiationIonising.description>TODO</RadiationIonising.description>
+
+
+  <!-- For Forsakens -->
+
+  <!-- EN: forsaken arrow -->
+  <ForsakenArrow.label>TODO</ForsakenArrow.label>
+  <!-- EN: forsaken -->
+  <ForsakenArrow.labelShort>TODO</ForsakenArrow.labelShort>
+  <!-- EN: Designed to be fired from a forsaken bow. -->
+  <ForsakenArrow.description>TODO</ForsakenArrow.description>
+
+
+  <!-- For Glitter Tech -->
+
+  <!-- EN: Plasma -->
+  <Plasma.label>TODO</Plasma.label>
+  <!-- EN: plasma -->
+  <Plasma.labelShort>TODO</Plasma.labelShort>
+  <!-- EN: Highly-energized ionized gas capable of devastating burn effects. -->
+  <Plasma.description>TODO</Plasma.description>
+
+  <!-- EN: Railgun sabot -->
+  <RailgunSabot.label>TODO</RailgunSabot.label>
+  <!-- EN: Sabot -->
+  <RailgunSabot.labelShort>TODO</RailgunSabot.labelShort>
+  <!-- EN: Uses a discarding sabot to fire an undersized projectile at higher muzzle velocities, greatly improving armor penetration. -->
+  <RailgunSabot.description>TODO</RailgunSabot.description>
+
+
+  <!-- For Misc TurretBase -->
+
+  <!-- EN: nanobots (MT) -->
+  <NanobotsMT.label>TODO</NanobotsMT.label>
+  <!-- EN: The nanobots inside this projectile will create a micro-turret near the place of impact. -->
+  <NanobotsMT.description>TODO</NanobotsMT.description>
+
+
+</LanguageData>

@@ -1,0 +1,31 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: .380 ACP cartridge (FMJ) -->
+  <Ammo_380ACP_FMJ.label>TODO</Ammo_380ACP_FMJ.label>
+  <!-- EN: Common pistol cartridge used by a handguns and SMGs. -->
+  <Ammo_380ACP_FMJ.description>TODO</Ammo_380ACP_FMJ.description>
+
+  <!-- EN: .380 ACP cartridge (AP) -->
+  <Ammo_380ACP_AP.label>TODO</Ammo_380ACP_AP.label>
+  <!-- EN: Common pistol cartridge used by a handguns and SMGs. -->
+  <Ammo_380ACP_AP.description>TODO</Ammo_380ACP_AP.description>
+
+  <!-- EN: .380 ACP cartridge (HP) -->
+  <Ammo_380ACP_HP.label>TODO</Ammo_380ACP_HP.label>
+  <!-- EN: Common pistol cartridge used by a handguns and SMGs. -->
+  <Ammo_380ACP_HP.description>TODO</Ammo_380ACP_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: .380 ACP bullet (FMJ) -->
+  <Bullet_380ACP_FMJ.label>TODO</Bullet_380ACP_FMJ.label>
+  <!-- EN: .380 ACP bullet (AP) -->
+  <Bullet_380ACP_AP.label>TODO</Bullet_380ACP_AP.label>
+  <!-- EN: .380 ACP bullet (HP) -->
+  <Bullet_380ACP_HP.label>TODO</Bullet_380ACP_HP.label>
+
+
+</LanguageData>

@@ -1,0 +1,34 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make PG15V HEAT rockets x5 -->
+  <MakeAmmo_PG15VRocket_HEAT.label>TODO</MakeAmmo_PG15VRocket_HEAT.label>
+  <!-- EN: Craft 5 PG15V HEAT rockets. -->
+  <MakeAmmo_PG15VRocket_HEAT.description>TODO</MakeAmmo_PG15VRocket_HEAT.description>
+  <!-- EN: Making PG15V HEAT rockets. -->
+  <MakeAmmo_PG15VRocket_HEAT.jobString>TODO</MakeAmmo_PG15VRocket_HEAT.jobString>
+
+  <!-- EN: make PG15V thermobaric rockets x5 -->
+  <MakeAmmo_PG15VRocket_Thermobaric.label>TODO</MakeAmmo_PG15VRocket_Thermobaric.label>
+  <!-- EN: Craft 5 PG15V thermobaric rockets. -->
+  <MakeAmmo_PG15VRocket_Thermobaric.description>TODO</MakeAmmo_PG15VRocket_Thermobaric.description>
+  <!-- EN: Making PG15V thermobaric rockets. -->
+  <MakeAmmo_PG15VRocket_Thermobaric.jobString>TODO</MakeAmmo_PG15VRocket_Thermobaric.jobString>
+
+  <!-- EN: make PG15V HE rockets x5 -->
+  <MakeAmmo_PG15VRocket_Frag.label>TODO</MakeAmmo_PG15VRocket_Frag.label>
+  <!-- EN: Craft 5 PG15V HE rockets. -->
+  <MakeAmmo_PG15VRocket_Frag.description>TODO</MakeAmmo_PG15VRocket_Frag.description>
+  <!-- EN: Making PG15V HE rockets. -->
+  <MakeAmmo_PG15VRocket_Frag.jobString>TODO</MakeAmmo_PG15VRocket_Frag.jobString>
+
+  <!-- EN: make PG15V EMP rockets x5 -->
+  <MakeAmmo_PG15VRocket_EMP.label>TODO</MakeAmmo_PG15VRocket_EMP.label>
+  <!-- EN: Craft 5 PG15V EMP rockets. -->
+  <MakeAmmo_PG15VRocket_EMP.description>TODO</MakeAmmo_PG15VRocket_EMP.description>
+  <!-- EN: Making PG15V EMP rockets. -->
+  <MakeAmmo_PG15VRocket_EMP.jobString>TODO</MakeAmmo_PG15VRocket_EMP.jobString>
+
+
+</LanguageData>

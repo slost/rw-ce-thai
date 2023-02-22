@@ -1,0 +1,17 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 20mm Fliegerfaust (HE) -->
+  <Ammo_20mmFliegerfaust_HE.label>TODO</Ammo_20mmFliegerfaust_HE.label>
+  <!-- EN: Outdated 20mm rocket designed to be fired in volleys at airplanes. -->
+  <Ammo_20mmFliegerfaust_HE.description>TODO</Ammo_20mmFliegerfaust_HE.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 20mm Fliegerfaust rocket (HE) -->
+  <Bullet_20mmFliegerfaust_HE.label>TODO</Bullet_20mmFliegerfaust_HE.label>
+
+
+</LanguageData>

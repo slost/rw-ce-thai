@@ -1,0 +1,48 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make .56-56 Spencer (FMJ) cartridge x500 -->
+  <MakeAmmo_5656Spencer_FMJ.label>TODO</MakeAmmo_5656Spencer_FMJ.label>
+  <!-- EN: Craft 500 .56-56 Spencer (FMJ) cartridges. -->
+  <MakeAmmo_5656Spencer_FMJ.description>TODO</MakeAmmo_5656Spencer_FMJ.description>
+  <!-- EN: Making .56-56 Spencer (FMJ) cartridges. -->
+  <MakeAmmo_5656Spencer_FMJ.jobString>TODO</MakeAmmo_5656Spencer_FMJ.jobString>
+
+  <!-- EN: make .56-56 Spencer (AP) cartridge x500 -->
+  <MakeAmmo_5656Spencer_AP.label>TODO</MakeAmmo_5656Spencer_AP.label>
+  <!-- EN: Craft 500 .56-56 Spencer (AP) cartridges. -->
+  <MakeAmmo_5656Spencer_AP.description>TODO</MakeAmmo_5656Spencer_AP.description>
+  <!-- EN: Making .56-56 Spencer (AP) cartridges. -->
+  <MakeAmmo_5656Spencer_AP.jobString>TODO</MakeAmmo_5656Spencer_AP.jobString>
+
+  <!-- EN: make .56-56 Spencer (HP) cartridge x500 -->
+  <MakeAmmo_5656Spencer_HP.label>TODO</MakeAmmo_5656Spencer_HP.label>
+  <!-- EN: Craft 500 .56-56 Spencer (HP) cartridges. -->
+  <MakeAmmo_5656Spencer_HP.description>TODO</MakeAmmo_5656Spencer_HP.description>
+  <!-- EN: Making .56-56 Spencer (HP) cartridges. -->
+  <MakeAmmo_5656Spencer_HP.jobString>TODO</MakeAmmo_5656Spencer_HP.jobString>
+
+  <!-- EN: make .56-56 Spencer (AP-I) cartridge x500 -->
+  <MakeAmmo_5656Spencer_Incendiary.label>TODO</MakeAmmo_5656Spencer_Incendiary.label>
+  <!-- EN: Craft 500 .56-56 Spencer (AP-I) cartridges. -->
+  <MakeAmmo_5656Spencer_Incendiary.description>TODO</MakeAmmo_5656Spencer_Incendiary.description>
+  <!-- EN: Making .56-56 Spencer (AP-I) cartridges. -->
+  <MakeAmmo_5656Spencer_Incendiary.jobString>TODO</MakeAmmo_5656Spencer_Incendiary.jobString>
+
+  <!-- EN: make .56-56 Spencer (AP-HE) cartridge x500 -->
+  <MakeAmmo_5656Spencer_HE.label>TODO</MakeAmmo_5656Spencer_HE.label>
+  <!-- EN: Craft 500 .56-56 Spencer (AP-HE) cartridges. -->
+  <MakeAmmo_5656Spencer_HE.description>TODO</MakeAmmo_5656Spencer_HE.description>
+  <!-- EN: Making .56-56 Spencer (AP-HE) cartridges. -->
+  <MakeAmmo_5656Spencer_HE.jobString>TODO</MakeAmmo_5656Spencer_HE.jobString>
+
+  <!-- EN: make .56-56 Spencer (Sabot) cartridge x500 -->
+  <MakeAmmo_5656Spencer_Sabot.label>TODO</MakeAmmo_5656Spencer_Sabot.label>
+  <!-- EN: Craft 500 .56-56 Spencer (Sabot) cartridges. -->
+  <MakeAmmo_5656Spencer_Sabot.description>TODO</MakeAmmo_5656Spencer_Sabot.description>
+  <!-- EN: Making .56-56 Spencer (Sabot) cartridges. -->
+  <MakeAmmo_5656Spencer_Sabot.jobString>TODO</MakeAmmo_5656Spencer_Sabot.jobString>
+
+
+</LanguageData>

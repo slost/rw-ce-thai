@@ -1,0 +1,27 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make 10mm Auto (FMJ) cartridge x500 -->
+  <MakeAmmo_10mmAuto_FMJ.label>TODO</MakeAmmo_10mmAuto_FMJ.label>
+  <!-- EN: Craft 500 10mm Auto (FMJ) cartridges. -->
+  <MakeAmmo_10mmAuto_FMJ.description>TODO</MakeAmmo_10mmAuto_FMJ.description>
+  <!-- EN: Making 10mm Auto (FMJ) cartridges. -->
+  <MakeAmmo_10mmAuto_FMJ.jobString>TODO</MakeAmmo_10mmAuto_FMJ.jobString>
+
+  <!-- EN: make 10mm Auto (AP) cartridge x500 -->
+  <MakeAmmo_10mmAuto_AP.label>TODO</MakeAmmo_10mmAuto_AP.label>
+  <!-- EN: Craft 500 10mm Auto (AP) cartridges. -->
+  <MakeAmmo_10mmAuto_AP.description>TODO</MakeAmmo_10mmAuto_AP.description>
+  <!-- EN: Making 10mm Auto (AP) cartridges. -->
+  <MakeAmmo_10mmAuto_AP.jobString>TODO</MakeAmmo_10mmAuto_AP.jobString>
+
+  <!-- EN: make 10mm Auto (HP) cartridge x500 -->
+  <MakeAmmo_10mmAuto_HP.label>TODO</MakeAmmo_10mmAuto_HP.label>
+  <!-- EN: Craft 500 10mm Auto (HP) cartridges. -->
+  <MakeAmmo_10mmAuto_HP.description>TODO</MakeAmmo_10mmAuto_HP.description>
+  <!-- EN: Making 10mm Auto (HP) cartridges. -->
+  <MakeAmmo_10mmAuto_HP.jobString>TODO</MakeAmmo_10mmAuto_HP.jobString>
+
+
+</LanguageData>

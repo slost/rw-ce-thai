@@ -1,0 +1,41 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make 7.92x94mm Patronen (FMJ) cartridge x200 -->
+  <MakeAmmo_792x94mmPatronen_FMJ.label>TODO</MakeAmmo_792x94mmPatronen_FMJ.label>
+  <!-- EN: Craft 200 7.92x94mm Patronen (FMJ) cartridges. -->
+  <MakeAmmo_792x94mmPatronen_FMJ.description>TODO</MakeAmmo_792x94mmPatronen_FMJ.description>
+  <!-- EN: Making 7.92x94mm Patronen (FMJ) cartridges. -->
+  <MakeAmmo_792x94mmPatronen_FMJ.jobString>TODO</MakeAmmo_792x94mmPatronen_FMJ.jobString>
+
+  <!-- EN: make 7.92x94mm Patronen (AP) cartridge x200 -->
+  <MakeAmmo_792x94mmPatronen_AP.label>TODO</MakeAmmo_792x94mmPatronen_AP.label>
+  <!-- EN: Craft 200 7.92x94mm Patronen (AP) cartridges. -->
+  <MakeAmmo_792x94mmPatronen_AP.description>TODO</MakeAmmo_792x94mmPatronen_AP.description>
+  <!-- EN: Making 7.92x94mm Patronen (AP) cartridges. -->
+  <MakeAmmo_792x94mmPatronen_AP.jobString>TODO</MakeAmmo_792x94mmPatronen_AP.jobString>
+
+  <!-- EN: make 7.92x94mm Patronen (AP-I) cartridge x200 -->
+  <MakeAmmo_792x94mmPatronen_Incendiary.label>TODO</MakeAmmo_792x94mmPatronen_Incendiary.label>
+  <!-- EN: Craft 200 7.92x94mm Patronen (AP-I) cartridges. -->
+  <MakeAmmo_792x94mmPatronen_Incendiary.description>TODO</MakeAmmo_792x94mmPatronen_Incendiary.description>
+  <!-- EN: Making 7.92x94mm Patronen (AP-I) cartridges. -->
+  <MakeAmmo_792x94mmPatronen_Incendiary.jobString>TODO</MakeAmmo_792x94mmPatronen_Incendiary.jobString>
+
+  <!-- EN: make 7.92x94mm Patronen (AP-HE) cartridge x200 -->
+  <MakeAmmo_792x94mmPatronen_HE.label>TODO</MakeAmmo_792x94mmPatronen_HE.label>
+  <!-- EN: Craft 200 7.92x94mm Patronen (AP-HE) cartridges. -->
+  <MakeAmmo_792x94mmPatronen_HE.description>TODO</MakeAmmo_792x94mmPatronen_HE.description>
+  <!-- EN: Making 7.92x94mm Patronen (AP-HE) cartridges. -->
+  <MakeAmmo_792x94mmPatronen_HE.jobString>TODO</MakeAmmo_792x94mmPatronen_HE.jobString>
+
+  <!-- EN: make 7.92x94mm Patronen (Sabot) cartridge x200 -->
+  <MakeAmmo_792x94mmPatronen_Sabot.label>TODO</MakeAmmo_792x94mmPatronen_Sabot.label>
+  <!-- EN: Craft 200 7.92x94mm Patronen (Sabot) cartridges. -->
+  <MakeAmmo_792x94mmPatronen_Sabot.description>TODO</MakeAmmo_792x94mmPatronen_Sabot.description>
+  <!-- EN: Making 7.92x94mm Patronen (Sabot) cartridges. -->
+  <MakeAmmo_792x94mmPatronen_Sabot.jobString>TODO</MakeAmmo_792x94mmPatronen_Sabot.jobString>
+
+
+</LanguageData>

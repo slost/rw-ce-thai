@@ -1,0 +1,17 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: boulder -->
+  <Ammo_Catapult_Boulder.label>TODO</Ammo_Catapult_Boulder.label>
+  <!-- EN: A heavy stone, cut to an appropriate size and shape to be thrown by a siege engine. -->
+  <Ammo_Catapult_Boulder.description>TODO</Ammo_Catapult_Boulder.description>
+
+
+  <!-- Projectile -->
+
+  <!-- EN: boulder -->
+  <Projectile_CatapultBullet_Boulder.label>TODO</Projectile_CatapultBullet_Boulder.label>
+
+
+</LanguageData>

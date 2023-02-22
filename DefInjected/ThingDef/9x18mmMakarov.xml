@@ -1,0 +1,31 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 9x18mm Makarov cartridge (FMJ) -->
+  <Ammo_9x18mmMakarov_FMJ.label>TODO</Ammo_9x18mmMakarov_FMJ.label>
+  <!-- EN: Common pistol cartridge used by a variety of handguns and SMGs. -->
+  <Ammo_9x18mmMakarov_FMJ.description>TODO</Ammo_9x18mmMakarov_FMJ.description>
+
+  <!-- EN: 9x18mm Makarov cartridge (AP) -->
+  <Ammo_9x18mmMakarov_AP.label>TODO</Ammo_9x18mmMakarov_AP.label>
+  <!-- EN: Common pistol cartridge used by a variety of handguns and SMGs. -->
+  <Ammo_9x18mmMakarov_AP.description>TODO</Ammo_9x18mmMakarov_AP.description>
+
+  <!-- EN: 9x18mm Makarov cartridge (HP) -->
+  <Ammo_9x18mmMakarov_HP.label>TODO</Ammo_9x18mmMakarov_HP.label>
+  <!-- EN: Common pistol cartridge used by a variety of handguns and SMGs. -->
+  <Ammo_9x18mmMakarov_HP.description>TODO</Ammo_9x18mmMakarov_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 9mm Makarov bullet (FMJ) -->
+  <Bullet_9x18mmMakarov_FMJ.label>TODO</Bullet_9x18mmMakarov_FMJ.label>
+  <!-- EN: 9mm Makarov bullet (AP) -->
+  <Bullet_9x18mmMakarov_AP.label>TODO</Bullet_9x18mmMakarov_AP.label>
+  <!-- EN: 9mm Makarov bullet (HP) -->
+  <Bullet_9x18mmMakarov_HP.label>TODO</Bullet_9x18mmMakarov_HP.label>
+
+
+</LanguageData>

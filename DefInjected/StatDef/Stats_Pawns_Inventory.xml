@@ -1,0 +1,16 @@
+<LanguageData>
+
+  <!-- EN: carry weight -->
+  <CarryWeight.label>TODO</CarryWeight.label>
+  <!-- EN: The amount of weight this creature can carry in pockets, bags or otherwise attached to its body. -->
+  <CarryWeight.description>TODO</CarryWeight.description>
+  <!-- EN: {0} kg -->
+  <CarryWeight.formatString>TODO</CarryWeight.formatString>
+
+  <!-- EN: bulk capacity -->
+  <CarryBulk.label>TODO</CarryBulk.label>
+  <!-- EN: The volume of items this creature can carry in pockets, bags or otherwise attached to its body. -->
+  <CarryBulk.description>TODO</CarryBulk.description>
+
+
+</LanguageData>

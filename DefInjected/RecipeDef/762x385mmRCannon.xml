@@ -1,0 +1,27 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make 76.2x385mmR HEAT cannon shells x5 -->
+  <MakeAmmo_762x385mmRCannonShell_HEAT.label>TODO</MakeAmmo_762x385mmRCannonShell_HEAT.label>
+  <!-- EN: Craft 5 76.2x385mmR HEAT cannon shells. -->
+  <MakeAmmo_762x385mmRCannonShell_HEAT.description>TODO</MakeAmmo_762x385mmRCannonShell_HEAT.description>
+  <!-- EN: Making 76.2x385mmR HEAT cannon shells. -->
+  <MakeAmmo_762x385mmRCannonShell_HEAT.jobString>TODO</MakeAmmo_762x385mmRCannonShell_HEAT.jobString>
+
+  <!-- EN: make 76.2x385mmR HE cannon shells x5 -->
+  <MakeAmmo_762x385mmRCannonShell_HE.label>TODO</MakeAmmo_762x385mmRCannonShell_HE.label>
+  <!-- EN: Craft 5 76.2x385mmR HE cannon shells. -->
+  <MakeAmmo_762x385mmRCannonShell_HE.description>TODO</MakeAmmo_762x385mmRCannonShell_HE.description>
+  <!-- EN: Making 76.2x385mmR HE cannon shells. -->
+  <MakeAmmo_762x385mmRCannonShell_HE.jobString>TODO</MakeAmmo_762x385mmRCannonShell_HE.jobString>
+
+  <!-- EN: make 76.2x385mmR EMP cannon shells x5 -->
+  <MakeAmmo_762x385mmRCannonShell_EMP.label>TODO</MakeAmmo_762x385mmRCannonShell_EMP.label>
+  <!-- EN: Craft 5 76.2x385mmR EMP cannon shells. -->
+  <MakeAmmo_762x385mmRCannonShell_EMP.description>TODO</MakeAmmo_762x385mmRCannonShell_EMP.description>
+  <!-- EN: Making 76.2x385mmR EMP cannon shells. -->
+  <MakeAmmo_762x385mmRCannonShell_EMP.jobString>TODO</MakeAmmo_762x385mmRCannonShell_EMP.jobString>
+
+
+</LanguageData>

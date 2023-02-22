@@ -1,0 +1,17 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 6mm Railgun cartridge (Sabot) -->
+  <Ammo_6mmRailgun_Sabot.label>TODO</Ammo_6mmRailgun_Sabot.label>
+  <!-- EN: Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun rifles. -->
+  <Ammo_6mmRailgun_Sabot.description>TODO</Ammo_6mmRailgun_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 6mm Railgun bullet (Sabot) -->
+  <Bullet_6mmRailgun_Sabot.label>TODO</Bullet_6mmRailgun_Sabot.label>
+
+
+</LanguageData>

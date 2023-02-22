@@ -1,0 +1,17 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 88mm RPzB Rocket (HEAT) -->
+  <Ammo_88mmRPzB_HEAT.label>TODO</Ammo_88mmRPzB_HEAT.label>
+  <!-- EN: Outdated 88mm rocket. -->
+  <Ammo_88mmRPzB_HEAT.description>TODO</Ammo_88mmRPzB_HEAT.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 88mm RPzB rocket (HEAT) -->
+  <Bullet_88mmRPzB_HEAT.label>TODO</Bullet_88mmRPzB_HEAT.label>
+
+
+</LanguageData>

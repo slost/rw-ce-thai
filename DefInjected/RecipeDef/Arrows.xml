@@ -1,0 +1,41 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make stone arrows x10 -->
+  <MakeAmmo_Arrow_Stone.label>TODO</MakeAmmo_Arrow_Stone.label>
+  <!-- EN: Craft 10 stone arrows. -->
+  <MakeAmmo_Arrow_Stone.description>TODO</MakeAmmo_Arrow_Stone.description>
+  <!-- EN: Making stone arrows. -->
+  <MakeAmmo_Arrow_Stone.jobString>TODO</MakeAmmo_Arrow_Stone.jobString>
+
+  <!-- EN: make steel arrows x10 -->
+  <MakeAmmo_Arrow_Steel.label>TODO</MakeAmmo_Arrow_Steel.label>
+  <!-- EN: Craft 10 steel arrows. -->
+  <MakeAmmo_Arrow_Steel.description>TODO</MakeAmmo_Arrow_Steel.description>
+  <!-- EN: Making steel arrows. -->
+  <MakeAmmo_Arrow_Steel.jobString>TODO</MakeAmmo_Arrow_Steel.jobString>
+
+  <!-- EN: make plasteel arrows x10 -->
+  <MakeAmmo_Arrow_Plasteel.label>TODO</MakeAmmo_Arrow_Plasteel.label>
+  <!-- EN: Craft 10 plasteel arrows. -->
+  <MakeAmmo_Arrow_Plasteel.description>TODO</MakeAmmo_Arrow_Plasteel.description>
+  <!-- EN: Making plasteel arrows. -->
+  <MakeAmmo_Arrow_Plasteel.jobString>TODO</MakeAmmo_Arrow_Plasteel.jobString>
+
+  <!-- EN: make venom arrows x10 -->
+  <MakeAmmo_Arrow_Venom.label>TODO</MakeAmmo_Arrow_Venom.label>
+  <!-- EN: Craft 10 venom arrows. -->
+  <MakeAmmo_Arrow_Venom.description>TODO</MakeAmmo_Arrow_Venom.description>
+  <!-- EN: Making venom arrows. -->
+  <MakeAmmo_Arrow_Venom.jobString>TODO</MakeAmmo_Arrow_Venom.jobString>
+
+  <!-- EN: make flame arrows x10 -->
+  <MakeAmmo_Arrow_Flame.label>TODO</MakeAmmo_Arrow_Flame.label>
+  <!-- EN: Craft 10 flame arrows. -->
+  <MakeAmmo_Arrow_Flame.description>TODO</MakeAmmo_Arrow_Flame.description>
+  <!-- EN: Making flame arrows. -->
+  <MakeAmmo_Arrow_Flame.jobString>TODO</MakeAmmo_Arrow_Flame.jobString>
+
+
+</LanguageData>

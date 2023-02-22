@@ -1,0 +1,55 @@
+<LanguageData>
+
+  <!-- Grenade Launcher -->
+
+  <!-- EN: grenade launcher -->
+  <CE_GrenadeLauncher.label>TODO</CE_GrenadeLauncher.label>
+  <!-- EN: A simple, locally produced break-action grenade launcher, capable of firing a variety of different projectiles. -->
+  <CE_GrenadeLauncher.description>TODO</CE_GrenadeLauncher.description>
+  <!-- EN: stock -->
+  <CE_GrenadeLauncher.tools.0.label>TODO</CE_GrenadeLauncher.tools.0.label>
+  <!-- EN: barrel -->
+  <CE_GrenadeLauncher.tools.1.label>TODO</CE_GrenadeLauncher.tools.1.label>
+  <!-- EN: muzzle -->
+  <CE_GrenadeLauncher.tools.2.label>TODO</CE_GrenadeLauncher.tools.2.label>
+
+
+  <!-- M72 LAW -->
+
+  <!-- EN: disposable rocket launcher -->
+  <CE_DisposableRocketLauncher.label>TODO</CE_DisposableRocketLauncher.label>
+  <!-- EN: A lightweight single-use anti-tank launcher. Designed to provide soldiers in the field with a compact anti-armor weapon. -->
+  <CE_DisposableRocketLauncher.description>TODO</CE_DisposableRocketLauncher.description>
+  <!-- EN: Body -->
+  <CE_DisposableRocketLauncher.tools.0.label>TODO</CE_DisposableRocketLauncher.tools.0.label>
+  <!-- EN: stock -->
+  <CE_DisposableRocketLauncher.tools.1.label>TODO</CE_DisposableRocketLauncher.tools.1.label>
+  <!-- EN: barrel -->
+  <CE_DisposableRocketLauncher.tools.2.label>TODO</CE_DisposableRocketLauncher.tools.2.label>
+  <!-- EN: muzzle -->
+  <CE_DisposableRocketLauncher.tools.3.label>TODO</CE_DisposableRocketLauncher.tools.3.label>
+
+
+  <!-- Thermal Bolt Projector -->
+
+  <!-- EN: thermal bolt projector -->
+  <CE_ThermalBoltProjector.label>TODO</CE_ThermalBoltProjector.label>
+  <!-- EN: A medium-velocity, low-trajectory fire support system deployed by mechanoids. While inaccurate and slow-firing, it remains a potent weapon against static targets. -->
+  <CE_ThermalBoltProjector.description>TODO</CE_ThermalBoltProjector.description>
+  <!-- EN: barrel -->
+  <CE_ThermalBoltProjector.tools.0.label>TODO</CE_ThermalBoltProjector.tools.0.label>
+
+
+  <!-- Flare Gun -->
+
+  <!-- EN: flare gun -->
+  <CE_FlareGun.label>TODO</CE_FlareGun.label>
+  <!-- EN: An ancient, single-shot flare gun, used for signaling or illumination. Loaded from the breech, its barrel is too thin to fire anything but flares. -->
+  <CE_FlareGun.description>TODO</CE_FlareGun.description>
+  <!-- EN: grip -->
+  <CE_FlareGun.tools.0.label>TODO</CE_FlareGun.tools.0.label>
+  <!-- EN: muzzle -->
+  <CE_FlareGun.tools.1.label>TODO</CE_FlareGun.tools.1.label>
+
+
+</LanguageData>

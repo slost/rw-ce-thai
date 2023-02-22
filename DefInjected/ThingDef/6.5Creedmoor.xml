@@ -1,0 +1,52 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 6.5mm Creedmoor cartridge (FMJ) -->
+  <Ammo_65x48mmBlackout_FMJ.label>TODO</Ammo_65x48mmBlackout_FMJ.label>
+  <!-- EN: An intermediate centerfire rifle cartridge desinged for long range shooting. -->
+  <Ammo_65x48mmBlackout_FMJ.description>TODO</Ammo_65x48mmBlackout_FMJ.description>
+
+  <!-- EN: 6.5mm Creedmoor cartridge (AP) -->
+  <Ammo_65x48mmBlackout_AP.label>TODO</Ammo_65x48mmBlackout_AP.label>
+  <!-- EN: An intermediate centerfire rifle cartridge desinged for long range shooting. -->
+  <Ammo_65x48mmBlackout_AP.description>TODO</Ammo_65x48mmBlackout_AP.description>
+
+  <!-- EN: 6.5mm Creedmoor cartridge (HP) -->
+  <Ammo_65x48mmBlackout_HP.label>TODO</Ammo_65x48mmBlackout_HP.label>
+  <!-- EN: An intermediate centerfire rifle cartridge desinged for long range shooting. -->
+  <Ammo_65x48mmBlackout_HP.description>TODO</Ammo_65x48mmBlackout_HP.description>
+
+  <!-- EN: 6.5mm Creedmoor cartridge (AP-I) -->
+  <Ammo_65x48mmBlackout_Incendiary.label>TODO</Ammo_65x48mmBlackout_Incendiary.label>
+  <!-- EN: An intermediate centerfire rifle cartridge desinged for long range shooting. -->
+  <Ammo_65x48mmBlackout_Incendiary.description>TODO</Ammo_65x48mmBlackout_Incendiary.description>
+
+  <!-- EN: 6.5mm Creedmoor cartridge (AP-HE) -->
+  <Ammo_65x48mmBlackout_HE.label>TODO</Ammo_65x48mmBlackout_HE.label>
+  <!-- EN: An intermediate centerfire rifle cartridge desinged for long range shooting. -->
+  <Ammo_65x48mmBlackout_HE.description>TODO</Ammo_65x48mmBlackout_HE.description>
+
+  <!-- EN: 6.5mm Creedmoor cartridge (Sabot) -->
+  <Ammo_65x48mmBlackout_Sabot.label>TODO</Ammo_65x48mmBlackout_Sabot.label>
+  <!-- EN: An intermediate centerfire rifle cartridge desinged for long range shooting. -->
+  <Ammo_65x48mmBlackout_Sabot.description>TODO</Ammo_65x48mmBlackout_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 6.5mm Creedmoor bullet (FMJ) -->
+  <Bullet_65x48mmBlackout_FMJ.label>TODO</Bullet_65x48mmBlackout_FMJ.label>
+  <!-- EN: 6.5mm Creedmoor bullet (AP) -->
+  <Bullet_65x48mmBlackout_AP.label>TODO</Bullet_65x48mmBlackout_AP.label>
+  <!-- EN: 6.5mm Creedmoor bullet (HP) -->
+  <Bullet_65x48mmBlackout_HP.label>TODO</Bullet_65x48mmBlackout_HP.label>
+  <!-- EN: 6.5mm Creedmoor bullet (AP-I) -->
+  <Bullet_65x48mmBlackout_Incendiary.label>TODO</Bullet_65x48mmBlackout_Incendiary.label>
+  <!-- EN: 6.5mm Creedmoor bullet (AP-HE) -->
+  <Bullet_65x48mmBlackout_HE.label>TODO</Bullet_65x48mmBlackout_HE.label>
+  <!-- EN: 6.5mm Creedmoor bullet (Sabot) -->
+  <Bullet_65x48mmBlackout_Sabot.label>TODO</Bullet_65x48mmBlackout_Sabot.label>
+
+
+</LanguageData>

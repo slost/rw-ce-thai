@@ -1,0 +1,48 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make 5.56x45mm NATO (FMJ) cartridge x500 -->
+  <MakeAmmo_556x45mmNATO_FMJ.label>TODO</MakeAmmo_556x45mmNATO_FMJ.label>
+  <!-- EN: Craft 500 5.56x45mm NATO (FMJ) cartridges. -->
+  <MakeAmmo_556x45mmNATO_FMJ.description>TODO</MakeAmmo_556x45mmNATO_FMJ.description>
+  <!-- EN: Making 5.56x45mm NATO (FMJ) cartridges. -->
+  <MakeAmmo_556x45mmNATO_FMJ.jobString>TODO</MakeAmmo_556x45mmNATO_FMJ.jobString>
+
+  <!-- EN: make 5.56x45mm NATO (AP) cartridge x500 -->
+  <MakeAmmo_556x45mmNATO_AP.label>TODO</MakeAmmo_556x45mmNATO_AP.label>
+  <!-- EN: Craft 500 5.56x45mm NATO (AP) cartridges. -->
+  <MakeAmmo_556x45mmNATO_AP.description>TODO</MakeAmmo_556x45mmNATO_AP.description>
+  <!-- EN: Making 5.56x45mm NATO (AP) cartridges. -->
+  <MakeAmmo_556x45mmNATO_AP.jobString>TODO</MakeAmmo_556x45mmNATO_AP.jobString>
+
+  <!-- EN: make 5.56x45mm NATO (HP) cartridge x500 -->
+  <MakeAmmo_556x45mmNATO_HP.label>TODO</MakeAmmo_556x45mmNATO_HP.label>
+  <!-- EN: Craft 500 5.56x45mm NATO (HP) cartridges. -->
+  <MakeAmmo_556x45mmNATO_HP.description>TODO</MakeAmmo_556x45mmNATO_HP.description>
+  <!-- EN: Making 5.56x45mm NATO (HP) cartridges. -->
+  <MakeAmmo_556x45mmNATO_HP.jobString>TODO</MakeAmmo_556x45mmNATO_HP.jobString>
+
+  <!-- EN: make 5.56x45mm NATO (AP-I) cartridge x500 -->
+  <MakeAmmo_556x45mmNATO_Incendiary.label>TODO</MakeAmmo_556x45mmNATO_Incendiary.label>
+  <!-- EN: Craft 500 5.56x45mm NATO (AP-I) cartridges. -->
+  <MakeAmmo_556x45mmNATO_Incendiary.description>TODO</MakeAmmo_556x45mmNATO_Incendiary.description>
+  <!-- EN: Making 5.56x45mm NATO (AP-I) cartridges. -->
+  <MakeAmmo_556x45mmNATO_Incendiary.jobString>TODO</MakeAmmo_556x45mmNATO_Incendiary.jobString>
+
+  <!-- EN: make 5.56x45mm NATO (AP-HE) cartridge x500 -->
+  <MakeAmmo_556x45mmNATO_HE.label>TODO</MakeAmmo_556x45mmNATO_HE.label>
+  <!-- EN: Craft 500 5.56x45mm NATO (AP-HE) cartridges. -->
+  <MakeAmmo_556x45mmNATO_HE.description>TODO</MakeAmmo_556x45mmNATO_HE.description>
+  <!-- EN: Making 5.56x45mm NATO (AP-HE) cartridges. -->
+  <MakeAmmo_556x45mmNATO_HE.jobString>TODO</MakeAmmo_556x45mmNATO_HE.jobString>
+
+  <!-- EN: make 5.56x45mm NATO (Sabot) cartridge x500 -->
+  <MakeAmmo_556x45mmNATO_Sabot.label>TODO</MakeAmmo_556x45mmNATO_Sabot.label>
+  <!-- EN: Craft 500 5.56x45mm NATO (Sabot) cartridges. -->
+  <MakeAmmo_556x45mmNATO_Sabot.description>TODO</MakeAmmo_556x45mmNATO_Sabot.description>
+  <!-- EN: Making 5.56x45mm NATO (Sabot) cartridges. -->
+  <MakeAmmo_556x45mmNATO_Sabot.jobString>TODO</MakeAmmo_556x45mmNATO_Sabot.jobString>
+
+
+</LanguageData>

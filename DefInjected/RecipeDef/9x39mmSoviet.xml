@@ -1,0 +1,48 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make 9x39mm Soviet (FMJ) cartridge x500 -->
+  <MakeAmmo_9x39mmSoviet_FMJ.label>TODO</MakeAmmo_9x39mmSoviet_FMJ.label>
+  <!-- EN: Craft 500 9x39mm Soviet (FMJ) cartridges. -->
+  <MakeAmmo_9x39mmSoviet_FMJ.description>TODO</MakeAmmo_9x39mmSoviet_FMJ.description>
+  <!-- EN: Making 9x39mm Soviet (FMJ) cartridges. -->
+  <MakeAmmo_9x39mmSoviet_FMJ.jobString>TODO</MakeAmmo_9x39mmSoviet_FMJ.jobString>
+
+  <!-- EN: make 9x39mm Soviet (AP) cartridge x500 -->
+  <MakeAmmo_9x39mmSoviet_AP.label>TODO</MakeAmmo_9x39mmSoviet_AP.label>
+  <!-- EN: Craft 500 9x39mm Soviet (AP) cartridges. -->
+  <MakeAmmo_9x39mmSoviet_AP.description>TODO</MakeAmmo_9x39mmSoviet_AP.description>
+  <!-- EN: Making 9x39mm Soviet (AP) cartridges. -->
+  <MakeAmmo_9x39mmSoviet_AP.jobString>TODO</MakeAmmo_9x39mmSoviet_AP.jobString>
+
+  <!-- EN: make 9x39mm Soviet (HP) cartridge x500 -->
+  <MakeAmmo_9x39mmSoviet_HP.label>TODO</MakeAmmo_9x39mmSoviet_HP.label>
+  <!-- EN: Craft 500 9x39mm Soviet (HP) cartridges. -->
+  <MakeAmmo_9x39mmSoviet_HP.description>TODO</MakeAmmo_9x39mmSoviet_HP.description>
+  <!-- EN: Making 9x39mm Soviet (HP) cartridges. -->
+  <MakeAmmo_9x39mmSoviet_HP.jobString>TODO</MakeAmmo_9x39mmSoviet_HP.jobString>
+
+  <!-- EN: make 9x39mm Soviet (AP-I) cartridge x500 -->
+  <MakeAmmo_9x39mmSoviet_Incendiary.label>TODO</MakeAmmo_9x39mmSoviet_Incendiary.label>
+  <!-- EN: Craft 500 9x39mm Soviet (AP-I) cartridges. -->
+  <MakeAmmo_9x39mmSoviet_Incendiary.description>TODO</MakeAmmo_9x39mmSoviet_Incendiary.description>
+  <!-- EN: Making 9x39mm Soviet (AP-I) cartridges. -->
+  <MakeAmmo_9x39mmSoviet_Incendiary.jobString>TODO</MakeAmmo_9x39mmSoviet_Incendiary.jobString>
+
+  <!-- EN: make 9x39mm Soviet (AP-HE) cartridge x500 -->
+  <MakeAmmo_9x39mmSoviet_HE.label>TODO</MakeAmmo_9x39mmSoviet_HE.label>
+  <!-- EN: Craft 500 9x39mm Soviet (AP-HE) cartridges. -->
+  <MakeAmmo_9x39mmSoviet_HE.description>TODO</MakeAmmo_9x39mmSoviet_HE.description>
+  <!-- EN: Making 9x39mm Soviet (AP-HE) cartridges. -->
+  <MakeAmmo_9x39mmSoviet_HE.jobString>TODO</MakeAmmo_9x39mmSoviet_HE.jobString>
+
+  <!-- EN: make 9x39mm Soviet (Sabot) cartridge x500 -->
+  <MakeAmmo_9x39mmSoviet_Sabot.label>TODO</MakeAmmo_9x39mmSoviet_Sabot.label>
+  <!-- EN: Craft 500 9x39mm Soviet (Sabot) cartridges. -->
+  <MakeAmmo_9x39mmSoviet_Sabot.description>TODO</MakeAmmo_9x39mmSoviet_Sabot.description>
+  <!-- EN: Making 9x39mm Soviet (Sabot) cartridges. -->
+  <MakeAmmo_9x39mmSoviet_Sabot.jobString>TODO</MakeAmmo_9x39mmSoviet_Sabot.jobString>
+
+
+</LanguageData>

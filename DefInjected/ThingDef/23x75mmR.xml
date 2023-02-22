@@ -1,0 +1,38 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 23x75mmR shell (Buck) -->
+  <Ammo_23x75mmR_Buck.label>TODO</Ammo_23x75mmR_Buck.label>
+  <!-- EN: Large 6.27 gauge shotgun caliber designed to be fired by the KS-23 shotgun. -->
+  <Ammo_23x75mmR_Buck.description>TODO</Ammo_23x75mmR_Buck.description>
+
+  <!-- EN: 23x75mmR shell (Slug) -->
+  <Ammo_23x75mmR_Slug.label>TODO</Ammo_23x75mmR_Slug.label>
+  <!-- EN: Large 6.27 gauge shotgun caliber designed to be fired by the KS-23 shotgun. -->
+  <Ammo_23x75mmR_Slug.description>TODO</Ammo_23x75mmR_Slug.description>
+
+  <!-- EN: 23x75mmR shell (Bean) -->
+  <Ammo_23x75mmR_Beanbag.label>TODO</Ammo_23x75mmR_Beanbag.label>
+  <!-- EN: Large 6.27 gauge shotgun caliber designed to be fired by the KS-23 shotgun. -->
+  <Ammo_23x75mmR_Beanbag.description>TODO</Ammo_23x75mmR_Beanbag.description>
+
+  <!-- EN: 23x75mmR shell (EMP) -->
+  <Ammo_23x75mmR_ElectroSlug.label>TODO</Ammo_23x75mmR_ElectroSlug.label>
+  <!-- EN: Large 6.27 gauge shotgun caliber designed to be fired by the KS-23 shotgun. -->
+  <Ammo_23x75mmR_ElectroSlug.description>TODO</Ammo_23x75mmR_ElectroSlug.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: buckshot pellet -->
+  <Bullet_23x75mmR_Buck.label>TODO</Bullet_23x75mmR_Buck.label>
+  <!-- EN: shotgun slug -->
+  <Bullet_23x75mmR_Slug.label>TODO</Bullet_23x75mmR_Slug.label>
+  <!-- EN: beanbag -->
+  <Bullet_23x75mmR_Beanbag.label>TODO</Bullet_23x75mmR_Beanbag.label>
+  <!-- EN: EMP slug -->
+  <Bullet_23x75mmR_ElectroSlug.label>TODO</Bullet_23x75mmR_ElectroSlug.label>
+
+
+</LanguageData>

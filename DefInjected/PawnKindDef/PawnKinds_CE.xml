@@ -1,0 +1,22 @@
+<LanguageData>
+
+  <!-- EN: mercenary machine gunner -->
+  <MercenaryMachineGunner.label>TODO</MercenaryMachineGunner.label>
+  <!-- EN: mercenary machine gunners -->
+  <MercenaryMachineGunner.labelPlural>TODO</MercenaryMachineGunner.labelPlural>
+
+
+  <!-- Tribals -->
+
+  <!-- EN: boomer -->
+  <TribalGrenadier.label>TODO</TribalGrenadier.label>
+  <!-- EN: boomers -->
+  <TribalGrenadier.labelPlural>TODO</TribalGrenadier.labelPlural>
+
+  <!-- EN: thunderer -->
+  <TribalGunner.label>TODO</TribalGunner.label>
+  <!-- EN: thunderers -->
+  <TribalGunner.labelPlural>TODO</TribalGunner.labelPlural>
+
+
+</LanguageData>

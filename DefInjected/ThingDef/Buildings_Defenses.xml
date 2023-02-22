@@ -1,0 +1,31 @@
+<LanguageData>
+
+  <!-- Barbed Wire -->
+
+  <!-- EN: barbed wire -->
+  <CE_BarbedWire.label>TODO</CE_BarbedWire.label>
+  <!-- EN: Cheap defence system that slows down enemies. -->
+  <CE_BarbedWire.description>TODO</CE_BarbedWire.description>
+  <!-- EN: barbed wire (blueprint) -->
+  <CE_BarbedWire_Blueprint.label>TODO</CE_BarbedWire_Blueprint.label>
+  <!-- EN: barbed wire (building) -->
+  <CE_BarbedWire_Frame.label>TODO</CE_BarbedWire_Frame.label>
+  <!-- EN: Cheap defence system that slows down enemies. -->
+  <CE_BarbedWire_Frame.description>TODO</CE_BarbedWire_Frame.description>
+
+
+  <!-- Embrasures -->
+
+  <!-- EN: embrasure -->
+  <CE_Embrasure.label>TODO</CE_Embrasure.label>
+  <!-- EN: A wall with a firing port to allow shooting from relative safety. -->
+  <CE_Embrasure.description>TODO</CE_Embrasure.description>
+  <!-- EN: embrasure (blueprint) -->
+  <CE_Embrasure_Blueprint.label>TODO</CE_Embrasure_Blueprint.label>
+  <!-- EN: embrasure (building) -->
+  <CE_Embrasure_Frame.label>TODO</CE_Embrasure_Frame.label>
+  <!-- EN: A wall with a firing port to allow shooting from relative safety. -->
+  <CE_Embrasure_Frame.description>TODO</CE_Embrasure_Frame.description>
+
+
+</LanguageData>

@@ -1,0 +1,31 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 83mm PIAT grenade (HEAT) -->
+  <Ammo_83mmPIATGrenade_HEAT.label>TODO</Ammo_83mmPIATGrenade_HEAT.label>
+  <!-- EN: Large spigot grenade designed to be fired at tanks. -->
+  <Ammo_83mmPIATGrenade_HEAT.description>TODO</Ammo_83mmPIATGrenade_HEAT.description>
+
+  <!-- EN: 83mm PIAT grenade (HE) -->
+  <Ammo_83mmPIATGrenade_HE.label>TODO</Ammo_83mmPIATGrenade_HE.label>
+  <!-- EN: Large spigot grenade designed to be fired at tanks. -->
+  <Ammo_83mmPIATGrenade_HE.description>TODO</Ammo_83mmPIATGrenade_HE.description>
+
+  <!-- EN: 83mm PIAT grenade (EMP) -->
+  <Ammo_83mmPIATGrenade_EMP.label>TODO</Ammo_83mmPIATGrenade_EMP.label>
+  <!-- EN: Large spigot grenade designed to be fired at tanks. -->
+  <Ammo_83mmPIATGrenade_EMP.description>TODO</Ammo_83mmPIATGrenade_EMP.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 83mm PIAT grenade (HEAT) -->
+  <Bullet_83mmPIATGrenade_HEAT.label>TODO</Bullet_83mmPIATGrenade_HEAT.label>
+  <!-- EN: 83mm PIAT grenade (HE) -->
+  <Bullet_83mmPIATGrenade_HE.label>TODO</Bullet_83mmPIATGrenade_HE.label>
+  <!-- EN: 83mm PIAT grenade (EMP) -->
+  <Bullet_83mmPIATGrenade_EMP.label>TODO</Bullet_83mmPIATGrenade_EMP.label>
+
+
+</LanguageData>

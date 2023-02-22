@@ -1,0 +1,34 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make 25x59mm HEAT grenades x100 -->
+  <MakeAmmo_25x59mmGrenade_HEAT.label>TODO</MakeAmmo_25x59mmGrenade_HEAT.label>
+  <!-- EN: Craft 50 25x59mm HEAT grenades. -->
+  <MakeAmmo_25x59mmGrenade_HEAT.description>TODO</MakeAmmo_25x59mmGrenade_HEAT.description>
+  <!-- EN: Making 25x59mm HEAT grenades. -->
+  <MakeAmmo_25x59mmGrenade_HEAT.jobString>TODO</MakeAmmo_25x59mmGrenade_HEAT.jobString>
+
+  <!-- EN: make 25x59mm HE grenades x100 -->
+  <MakeAmmo_25x59mmGrenade_HE.label>TODO</MakeAmmo_25x59mmGrenade_HE.label>
+  <!-- EN: Craft 100 25x59mm HE grenades. -->
+  <MakeAmmo_25x59mmGrenade_HE.description>TODO</MakeAmmo_25x59mmGrenade_HE.description>
+  <!-- EN: Making 25x59mm HE grenades. -->
+  <MakeAmmo_25x59mmGrenade_HE.jobString>TODO</MakeAmmo_25x59mmGrenade_HE.jobString>
+
+  <!-- EN: make 25x59mm EMP grenades x100 -->
+  <MakeAmmo_25x59mmGrenade_EMP.label>TODO</MakeAmmo_25x59mmGrenade_EMP.label>
+  <!-- EN: Craft 100 25x59mm EMP grenades. -->
+  <MakeAmmo_25x59mmGrenade_EMP.description>TODO</MakeAmmo_25x59mmGrenade_EMP.description>
+  <!-- EN: Making 25x59mm EMP grenades. -->
+  <MakeAmmo_25x59mmGrenade_EMP.jobString>TODO</MakeAmmo_25x59mmGrenade_EMP.jobString>
+
+  <!-- EN: make 25x59mm smoke grenades x100 -->
+  <MakeAmmo_25x59mmGrenade_Smoke.label>TODO</MakeAmmo_25x59mmGrenade_Smoke.label>
+  <!-- EN: Craft 100 25x59mm smoke grenades. -->
+  <MakeAmmo_25x59mmGrenade_Smoke.description>TODO</MakeAmmo_25x59mmGrenade_Smoke.description>
+  <!-- EN: Making 25x59mm smoke grenades. -->
+  <MakeAmmo_25x59mmGrenade_Smoke.jobString>TODO</MakeAmmo_25x59mmGrenade_Smoke.jobString>
+
+
+</LanguageData>

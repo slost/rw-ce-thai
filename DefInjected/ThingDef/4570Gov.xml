@@ -1,0 +1,58 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: .45-70 Government cartridge (FMJ) -->
+  <Ammo_4570Gov_FMJ.label>TODO</Ammo_4570Gov_FMJ.label>
+  <!-- EN: Rather large and bulky rifle cartridge traditionally loaded with blackpowder. Good for making people imitate sacks when they are hit. -->
+  <Ammo_4570Gov_FMJ.description>TODO</Ammo_4570Gov_FMJ.description>
+
+  <!-- EN: .45-70 Government cartridge (AP) -->
+  <Ammo_4570Gov_AP.label>TODO</Ammo_4570Gov_AP.label>
+  <!-- EN: Rather large and bulky rifle cartridge traditionally loaded with blackpowder. Good for making people imitate sacks when they are hit. -->
+  <Ammo_4570Gov_AP.description>TODO</Ammo_4570Gov_AP.description>
+
+  <!-- EN: .45-70 Government cartridge (HP) -->
+  <Ammo_4570Gov_HP.label>TODO</Ammo_4570Gov_HP.label>
+  <!-- EN: Rather large and bulky rifle cartridge traditionally loaded with blackpowder. Good for making people imitate sacks when they are hit. -->
+  <Ammo_4570Gov_HP.description>TODO</Ammo_4570Gov_HP.description>
+
+  <!-- EN: .45-70 Government cartridge (AP-I) -->
+  <Ammo_4570Gov_Incendiary.label>TODO</Ammo_4570Gov_Incendiary.label>
+  <!-- EN: Rather large and bulky rifle cartridge traditionally loaded with blackpowder. Good for making people imitate sacks when they are hit. -->
+  <Ammo_4570Gov_Incendiary.description>TODO</Ammo_4570Gov_Incendiary.description>
+
+  <!-- EN: .45-70 Government cartridge (AP-HE) -->
+  <Ammo_4570Gov_HE.label>TODO</Ammo_4570Gov_HE.label>
+  <!-- EN: Rather large and bulky rifle cartridge traditionally loaded with blackpowder. Good for making people imitate sacks when they are hit. -->
+  <Ammo_4570Gov_HE.description>TODO</Ammo_4570Gov_HE.description>
+
+  <!-- EN: .45-70 Government cartridge (Sabot) -->
+  <Ammo_4570Gov_Sabot.label>TODO</Ammo_4570Gov_Sabot.label>
+  <!-- EN: Rather large and bulky rifle cartridge traditionally loaded with blackpowder. Good for making people imitate sacks when they are hit. -->
+  <Ammo_4570Gov_Sabot.description>TODO</Ammo_4570Gov_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: .45-70 Government cartridge (FMJ) -->
+  <Bullet_4570Gov_FMJ.label>TODO</Bullet_4570Gov_FMJ.label>
+  <!-- EN: .45-70 Government cartridge (AP) -->
+  <Bullet_4570Gov_AP.label>TODO</Bullet_4570Gov_AP.label>
+  <!-- EN: .45-70 Government cartridge (HP) -->
+  <Bullet_4570Gov_HP.label>TODO</Bullet_4570Gov_HP.label>
+  <!-- EN: .45-70 bullet (AP-I) -->
+  <Bullet_4570Gov_Incendiary.label>TODO</Bullet_4570Gov_Incendiary.label>
+  <!-- EN: .45-70 bullet (AP-HE) -->
+  <Bullet_4570Gov_HE.label>TODO</Bullet_4570Gov_HE.label>
+  <!-- EN: .45-70 bullet (Sabot) -->
+  <Bullet_4570Gov_Sabot.label>TODO</Bullet_4570Gov_Sabot.label>
+  <!-- EN: .45-70 Government cartridge (FMJ) -->
+  <Bullet_4570GovTrapdoor_FMJ.label>TODO</Bullet_4570GovTrapdoor_FMJ.label>
+  <!-- EN: .45-70 Government cartridge (AP) -->
+  <Bullet_4570GovTrapdoor_AP.label>TODO</Bullet_4570GovTrapdoor_AP.label>
+  <!-- EN: .45-70 Government cartridge (HP) -->
+  <Bullet_4570GovTrapdoor_HP.label>TODO</Bullet_4570GovTrapdoor_HP.label>
+
+
+</LanguageData>

@@ -1,0 +1,68 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 5.56x45mm NATO cartridge (FMJ) -->
+  <Ammo_556x45mmNATO_FMJ.label>TODO</Ammo_556x45mmNATO_FMJ.label>
+  <!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
+  <Ammo_556x45mmNATO_FMJ.description>TODO</Ammo_556x45mmNATO_FMJ.description>
+
+  <!-- EN: 5.56x45mm NATO cartridge (AP) -->
+  <Ammo_556x45mmNATO_AP.label>TODO</Ammo_556x45mmNATO_AP.label>
+  <!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
+  <Ammo_556x45mmNATO_AP.description>TODO</Ammo_556x45mmNATO_AP.description>
+
+  <!-- EN: 5.56x45mm NATO cartridge (HP) -->
+  <Ammo_556x45mmNATO_HP.label>TODO</Ammo_556x45mmNATO_HP.label>
+  <!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
+  <Ammo_556x45mmNATO_HP.description>TODO</Ammo_556x45mmNATO_HP.description>
+
+  <!-- EN: 5.56x45mm NATO cartridge (AP-I) -->
+  <Ammo_556x45mmNATO_Incendiary.label>TODO</Ammo_556x45mmNATO_Incendiary.label>
+  <!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
+  <Ammo_556x45mmNATO_Incendiary.description>TODO</Ammo_556x45mmNATO_Incendiary.description>
+
+  <!-- EN: 5.56x45mm NATO cartridge (AP-HE) -->
+  <Ammo_556x45mmNATO_HE.label>TODO</Ammo_556x45mmNATO_HE.label>
+  <!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
+  <Ammo_556x45mmNATO_HE.description>TODO</Ammo_556x45mmNATO_HE.description>
+
+  <!-- EN: 5.56x45mm NATO cartridge (Sabot) -->
+  <Ammo_556x45mmNATO_Sabot.label>TODO</Ammo_556x45mmNATO_Sabot.label>
+  <!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
+  <Ammo_556x45mmNATO_Sabot.description>TODO</Ammo_556x45mmNATO_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 5.56mm NATO bullet (FMJ) -->
+  <Bullet_556x45mmNATO_FMJ.label>TODO</Bullet_556x45mmNATO_FMJ.label>
+  <!-- EN: 5.56mm NATO bullet (AP) -->
+  <Bullet_556x45mmNATO_AP.label>TODO</Bullet_556x45mmNATO_AP.label>
+  <!-- EN: 5.56mm NATO bullet (HP) -->
+  <Bullet_556x45mmNATO_HP.label>TODO</Bullet_556x45mmNATO_HP.label>
+  <!-- EN: 5.56mm NATO bullet (AP-I) -->
+  <Bullet_556x45mmNATO_Incendiary.label>TODO</Bullet_556x45mmNATO_Incendiary.label>
+  <!-- EN: 5.56mm NATO bullet (AP-HE) -->
+  <Bullet_556x45mmNATO_HE.label>TODO</Bullet_556x45mmNATO_HE.label>
+  <!-- EN: 5.56mm NATO bullet (Sabot) -->
+  <Bullet_556x45mmNATO_Sabot.label>TODO</Bullet_556x45mmNATO_Sabot.label>
+
+
+  <!-- Short barrel -->
+
+  <!-- EN: 5.56mm NATO bullet (FMJ) -->
+  <Bullet_556x45mmNATO_FMJ_SB.label>TODO</Bullet_556x45mmNATO_FMJ_SB.label>
+  <!-- EN: 5.56mm NATO bullet (AP) -->
+  <Bullet_556x45mmNATO_AP_SB.label>TODO</Bullet_556x45mmNATO_AP_SB.label>
+  <!-- EN: 5.56mm NATO bullet (HP) -->
+  <Bullet_556x45mmNATO_HP_SB.label>TODO</Bullet_556x45mmNATO_HP_SB.label>
+  <!-- EN: 5.56mm NATO bullet (AP-I) -->
+  <Bullet_556x45mmNATO_Incendiary_SB.label>TODO</Bullet_556x45mmNATO_Incendiary_SB.label>
+  <!-- EN: 5.56mm NATO bullet (AP-HE) -->
+  <Bullet_556x45mmNATO_HE_SB.label>TODO</Bullet_556x45mmNATO_HE_SB.label>
+  <!-- EN: 5.56mm NATO bullet (Sabot) -->
+  <Bullet_556x45mmNATO_Sabot_SB.label>TODO</Bullet_556x45mmNATO_Sabot_SB.label>
+
+
+</LanguageData>

@@ -1,0 +1,17 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 5x35mm Charged cartridge -->
+  <Ammo_5x35mmCharged.label>TODO</Ammo_5x35mmCharged.label>
+  <!-- EN: Mechanoid-built charged shot ammo designed for high-velocity fire and armor penetration. -->
+  <Ammo_5x35mmCharged.description>TODO</Ammo_5x35mmCharged.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 5x35mm Charged bullet -->
+  <Bullet_5x35mmCharged.label>TODO</Bullet_5x35mmCharged.label>
+
+
+</LanguageData>

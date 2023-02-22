@@ -1,0 +1,13 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make 50mm type 89 HE mortar shells x5 -->
+  <MakeAmmo_50mmType89MortarShell_HE.label>TODO</MakeAmmo_50mmType89MortarShell_HE.label>
+  <!-- EN: Craft 5 50mm type 89 HE mortar shells. -->
+  <MakeAmmo_50mmType89MortarShell_HE.description>TODO</MakeAmmo_50mmType89MortarShell_HE.description>
+  <!-- EN: Making 50mm type 89 HE mortar shells. -->
+  <MakeAmmo_50mmType89MortarShell_HE.jobString>TODO</MakeAmmo_50mmType89MortarShell_HE.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,48 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make 40x46mm HE grenades x100 -->
+  <MakeAmmo_40x46mmGrenade_HE.label>TODO</MakeAmmo_40x46mmGrenade_HE.label>
+  <!-- EN: Craft 100 40x46mm HE grenades. -->
+  <MakeAmmo_40x46mmGrenade_HE.description>TODO</MakeAmmo_40x46mmGrenade_HE.description>
+  <!-- EN: Making 40x46mm HE grenades. -->
+  <MakeAmmo_40x46mmGrenade_HE.jobString>TODO</MakeAmmo_40x46mmGrenade_HE.jobString>
+
+  <!-- EN: make 40x46mm HE airburst grenades x100 -->
+  <MakeAmmo_40x46mmGrenade_HE_TFuzed.label>TODO</MakeAmmo_40x46mmGrenade_HE_TFuzed.label>
+  <!-- EN: Craft 100 40x46mm HE airburst grenades. -->
+  <MakeAmmo_40x46mmGrenade_HE_TFuzed.description>TODO</MakeAmmo_40x46mmGrenade_HE_TFuzed.description>
+  <!-- EN: Making 40x46mm HE airburst grenades. -->
+  <MakeAmmo_40x46mmGrenade_HE_TFuzed.jobString>TODO</MakeAmmo_40x46mmGrenade_HE_TFuzed.jobString>
+
+  <!-- EN: make 40x46mm HEDP grenades x100 -->
+  <MakeAmmo_40x46mmGrenade_HEDP.label>TODO</MakeAmmo_40x46mmGrenade_HEDP.label>
+  <!-- EN: Craft 100 40x46mm HEDP grenades. -->
+  <MakeAmmo_40x46mmGrenade_HEDP.description>TODO</MakeAmmo_40x46mmGrenade_HEDP.description>
+  <!-- EN: Making 40x46mm HEDP grenades. -->
+  <MakeAmmo_40x46mmGrenade_HEDP.jobString>TODO</MakeAmmo_40x46mmGrenade_HEDP.jobString>
+
+  <!-- EN: make 40x46mm EMP grenades x100 -->
+  <MakeAmmo_40x46mmGrenade_EMP.label>TODO</MakeAmmo_40x46mmGrenade_EMP.label>
+  <!-- EN: Craft 100 40x46mm EMP grenades. -->
+  <MakeAmmo_40x46mmGrenade_EMP.description>TODO</MakeAmmo_40x46mmGrenade_EMP.description>
+  <!-- EN: Making 40x46mm EMP grenades. -->
+  <MakeAmmo_40x46mmGrenade_EMP.jobString>TODO</MakeAmmo_40x46mmGrenade_EMP.jobString>
+
+  <!-- EN: make 40x46mm smoke grenades x100 -->
+  <MakeAmmo_40x46mmGrenade_Smoke.label>TODO</MakeAmmo_40x46mmGrenade_Smoke.label>
+  <!-- EN: Craft 100 40x46mm smoke grenades. -->
+  <MakeAmmo_40x46mmGrenade_Smoke.description>TODO</MakeAmmo_40x46mmGrenade_Smoke.description>
+  <!-- EN: Making 40x46mm smoke grenades. -->
+  <MakeAmmo_40x46mmGrenade_Smoke.jobString>TODO</MakeAmmo_40x46mmGrenade_Smoke.jobString>
+
+  <!-- EN: make 40x46mm tox grenades x100 -->
+  <MakeAmmo_40x46mmGrenade_Tox.label>TODO</MakeAmmo_40x46mmGrenade_Tox.label>
+  <!-- EN: Craft 100 40x46mm tox grenades. -->
+  <MakeAmmo_40x46mmGrenade_Tox.description>TODO</MakeAmmo_40x46mmGrenade_Tox.description>
+  <!-- EN: Making 40x46mm tox grenades. -->
+  <MakeAmmo_40x46mmGrenade_Tox.jobString>TODO</MakeAmmo_40x46mmGrenade_Tox.jobString>
+
+
+</LanguageData>

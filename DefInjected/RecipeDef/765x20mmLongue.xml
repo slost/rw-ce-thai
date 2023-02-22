@@ -1,0 +1,27 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make 7.65x20mm Longue (FMJ) cartridge x500 -->
+  <MakeAmmo_765x20mmLongue_FMJ.label>TODO</MakeAmmo_765x20mmLongue_FMJ.label>
+  <!-- EN: Craft 500 7.65x20mm Longue (FMJ) cartridges. -->
+  <MakeAmmo_765x20mmLongue_FMJ.description>TODO</MakeAmmo_765x20mmLongue_FMJ.description>
+  <!-- EN: Making 7.65x20mm Longue (FMJ) cartridges. -->
+  <MakeAmmo_765x20mmLongue_FMJ.jobString>TODO</MakeAmmo_765x20mmLongue_FMJ.jobString>
+
+  <!-- EN: make 7.65x20mm Longue (AP) cartridge x500 -->
+  <MakeAmmo_765x20mmLongue_AP.label>TODO</MakeAmmo_765x20mmLongue_AP.label>
+  <!-- EN: Craft 500 7.65x20mm Longue (AP) cartridges. -->
+  <MakeAmmo_765x20mmLongue_AP.description>TODO</MakeAmmo_765x20mmLongue_AP.description>
+  <!-- EN: Making 7.65x20mm Longue (AP) cartridges. -->
+  <MakeAmmo_765x20mmLongue_AP.jobString>TODO</MakeAmmo_765x20mmLongue_AP.jobString>
+
+  <!-- EN: make 7.65x20mm Longue (HP) cartridge x500 -->
+  <MakeAmmo_765x20mmLongue_HP.label>TODO</MakeAmmo_765x20mmLongue_HP.label>
+  <!-- EN: Craft 500 7.65x20mm Longue (HP) cartridges. -->
+  <MakeAmmo_765x20mmLongue_HP.description>TODO</MakeAmmo_765x20mmLongue_HP.description>
+  <!-- EN: Making 7.65x20mm Longue (HP) cartridges. -->
+  <MakeAmmo_765x20mmLongue_HP.jobString>TODO</MakeAmmo_765x20mmLongue_HP.jobString>
+
+
+</LanguageData>

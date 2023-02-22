@@ -1,0 +1,27 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make .50 AE (FMJ) cartridge x500 -->
+  <MakeAmmo_50AE_FMJ.label>TODO</MakeAmmo_50AE_FMJ.label>
+  <!-- EN: Craft 500 .50 AE (FMJ) cartridges. -->
+  <MakeAmmo_50AE_FMJ.description>TODO</MakeAmmo_50AE_FMJ.description>
+  <!-- EN: Making .50 AE (FMJ) cartridges. -->
+  <MakeAmmo_50AE_FMJ.jobString>TODO</MakeAmmo_50AE_FMJ.jobString>
+
+  <!-- EN: make .50 AE (AP) cartridge x500 -->
+  <MakeAmmo_50AE_AP.label>TODO</MakeAmmo_50AE_AP.label>
+  <!-- EN: Craft 500 .50 AE (AP) cartridges. -->
+  <MakeAmmo_50AE_AP.description>TODO</MakeAmmo_50AE_AP.description>
+  <!-- EN: Making .50 AE (AP) cartridges. -->
+  <MakeAmmo_50AE_AP.jobString>TODO</MakeAmmo_50AE_AP.jobString>
+
+  <!-- EN: make .50 AE (HP) cartridge x500 -->
+  <MakeAmmo_50AE_HP.label>TODO</MakeAmmo_50AE_HP.label>
+  <!-- EN: Craft 500 .50 AE (HP) cartridges. -->
+  <MakeAmmo_50AE_HP.description>TODO</MakeAmmo_50AE_HP.description>
+  <!-- EN: Making .50 AE (HP) cartridges. -->
+  <MakeAmmo_50AE_HP.jobString>TODO</MakeAmmo_50AE_HP.jobString>
+
+
+</LanguageData>

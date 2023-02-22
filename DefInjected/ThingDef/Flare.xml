@@ -1,0 +1,20 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: Flare -->
+  <Flare.label>TODO</Flare.label>
+
+  <!-- EN: flare round -->
+  <Ammo_Flare.label>TODO</Ammo_Flare.label>
+  <!-- EN: A flare round for illumination. -->
+  <Ammo_Flare.description>TODO</Ammo_Flare.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: flare -->
+  <Bullet_Flare.label>TODO</Bullet_Flare.label>
+
+
+</LanguageData>

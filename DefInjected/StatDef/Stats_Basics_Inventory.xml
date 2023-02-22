@@ -1,0 +1,14 @@
+<LanguageData>
+
+  <!-- EN: bulk -->
+  <Bulk.label>TODO</Bulk.label>
+  <!-- EN: The amount of inventory space an item takes up when carried in bag or pocket. -->
+  <Bulk.description>TODO</Bulk.description>
+
+  <!-- EN: caliber -->
+  <AmmoCaliber.label>TODO</AmmoCaliber.label>
+  <!-- EN: The guns which accept this type of ammo. -->
+  <AmmoCaliber.description>TODO</AmmoCaliber.description>
+
+
+</LanguageData>

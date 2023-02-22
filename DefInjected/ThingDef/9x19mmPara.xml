@@ -1,0 +1,37 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 9x19mm Para cartridge (FMJ) -->
+  <Ammo_9x19mmPara_FMJ.label>TODO</Ammo_9x19mmPara_FMJ.label>
+  <!-- EN: Common pistol cartridge used by a variety of handguns and SMGs. -->
+  <Ammo_9x19mmPara_FMJ.description>TODO</Ammo_9x19mmPara_FMJ.description>
+
+  <!-- EN: 9x19mm Para cartridge (AP) -->
+  <Ammo_9x19mmPara_AP.label>TODO</Ammo_9x19mmPara_AP.label>
+  <!-- EN: Common pistol cartridge used by a variety of handguns and SMGs. -->
+  <Ammo_9x19mmPara_AP.description>TODO</Ammo_9x19mmPara_AP.description>
+
+  <!-- EN: 9x19mm Para cartridge (HP) -->
+  <Ammo_9x19mmPara_HP.label>TODO</Ammo_9x19mmPara_HP.label>
+  <!-- EN: Common pistol cartridge used by a variety of handguns and SMGs. -->
+  <Ammo_9x19mmPara_HP.description>TODO</Ammo_9x19mmPara_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 9mm Para bullet (FMJ) -->
+  <Bullet_9x19mmPara_FMJ.label>TODO</Bullet_9x19mmPara_FMJ.label>
+  <!-- EN: 9mm Para bullet (AP) -->
+  <Bullet_9x19mmPara_AP.label>TODO</Bullet_9x19mmPara_AP.label>
+  <!-- EN: 9mm Para bullet (HP) -->
+  <Bullet_9x19mmPara_HP.label>TODO</Bullet_9x19mmPara_HP.label>
+  <!-- EN: 9mm Para bullet (FMJ) -->
+  <Bullet_9x19mmParaSD_FMJ.label>TODO</Bullet_9x19mmParaSD_FMJ.label>
+  <!-- EN: 9mm Para bullet (AP) -->
+  <Bullet_9x19mmParaSD_AP.label>TODO</Bullet_9x19mmParaSD_AP.label>
+  <!-- EN: 9mm Para bullet (HP) -->
+  <Bullet_9x19mmParaSD_HP.label>TODO</Bullet_9x19mmParaSD_HP.label>
+
+
+</LanguageData>

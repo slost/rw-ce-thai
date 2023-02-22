@@ -1,0 +1,31 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 30x64mm fuel cell (Incendiary) -->
+  <Ammo_30x64mmFuel_Incendiary.label>TODO</Ammo_30x64mmFuel_Incendiary.label>
+  <!-- EN: Container holding fuel for incendiary shot firearms. -->
+  <Ammo_30x64mmFuel_Incendiary.description>TODO</Ammo_30x64mmFuel_Incendiary.description>
+
+  <!-- EN: 30x64mm fuel cell (Thermobaric) -->
+  <Ammo_30x64mmFuel_Thermobaric.label>TODO</Ammo_30x64mmFuel_Thermobaric.label>
+  <!-- EN: Container holding fuel for incendiary shot firearms. -->
+  <Ammo_30x64mmFuel_Thermobaric.description>TODO</Ammo_30x64mmFuel_Thermobaric.description>
+
+  <!-- EN: 30x64mm fuel cell (Foam) -->
+  <Ammo_30x64mmFuel_Foam.label>TODO</Ammo_30x64mmFuel_Foam.label>
+  <!-- EN: Container holding fuel for incendiary shot firearms. -->
+  <Ammo_30x64mmFuel_Foam.description>TODO</Ammo_30x64mmFuel_Foam.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: incendiary bolt -->
+  <Bullet_30x64mmFuel_Incendiary.label>TODO</Bullet_30x64mmFuel_Incendiary.label>
+  <!-- EN: thermobaric bolt -->
+  <Bullet_30x64mmFuel_Thermobaric.label>TODO</Bullet_30x64mmFuel_Thermobaric.label>
+  <!-- EN: foam bolt -->
+  <Bullet_30x64mmFuel_Foam.label>TODO</Bullet_30x64mmFuel_Foam.label>
+
+
+</LanguageData>

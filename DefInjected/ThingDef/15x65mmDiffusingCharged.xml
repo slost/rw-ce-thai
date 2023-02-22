@@ -1,0 +1,17 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 15x65mm Diffusing Charged cartridge -->
+  <Ammo_15x65mmDiffusingCharged_Buck.label>TODO</Ammo_15x65mmDiffusingCharged_Buck.label>
+  <!-- EN: Mechanoid-built cartridge designed to split upon firing. -->
+  <Ammo_15x65mmDiffusingCharged_Buck.description>TODO</Ammo_15x65mmDiffusingCharged_Buck.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: diffusing charged shot -->
+  <Bullet_15x65mmDiffusingCharged_Buck.label>TODO</Bullet_15x65mmDiffusingCharged_Buck.label>
+
+
+</LanguageData>

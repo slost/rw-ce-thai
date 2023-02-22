@@ -1,0 +1,20 @@
+<LanguageData>
+  <!-- EN: Any Perishable Meal -->
+  <CE_Generic_Meal>TODO</CE_Generic_Meal>
+
+  <!-- EN: Any Raw Food -->
+  <CE_Generic_RawFood>TODO</CE_Generic_RawFood>
+
+  <!-- EN: Any Drugs -->
+  <CE_Generic_Drugs>TODO</CE_Generic_Drugs>
+
+  <!-- EN: Any Ammo for {0} -->
+  <CE_Generic_Ammo>TODO</CE_Generic_Ammo>
+
+  <!-- EN: Any Medicine -->
+  <CE_Generic_Medicine>TODO</CE_Generic_Medicine>
+
+  <!-- EN: / -->
+  <CE_Generic_Divider>TODO</CE_Generic_Divider>
+
+</LanguageData>

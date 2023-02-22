@@ -1,0 +1,24 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 105x607mmR cannon shell (HEAT) -->
+  <Ammo_105x607mmRCannonShell_HEAT.label>TODO</Ammo_105x607mmRCannonShell_HEAT.label>
+  <!-- EN: High-caliber recoilless rifle shells, typically used by large recoilless rifles. -->
+  <Ammo_105x607mmRCannonShell_HEAT.description>TODO</Ammo_105x607mmRCannonShell_HEAT.description>
+
+  <!-- EN: 105x607mmR cannon shell (HE) -->
+  <Ammo_105x607mmRCannonShell_HE.label>TODO</Ammo_105x607mmRCannonShell_HE.label>
+  <!-- EN: High-caliber recoilless rifle shells, typically used by large recoilless rifles. -->
+  <Ammo_105x607mmRCannonShell_HE.description>TODO</Ammo_105x607mmRCannonShell_HE.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 105x607mmR cannon shell (HEAT) -->
+  <Bullet_105x607mmRCannonShell_HEAT.label>TODO</Bullet_105x607mmRCannonShell_HEAT.label>
+  <!-- EN: 105x607mmR cannon shell (HE) -->
+  <Bullet_105x607mmRCannonShell_HE.label>TODO</Bullet_105x607mmRCannonShell_HE.label>
+
+
+</LanguageData>

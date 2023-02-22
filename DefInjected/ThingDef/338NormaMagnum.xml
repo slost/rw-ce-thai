@@ -1,0 +1,45 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: .338 Norma Magnum cartridge (FMJ) -->
+  <Ammo_338Norma_FMJ.label>TODO</Ammo_338Norma_FMJ.label>
+  <!-- EN: Wildcat cartridge designed for long-range sport shooting. -->
+  <Ammo_338Norma_FMJ.description>TODO</Ammo_338Norma_FMJ.description>
+
+  <!-- EN: .338 Norma Magnum cartridge (AP) -->
+  <Ammo_338Norma_AP.label>TODO</Ammo_338Norma_AP.label>
+  <!-- EN: Wildcat cartridge designed for long-range sport shooting. -->
+  <Ammo_338Norma_AP.description>TODO</Ammo_338Norma_AP.description>
+
+  <!-- EN: .338 Norma Magnum cartridge (AP-I) -->
+  <Ammo_338Norma_Incendiary.label>TODO</Ammo_338Norma_Incendiary.label>
+  <!-- EN: Wildcat cartridge designed for long-range sport shooting. -->
+  <Ammo_338Norma_Incendiary.description>TODO</Ammo_338Norma_Incendiary.description>
+
+  <!-- EN: .338 Norma Magnum cartridge (AP-HE) -->
+  <Ammo_338Norma_HE.label>TODO</Ammo_338Norma_HE.label>
+  <!-- EN: Wildcat cartridge designed for long-range sport shooting. -->
+  <Ammo_338Norma_HE.description>TODO</Ammo_338Norma_HE.description>
+
+  <!-- EN: .338 Norma Magnum cartridge (Sabot) -->
+  <Ammo_338Norma_Sabot.label>TODO</Ammo_338Norma_Sabot.label>
+  <!-- EN: Wildcat cartridge designed for long-range sport shooting. -->
+  <Ammo_338Norma_Sabot.description>TODO</Ammo_338Norma_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: .338 Norma Magnum bullet (FMJ) -->
+  <Bullet_338Norma_FMJ.label>TODO</Bullet_338Norma_FMJ.label>
+  <!-- EN: .338 Norma Magnum bullet (AP) -->
+  <Bullet_338Norma_AP.label>TODO</Bullet_338Norma_AP.label>
+  <!-- EN: .338 Norma Magnum bullet (AP-I) -->
+  <Bullet_338Norma_Incendiary.label>TODO</Bullet_338Norma_Incendiary.label>
+  <!-- EN: .338 Norma Magnum bullet (AP-HE) -->
+  <Bullet_338Norma_HE.label>TODO</Bullet_338Norma_HE.label>
+  <!-- EN: .338 Norma Magnum bullet (Sabot) -->
+  <Bullet_338Norma_Sabot.label>TODO</Bullet_338Norma_Sabot.label>
+
+
+</LanguageData>

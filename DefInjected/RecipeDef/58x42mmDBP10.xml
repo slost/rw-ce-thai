@@ -1,0 +1,48 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make 5.8x42mm DBP10 (FMJ) cartridge x500 -->
+  <MakeAmmo_58x42mmDBP10_FMJ.label>TODO</MakeAmmo_58x42mmDBP10_FMJ.label>
+  <!-- EN: Craft 500 5.8x42mm DBP10 (FMJ) cartridges. -->
+  <MakeAmmo_58x42mmDBP10_FMJ.description>TODO</MakeAmmo_58x42mmDBP10_FMJ.description>
+  <!-- EN: Making 5.8x42mm DBP10 (FMJ) cartridges. -->
+  <MakeAmmo_58x42mmDBP10_FMJ.jobString>TODO</MakeAmmo_58x42mmDBP10_FMJ.jobString>
+
+  <!-- EN: make 5.8x42mm DBP10 (AP) cartridge x500 -->
+  <MakeAmmo_58x42mmDBP10_AP.label>TODO</MakeAmmo_58x42mmDBP10_AP.label>
+  <!-- EN: Craft 500 5.8x42mm DBP10 (AP) cartridges. -->
+  <MakeAmmo_58x42mmDBP10_AP.description>TODO</MakeAmmo_58x42mmDBP10_AP.description>
+  <!-- EN: Making 5.8x42mm DBP10 (AP) cartridges. -->
+  <MakeAmmo_58x42mmDBP10_AP.jobString>TODO</MakeAmmo_58x42mmDBP10_AP.jobString>
+
+  <!-- EN: make 5.8x42mm DBP10 (HP) cartridge x500 -->
+  <MakeAmmo_58x42mmDBP10_HP.label>TODO</MakeAmmo_58x42mmDBP10_HP.label>
+  <!-- EN: Craft 500 5.8x42mm DBP10 (HP) cartridges. -->
+  <MakeAmmo_58x42mmDBP10_HP.description>TODO</MakeAmmo_58x42mmDBP10_HP.description>
+  <!-- EN: Making 5.8x42mm DBP10 (HP) cartridges. -->
+  <MakeAmmo_58x42mmDBP10_HP.jobString>TODO</MakeAmmo_58x42mmDBP10_HP.jobString>
+
+  <!-- EN: make 5.8x42mm DBP10 (AP-I) cartridge x500 -->
+  <MakeAmmo_58x42mmDBP10_Incendiary.label>TODO</MakeAmmo_58x42mmDBP10_Incendiary.label>
+  <!-- EN: Craft 500 5.8x42mm DBP10 (AP-I) cartridges. -->
+  <MakeAmmo_58x42mmDBP10_Incendiary.description>TODO</MakeAmmo_58x42mmDBP10_Incendiary.description>
+  <!-- EN: Making 5.8x42mm DBP10 (AP-I) cartridges. -->
+  <MakeAmmo_58x42mmDBP10_Incendiary.jobString>TODO</MakeAmmo_58x42mmDBP10_Incendiary.jobString>
+
+  <!-- EN: make 5.8x42mm DBP10 (AP-HE) cartridge x500 -->
+  <MakeAmmo_58x42mmDBP10_HE.label>TODO</MakeAmmo_58x42mmDBP10_HE.label>
+  <!-- EN: Craft 500 5.8x42mm DBP10 (AP-HE) cartridges. -->
+  <MakeAmmo_58x42mmDBP10_HE.description>TODO</MakeAmmo_58x42mmDBP10_HE.description>
+  <!-- EN: Making 5.8x42mm DBP10 (AP-HE) cartridges. -->
+  <MakeAmmo_58x42mmDBP10_HE.jobString>TODO</MakeAmmo_58x42mmDBP10_HE.jobString>
+
+  <!-- EN: make 5.8x42mm DBP10 (Sabot) cartridge x500 -->
+  <MakeAmmo_58x42mmDBP10_Sabot.label>TODO</MakeAmmo_58x42mmDBP10_Sabot.label>
+  <!-- EN: Craft 500 5.8x42mm DBP10 (Sabot) cartridges. -->
+  <MakeAmmo_58x42mmDBP10_Sabot.description>TODO</MakeAmmo_58x42mmDBP10_Sabot.description>
+  <!-- EN: Making 5.8x42mm DBP10 (Sabot) cartridges. -->
+  <MakeAmmo_58x42mmDBP10_Sabot.jobString>TODO</MakeAmmo_58x42mmDBP10_Sabot.jobString>
+
+
+</LanguageData>

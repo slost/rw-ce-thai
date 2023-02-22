@@ -1,0 +1,31 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: RPG-7 grenade (HEAT) -->
+  <Ammo_RPG7Grenade_HEAT.label>TODO</Ammo_RPG7Grenade_HEAT.label>
+  <!-- EN: Rocket-propelled grenade designed for the RPG-7 launcher. After being fired a rocket motor kicks in to propel the grenade further. -->
+  <Ammo_RPG7Grenade_HEAT.description>TODO</Ammo_RPG7Grenade_HEAT.description>
+
+  <!-- EN: RPG-7 grenade (Thermobaric) -->
+  <Ammo_RPG7Grenade_Thermobaric.label>TODO</Ammo_RPG7Grenade_Thermobaric.label>
+  <!-- EN: Rocket-propelled grenade designed for the RPG-7 launcher. After being fired a rocket motor kicks in to propel the grenade further. -->
+  <Ammo_RPG7Grenade_Thermobaric.description>TODO</Ammo_RPG7Grenade_Thermobaric.description>
+
+  <!-- EN: RPG-7 grenade (Frag) -->
+  <Ammo_RPG7Grenade_Frag.label>TODO</Ammo_RPG7Grenade_Frag.label>
+  <!-- EN: Rocket-propelled grenade designed for the RPG-7 launcher. After being fired a rocket motor kicks in to propel the grenade further. -->
+  <Ammo_RPG7Grenade_Frag.description>TODO</Ammo_RPG7Grenade_Frag.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: RPG-7 grenade (HEAT) -->
+  <Bullet_RPG7Grenade_HEAT.label>TODO</Bullet_RPG7Grenade_HEAT.label>
+  <!-- EN: RPG-7 grenade (Thermobaric) -->
+  <Bullet_RPG7Grenade_Thermobaric.label>TODO</Bullet_RPG7Grenade_Thermobaric.label>
+  <!-- EN: RPG-7 grenade (Frag) -->
+  <Bullet_RPG7Grenade_Frag.label>TODO</Bullet_RPG7Grenade_Frag.label>
+
+
+</LanguageData>

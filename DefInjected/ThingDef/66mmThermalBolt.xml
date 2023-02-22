@@ -1,0 +1,17 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 66mm thermal bolt (Incendiary) -->
+  <Ammo_66mmThermalBolt_Incendiary.label>TODO</Ammo_66mmThermalBolt_Incendiary.label>
+  <!-- EN: Mechanoid-built medium-velocity thermal bolt designed to be fired from a mortar. -->
+  <Ammo_66mmThermalBolt_Incendiary.description>TODO</Ammo_66mmThermalBolt_Incendiary.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 66mm thermal bolt (Incendiary) -->
+  <Bullet_66mmThermalBolt_Incendiary.label>TODO</Bullet_66mmThermalBolt_Incendiary.label>
+
+
+</LanguageData>

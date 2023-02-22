@@ -1,0 +1,52 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 9x39mm Soviet cartridge (FMJ) -->
+  <Ammo_9x39mmSoviet_FMJ.label>TODO</Ammo_9x39mmSoviet_FMJ.label>
+  <!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
+  <Ammo_9x39mmSoviet_FMJ.description>TODO</Ammo_9x39mmSoviet_FMJ.description>
+
+  <!-- EN: 9x39mm Soviet cartridge (AP) -->
+  <Ammo_9x39mmSoviet_AP.label>TODO</Ammo_9x39mmSoviet_AP.label>
+  <!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
+  <Ammo_9x39mmSoviet_AP.description>TODO</Ammo_9x39mmSoviet_AP.description>
+
+  <!-- EN: 9x39mm Soviet cartridge (HP) -->
+  <Ammo_9x39mmSoviet_HP.label>TODO</Ammo_9x39mmSoviet_HP.label>
+  <!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
+  <Ammo_9x39mmSoviet_HP.description>TODO</Ammo_9x39mmSoviet_HP.description>
+
+  <!-- EN: 9x39mm Soviet cartridge (AP-I) -->
+  <Ammo_9x39mmSoviet_Incendiary.label>TODO</Ammo_9x39mmSoviet_Incendiary.label>
+  <!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
+  <Ammo_9x39mmSoviet_Incendiary.description>TODO</Ammo_9x39mmSoviet_Incendiary.description>
+
+  <!-- EN: 9x39mm Soviet cartridge (AP-HE) -->
+  <Ammo_9x39mmSoviet_HE.label>TODO</Ammo_9x39mmSoviet_HE.label>
+  <!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
+  <Ammo_9x39mmSoviet_HE.description>TODO</Ammo_9x39mmSoviet_HE.description>
+
+  <!-- EN: 9x39mm Soviet cartridge (Sabot) -->
+  <Ammo_9x39mmSoviet_Sabot.label>TODO</Ammo_9x39mmSoviet_Sabot.label>
+  <!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
+  <Ammo_9x39mmSoviet_Sabot.description>TODO</Ammo_9x39mmSoviet_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 9mm Soviet bullet (FMJ) -->
+  <Bullet_9x39mmSoviet_FMJ.label>TODO</Bullet_9x39mmSoviet_FMJ.label>
+  <!-- EN: 9mm Soviet bullet (AP) -->
+  <Bullet_9x39mmSoviet_AP.label>TODO</Bullet_9x39mmSoviet_AP.label>
+  <!-- EN: 9mm Soviet bullet (HP) -->
+  <Bullet_9x39mmSoviet_HP.label>TODO</Bullet_9x39mmSoviet_HP.label>
+  <!-- EN: 9mm Soviet bullet (AP-I) -->
+  <Bullet_9x39mmSoviet_Incendiary.label>TODO</Bullet_9x39mmSoviet_Incendiary.label>
+  <!-- EN: 9mm Soviet bullet (AP-HE) -->
+  <Bullet_9x39mmSoviet_HE.label>TODO</Bullet_9x39mmSoviet_HE.label>
+  <!-- EN: 9mm Soviet bullet (Sabot) -->
+  <Bullet_9x39mmSoviet_Sabot.label>TODO</Bullet_9x39mmSoviet_Sabot.label>
+
+
+</LanguageData>

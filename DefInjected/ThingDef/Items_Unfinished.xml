@@ -1,0 +1,24 @@
+<LanguageData>
+
+  <!-- EN: Unfinished ammo batch -->
+  <UnfinishedAmmo.label>TODO</UnfinishedAmmo.label>
+  <!-- EN: Unfinished arrow batch -->
+  <UnfinishedArrows.label>TODO</UnfinishedArrows.label>
+  <!-- EN: Unfinished turret gun -->
+  <UnfinishedTurretGun.label>TODO</UnfinishedTurretGun.label>
+  <!-- EN: Unfinished shield -->
+  <UnfinishedShield.label>TODO</UnfinishedShield.label>
+
+  <!-- EN: unfinished hard metal armor -->
+  <UnfinishedSteeledTechArmor.label>TODO</UnfinishedSteeledTechArmor.label>
+  <!-- EN: An unfinished piece of hard metal armor. -->
+  <UnfinishedSteeledTechArmor.description>TODO</UnfinishedSteeledTechArmor.description>
+
+
+  <!-- Minified things -->
+
+  <!-- EN: improvised turret -->
+  <MinifiedTurretGun.label>TODO</MinifiedTurretGun.label>
+
+
+</LanguageData>

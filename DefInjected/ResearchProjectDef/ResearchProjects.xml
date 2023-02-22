@@ -1,0 +1,34 @@
+<LanguageData>
+
+  <!-- EN: gunpowder -->
+  <CE_Gunpowder.label>TODO</CE_Gunpowder.label>
+  <!-- EN: Craft early muzzle loading weapons and black powder ammunition. -->
+  <CE_Gunpowder.description>TODO</CE_Gunpowder.description>
+
+  <!-- EN: simple launchers -->
+  <CE_Launchers.label>TODO</CE_Launchers.label>
+  <!-- EN: Allows for the production of basic grenade and rocket launchers. -->
+  <CE_Launchers.description>TODO</CE_Launchers.description>
+
+  <!-- EN: advanced launchers -->
+  <CE_AdvancedLaunchers.label>TODO</CE_AdvancedLaunchers.label>
+  <!-- EN: Allows for the production of more advanced launchers and munitions like the incendiary, triple rocket, or doomsday launcher and time-fuzed explosives. -->
+  <CE_AdvancedLaunchers.description>TODO</CE_AdvancedLaunchers.description>
+
+  <!-- EN: advanced ammunition -->
+  <CE_AdvancedAmmo.label>TODO</CE_AdvancedAmmo.label>
+  <!-- EN: Allows for the production of advanced ammunition for small arms and light weapons systems like armor-piercing incendiary, sabot, and high-explosive rounds. -->
+  <CE_AdvancedAmmo.description>TODO</CE_AdvancedAmmo.description>
+
+  <!-- EN: basic optoelectronics -->
+  <CE_SimpleNV.label>TODO</CE_SimpleNV.label>
+  <!-- EN: Allows for the production of simple electro-optical devices, like night vision goggles. -->
+  <CE_SimpleNV.description>TODO</CE_SimpleNV.description>
+
+  <!-- EN: advanced optoelectronics -->
+  <CE_AdvancedNV.label>TODO</CE_AdvancedNV.label>
+  <!-- EN: Allows for the production of more advanced and specialized electro-optical devices, including better night vision goggles. -->
+  <CE_AdvancedNV.description>TODO</CE_AdvancedNV.description>
+
+
+</LanguageData>

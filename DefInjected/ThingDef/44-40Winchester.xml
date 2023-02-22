@@ -1,0 +1,52 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: .44-40 Winchester cartridge (FMJ) -->
+  <Ammo_44-40Winchester_FMJ.label>TODO</Ammo_44-40Winchester_FMJ.label>
+  <!-- EN: Ancient mid-late 19th century bullet traditionally loaded with 40 grains of blackpowder, typically used in repeating arms. -->
+  <Ammo_44-40Winchester_FMJ.description>TODO</Ammo_44-40Winchester_FMJ.description>
+
+  <!-- EN: .44-40 Winchester cartridge (AP) -->
+  <Ammo_44-40Winchester_AP.label>TODO</Ammo_44-40Winchester_AP.label>
+  <!-- EN: Ancient mid-late 19th century bullet traditionally loaded with 40 grains of blackpowder, typically used in repeating arms. -->
+  <Ammo_44-40Winchester_AP.description>TODO</Ammo_44-40Winchester_AP.description>
+
+  <!-- EN: .44-40 Winchester cartridge (HP) -->
+  <Ammo_44-40Winchester_HP.label>TODO</Ammo_44-40Winchester_HP.label>
+  <!-- EN: Ancient mid-late 19th century bullet traditionally loaded with 40 grains of blackpowder, typically used in repeating arms. -->
+  <Ammo_44-40Winchester_HP.description>TODO</Ammo_44-40Winchester_HP.description>
+
+  <!-- EN: .44-40 Winchester cartridge (AP-I) -->
+  <Ammo_44-40Winchester_Incendiary.label>TODO</Ammo_44-40Winchester_Incendiary.label>
+  <!-- EN: Ancient mid-late 19th century bullet traditionally loaded with 40 grains of blackpowder, typically used in repeating arms. -->
+  <Ammo_44-40Winchester_Incendiary.description>TODO</Ammo_44-40Winchester_Incendiary.description>
+
+  <!-- EN: .44-40 Winchester cartridge (AP-HE) -->
+  <Ammo_44-40Winchester_HE.label>TODO</Ammo_44-40Winchester_HE.label>
+  <!-- EN: Ancient mid-late 19th century bullet traditionally loaded with 40 grains of blackpowder, typically used in repeating arms. -->
+  <Ammo_44-40Winchester_HE.description>TODO</Ammo_44-40Winchester_HE.description>
+
+  <!-- EN: .44-40 Winchester cartridge (Sabot) -->
+  <Ammo_44-40Winchester_Sabot.label>TODO</Ammo_44-40Winchester_Sabot.label>
+  <!-- EN: Ancient mid-late 19th century bullet traditionally loaded with 40 grains of blackpowder, typically used in repeating arms. -->
+  <Ammo_44-40Winchester_Sabot.description>TODO</Ammo_44-40Winchester_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: .44-40 Winchester bullet (FMJ) -->
+  <Bullet_44-40Winchester_FMJ.label>TODO</Bullet_44-40Winchester_FMJ.label>
+  <!-- EN: .44-40 Winchester bullet (AP) -->
+  <Bullet_44-40Winchester_AP.label>TODO</Bullet_44-40Winchester_AP.label>
+  <!-- EN: .44-40 Winchester bullet (HP) -->
+  <Bullet_44-40Winchester_HP.label>TODO</Bullet_44-40Winchester_HP.label>
+  <!-- EN: .44-40 Winchester bullet (AP-I) -->
+  <Bullet_44-40Winchester_Incendiary.label>TODO</Bullet_44-40Winchester_Incendiary.label>
+  <!-- EN: .44-40 Winchester bullet (AP-HE) -->
+  <Bullet_44-40Winchester_HE.label>TODO</Bullet_44-40Winchester_HE.label>
+  <!-- EN: .44-40 Winchester bullet (Sabot) -->
+  <Bullet_44-40Winchester_Sabot.label>TODO</Bullet_44-40Winchester_Sabot.label>
+
+
+</LanguageData>

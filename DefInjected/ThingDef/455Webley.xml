@@ -1,0 +1,31 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: .455 Webley cartridge (FMJ) -->
+  <Ammo_455Webley_FMJ.label>TODO</Ammo_455Webley_FMJ.label>
+  <!-- EN: Low-velocity handgun cartridge most commonly used in top break revolvers. -->
+  <Ammo_455Webley_FMJ.description>TODO</Ammo_455Webley_FMJ.description>
+
+  <!-- EN: .455 Webley cartridge (AP) -->
+  <Ammo_455Webley_AP.label>TODO</Ammo_455Webley_AP.label>
+  <!-- EN: Low-velocity handgun cartridge most commonly used in top break revolvers. -->
+  <Ammo_455Webley_AP.description>TODO</Ammo_455Webley_AP.description>
+
+  <!-- EN: .455 Webley cartridge (HP) -->
+  <Ammo_455Webley_HP.label>TODO</Ammo_455Webley_HP.label>
+  <!-- EN: Low-velocity handgun cartridge most commonly used in top break revolvers. -->
+  <Ammo_455Webley_HP.description>TODO</Ammo_455Webley_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: .455 Webley bullet (FMJ) -->
+  <Bullet_455Webley_FMJ.label>TODO</Bullet_455Webley_FMJ.label>
+  <!-- EN: .455 Webley bullet (AP) -->
+  <Bullet_455Webley_AP.label>TODO</Bullet_455Webley_AP.label>
+  <!-- EN: .455 Webley bullet (HP) -->
+  <Bullet_455Webley_HP.label>TODO</Bullet_455Webley_HP.label>
+
+
+</LanguageData>

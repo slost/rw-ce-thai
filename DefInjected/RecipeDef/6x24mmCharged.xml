@@ -1,0 +1,27 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make 6x24mm Charged cartridge x500 -->
+  <MakeAmmo_6x24mmCharged.label>TODO</MakeAmmo_6x24mmCharged.label>
+  <!-- EN: Craft 500 6x24mm Charged cartridges. -->
+  <MakeAmmo_6x24mmCharged.description>TODO</MakeAmmo_6x24mmCharged.description>
+  <!-- EN: Making 6x24mm Charged cartridges. -->
+  <MakeAmmo_6x24mmCharged.jobString>TODO</MakeAmmo_6x24mmCharged.jobString>
+
+  <!-- EN: make 6x24mm Charged (Conc.) cartridge x500 -->
+  <MakeAmmo_6x24mmCharged_AP.label>TODO</MakeAmmo_6x24mmCharged_AP.label>
+  <!-- EN: Craft 500 6x24mm Charged (Conc.) cartridges. -->
+  <MakeAmmo_6x24mmCharged_AP.description>TODO</MakeAmmo_6x24mmCharged_AP.description>
+  <!-- EN: Making 6x24mm Charged (Conc.) cartridges. -->
+  <MakeAmmo_6x24mmCharged_AP.jobString>TODO</MakeAmmo_6x24mmCharged_AP.jobString>
+
+  <!-- EN: make 6x24mm Charged (Ion) cartridge x500 -->
+  <MakeAmmo_6x24mmCharged_Ion.label>TODO</MakeAmmo_6x24mmCharged_Ion.label>
+  <!-- EN: Craft 500 6x24mm Charged (Ion) cartridges. -->
+  <MakeAmmo_6x24mmCharged_Ion.description>TODO</MakeAmmo_6x24mmCharged_Ion.description>
+  <!-- EN: Making 6x24mm Charged (Ion) cartridges. -->
+  <MakeAmmo_6x24mmCharged_Ion.jobString>TODO</MakeAmmo_6x24mmCharged_Ion.jobString>
+
+
+</LanguageData>

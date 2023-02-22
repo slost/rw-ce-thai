@@ -1,0 +1,38 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: PG15V Rocket (HEAT) -->
+  <Ammo_PG15VRocket_HEAT.label>TODO</Ammo_PG15VRocket_HEAT.label>
+  <!-- EN: Tube launched rocket-propelled grenade used by SPG-9 recoilless launcher and the BMP-1's 2A28 Grom cannon. After being fired, a rocket motor kicks in to propel the grenade further. -->
+  <Ammo_PG15VRocket_HEAT.description>TODO</Ammo_PG15VRocket_HEAT.description>
+
+  <!-- EN: PG15V Rocket (Thermobaric) -->
+  <Ammo_PG15VRocket_Thermobaric.label>TODO</Ammo_PG15VRocket_Thermobaric.label>
+  <!-- EN: Tube launched rocket-propelled grenade used by SPG-9 recoilless launcher and the BMP-1's 2A28 Grom cannon. After being fired, a rocket motor kicks in to propel the grenade further. -->
+  <Ammo_PG15VRocket_Thermobaric.description>TODO</Ammo_PG15VRocket_Thermobaric.description>
+
+  <!-- EN: PG15V Rocket (HE) -->
+  <Ammo_PG15VRocket_Frag.label>TODO</Ammo_PG15VRocket_Frag.label>
+  <!-- EN: Tube launched rocket-propelled grenade used by SPG-9 recoilless launcher and the BMP-1's 2A28 Grom cannon. After being fired, a rocket motor kicks in to propel the grenade further. -->
+  <Ammo_PG15VRocket_Frag.description>TODO</Ammo_PG15VRocket_Frag.description>
+
+  <!-- EN: PG15V Rocket (EMP) -->
+  <Ammo_PG15VRocket_EMP.label>TODO</Ammo_PG15VRocket_EMP.label>
+  <!-- EN: Tube launched rocket-propelled grenade used by SPG-9 recoilless launcher and the BMP-1's 2A28 Grom cannon. After being fired, a rocket motor kicks in to propel the grenade further. -->
+  <Ammo_PG15VRocket_EMP.description>TODO</Ammo_PG15VRocket_EMP.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: PG15V Rocket (HEAT) -->
+  <Bullet_PG15VRocket_HEAT.label>TODO</Bullet_PG15VRocket_HEAT.label>
+  <!-- EN: PG15V Rocket (Thermobaric) -->
+  <Bullet_PG15VRocket_Thermobaric.label>TODO</Bullet_PG15VRocket_Thermobaric.label>
+  <!-- EN: PG15V Rocket (HE) -->
+  <Bullet_PG15VRocket_Frag.label>TODO</Bullet_PG15VRocket_Frag.label>
+  <!-- EN: PG15V Rocket (EMP) -->
+  <Bullet_PG15VRocket_EMP.label>TODO</Bullet_PG15VRocket_EMP.label>
+
+
+</LanguageData>

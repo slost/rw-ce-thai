@@ -1,0 +1,38 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 16 gauge shell (Buck) -->
+  <Ammo_16Gauge_Buck.label>TODO</Ammo_16Gauge_Buck.label>
+  <!-- EN: Common shotgun caliber used for medium game hunting. -->
+  <Ammo_16Gauge_Buck.description>TODO</Ammo_16Gauge_Buck.description>
+
+  <!-- EN: 16 gauge shell (Slug) -->
+  <Ammo_16Gauge_Slug.label>TODO</Ammo_16Gauge_Slug.label>
+  <!-- EN: Common shotgun caliber used for medium game hunting. -->
+  <Ammo_16Gauge_Slug.description>TODO</Ammo_16Gauge_Slug.description>
+
+  <!-- EN: 16 gauge shell (Bean) -->
+  <Ammo_16Gauge_Beanbag.label>TODO</Ammo_16Gauge_Beanbag.label>
+  <!-- EN: Common shotgun caliber used for medium game hunting. -->
+  <Ammo_16Gauge_Beanbag.description>TODO</Ammo_16Gauge_Beanbag.description>
+
+  <!-- EN: 16 gauge shell (EMP) -->
+  <Ammo_16Gauge_ElectroSlug.label>TODO</Ammo_16Gauge_ElectroSlug.label>
+  <!-- EN: Common shotgun caliber used for medium game hunting. -->
+  <Ammo_16Gauge_ElectroSlug.description>TODO</Ammo_16Gauge_ElectroSlug.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: buckshot pellet -->
+  <Bullet_16Gauge_Buck.label>TODO</Bullet_16Gauge_Buck.label>
+  <!-- EN: shotgun slug -->
+  <Bullet_16Gauge_Slug.label>TODO</Bullet_16Gauge_Slug.label>
+  <!-- EN: beanbag -->
+  <Bullet_16Gauge_Beanbag.label>TODO</Bullet_16Gauge_Beanbag.label>
+  <!-- EN: EMP slug -->
+  <Bullet_16Gauge_ElectroSlug.label>TODO</Bullet_16Gauge_ElectroSlug.label>
+
+
+</LanguageData>

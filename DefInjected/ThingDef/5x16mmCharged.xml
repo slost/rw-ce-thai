@@ -1,0 +1,17 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 5x16mm Charged cartridge -->
+  <Ammo_5x16mmCharged.label>TODO</Ammo_5x16mmCharged.label>
+  <!-- EN: Mechanoid-built charged shot ammo used in short range low caliber weapons. -->
+  <Ammo_5x16mmCharged.description>TODO</Ammo_5x16mmCharged.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 5x16mm Charged bullet -->
+  <Bullet_5x16mmCharged.label>TODO</Bullet_5x16mmCharged.label>
+
+
+</LanguageData>

@@ -1,0 +1,17 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 80x256mm fuel cell (Incendiary) -->
+  <Ammo_80x256mmFuel_Incendiary.label>TODO</Ammo_80x256mmFuel_Incendiary.label>
+  <!-- EN: Large fuel container for incendiary shot cannons. -->
+  <Ammo_80x256mmFuel_Incendiary.description>TODO</Ammo_80x256mmFuel_Incendiary.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 80x256mm fuel shell (Incendiary) -->
+  <Bullet_80x256mmFuel_Incendiary.label>TODO</Bullet_80x256mmFuel_Incendiary.label>
+
+
+</LanguageData>

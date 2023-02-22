@@ -1,0 +1,27 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make 9x18mm Makarov (FMJ) cartridge x500 -->
+  <MakeAmmo_9x18mmMakarov_FMJ.label>TODO</MakeAmmo_9x18mmMakarov_FMJ.label>
+  <!-- EN: Craft 500 9x18mm Makarov (FMJ) cartridges. -->
+  <MakeAmmo_9x18mmMakarov_FMJ.description>TODO</MakeAmmo_9x18mmMakarov_FMJ.description>
+  <!-- EN: Making 9x18mm Makarov (FMJ) cartridges. -->
+  <MakeAmmo_9x18mmMakarov_FMJ.jobString>TODO</MakeAmmo_9x18mmMakarov_FMJ.jobString>
+
+  <!-- EN: make 9x18mm Makarov (AP) cartridge x500 -->
+  <MakeAmmo_9x18mmMakarov_AP.label>TODO</MakeAmmo_9x18mmMakarov_AP.label>
+  <!-- EN: Craft 500 9x18mm Makarov (AP) cartridges. -->
+  <MakeAmmo_9x18mmMakarov_AP.description>TODO</MakeAmmo_9x18mmMakarov_AP.description>
+  <!-- EN: Making 9x18mm Makarov (AP) cartridges. -->
+  <MakeAmmo_9x18mmMakarov_AP.jobString>TODO</MakeAmmo_9x18mmMakarov_AP.jobString>
+
+  <!-- EN: make 9x18mm Makarov (HP) cartridge x500 -->
+  <MakeAmmo_9x18mmMakarov_HP.label>TODO</MakeAmmo_9x18mmMakarov_HP.label>
+  <!-- EN: Craft 500 9x18mm Makarov (HP) cartridges. -->
+  <MakeAmmo_9x18mmMakarov_HP.description>TODO</MakeAmmo_9x18mmMakarov_HP.description>
+  <!-- EN: Making 9x18mm Makarov (HP) cartridges. -->
+  <MakeAmmo_9x18mmMakarov_HP.jobString>TODO</MakeAmmo_9x18mmMakarov_HP.jobString>
+
+
+</LanguageData>

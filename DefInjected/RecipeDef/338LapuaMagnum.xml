@@ -1,0 +1,41 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make .338 Lapua Magnum (FMJ) cartridge x200 -->
+  <MakeAmmo_338Lapua_FMJ.label>TODO</MakeAmmo_338Lapua_FMJ.label>
+  <!-- EN: Craft 200 .338 Lapua Magnum (FMJ) cartridges. -->
+  <MakeAmmo_338Lapua_FMJ.description>TODO</MakeAmmo_338Lapua_FMJ.description>
+  <!-- EN: Making .338 Lapua Magnum (FMJ) cartridges. -->
+  <MakeAmmo_338Lapua_FMJ.jobString>TODO</MakeAmmo_338Lapua_FMJ.jobString>
+
+  <!-- EN: make .338 Lapua Magnum (AP) cartridge x200 -->
+  <MakeAmmo_338Lapua_AP.label>TODO</MakeAmmo_338Lapua_AP.label>
+  <!-- EN: Craft 200 .338 Lapua Magnum (AP) cartridges. -->
+  <MakeAmmo_338Lapua_AP.description>TODO</MakeAmmo_338Lapua_AP.description>
+  <!-- EN: Making .338 Lapua Magnum (AP) cartridges. -->
+  <MakeAmmo_338Lapua_AP.jobString>TODO</MakeAmmo_338Lapua_AP.jobString>
+
+  <!-- EN: make .338 Lapua Magnum (AP-I) cartridge x200 -->
+  <MakeAmmo_338Lapua_Incendiary.label>TODO</MakeAmmo_338Lapua_Incendiary.label>
+  <!-- EN: Craft 200 .338 Lapua Magnum (AP-I) cartridges. -->
+  <MakeAmmo_338Lapua_Incendiary.description>TODO</MakeAmmo_338Lapua_Incendiary.description>
+  <!-- EN: Making .338 Lapua Magnum (AP-I) cartridges. -->
+  <MakeAmmo_338Lapua_Incendiary.jobString>TODO</MakeAmmo_338Lapua_Incendiary.jobString>
+
+  <!-- EN: make .338 Lapua Magnum (AP-HE) cartridge x200 -->
+  <MakeAmmo_338Lapua_HE.label>TODO</MakeAmmo_338Lapua_HE.label>
+  <!-- EN: Craft 200 .338 Lapua Magnum (AP-HE) cartridges. -->
+  <MakeAmmo_338Lapua_HE.description>TODO</MakeAmmo_338Lapua_HE.description>
+  <!-- EN: Making .338 Lapua Magnum (AP-HE) cartridges. -->
+  <MakeAmmo_338Lapua_HE.jobString>TODO</MakeAmmo_338Lapua_HE.jobString>
+
+  <!-- EN: make .338 Lapua Magnum (Sabot) cartridge x200 -->
+  <MakeAmmo_338Lapua_Sabot.label>TODO</MakeAmmo_338Lapua_Sabot.label>
+  <!-- EN: Craft 200 .338 Lapua Magnum (Sabot) cartridges. -->
+  <MakeAmmo_338Lapua_Sabot.description>TODO</MakeAmmo_338Lapua_Sabot.description>
+  <!-- EN: Making .338 Lapua Magnum (Sabot) cartridges. -->
+  <MakeAmmo_338Lapua_Sabot.jobString>TODO</MakeAmmo_338Lapua_Sabot.jobString>
+
+
+</LanguageData>

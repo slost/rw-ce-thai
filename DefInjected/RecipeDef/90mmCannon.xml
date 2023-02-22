@@ -1,0 +1,34 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make 90mm HEAT cannon shells x5 -->
+  <MakeAmmo_90mmCannonShell_HEAT.label>TODO</MakeAmmo_90mmCannonShell_HEAT.label>
+  <!-- EN: Craft 5 90mm HEAT cannon shells. -->
+  <MakeAmmo_90mmCannonShell_HEAT.description>TODO</MakeAmmo_90mmCannonShell_HEAT.description>
+  <!-- EN: Making 90mm HEAT cannon shells. -->
+  <MakeAmmo_90mmCannonShell_HEAT.jobString>TODO</MakeAmmo_90mmCannonShell_HEAT.jobString>
+
+  <!-- EN: make 90mm HE cannon shells x5 -->
+  <MakeAmmo_90mmCannonShell_HE.label>TODO</MakeAmmo_90mmCannonShell_HE.label>
+  <!-- EN: Craft 5 90mm HE cannon shells. -->
+  <MakeAmmo_90mmCannonShell_HE.description>TODO</MakeAmmo_90mmCannonShell_HE.description>
+  <!-- EN: Making 90mm HE cannon shells. -->
+  <MakeAmmo_90mmCannonShell_HE.jobString>TODO</MakeAmmo_90mmCannonShell_HE.jobString>
+
+  <!-- EN: make 90mm HE airburst cannon shells x5 -->
+  <MakeAmmo_90mmCannonShell_HE_TFuzed.label>TODO</MakeAmmo_90mmCannonShell_HE_TFuzed.label>
+  <!-- EN: Craft 5 90mm HE airburst cannon shells. -->
+  <MakeAmmo_90mmCannonShell_HE_TFuzed.description>TODO</MakeAmmo_90mmCannonShell_HE_TFuzed.description>
+  <!-- EN: Making 90mm HE airburst cannon shells. -->
+  <MakeAmmo_90mmCannonShell_HE_TFuzed.jobString>TODO</MakeAmmo_90mmCannonShell_HE_TFuzed.jobString>
+
+  <!-- EN: make 90mm EMP cannon shells x5 -->
+  <MakeAmmo_90mmCannonShell_EMP.label>TODO</MakeAmmo_90mmCannonShell_EMP.label>
+  <!-- EN: Craft 5 90mm EMP cannon shells. -->
+  <MakeAmmo_90mmCannonShell_EMP.description>TODO</MakeAmmo_90mmCannonShell_EMP.description>
+  <!-- EN: Making 90mm EMP cannon shells. -->
+  <MakeAmmo_90mmCannonShell_EMP.jobString>TODO</MakeAmmo_90mmCannonShell_EMP.jobString>
+
+
+</LanguageData>

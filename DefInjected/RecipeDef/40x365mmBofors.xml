@@ -1,0 +1,20 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make 40x365mm Bofors (HE) cartridge x25 -->
+  <MakeAmmo_40x365mmBofors_HE.label>TODO</MakeAmmo_40x365mmBofors_HE.label>
+  <!-- EN: Craft 25 40x365mm Bofors (HE) cartridges. -->
+  <MakeAmmo_40x365mmBofors_HE.description>TODO</MakeAmmo_40x365mmBofors_HE.description>
+  <!-- EN: Making 40x365mm Bofors (HE) cartridges. -->
+  <MakeAmmo_40x365mmBofors_HE.jobString>TODO</MakeAmmo_40x365mmBofors_HE.jobString>
+
+  <!-- EN: make 40x365mm Bofors (AP) cartridge x25 -->
+  <MakeAmmo_40x365mmBofors_AP.label>TODO</MakeAmmo_40x365mmBofors_AP.label>
+  <!-- EN: Craft 25 40x365mm Bofors (AP) cartridges. -->
+  <MakeAmmo_40x365mmBofors_AP.description>TODO</MakeAmmo_40x365mmBofors_AP.description>
+  <!-- EN: Making 40x365mm Bofors (AP) cartridges. -->
+  <MakeAmmo_40x365mmBofors_AP.jobString>TODO</MakeAmmo_40x365mmBofors_AP.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,25 @@
+<LanguageData>
+
+  <!-- EN: reload turrets -->
+  <ReloadTurrets.label>TODO</ReloadTurrets.label>
+  <!-- EN: reload -->
+  <ReloadTurrets.verb>TODO</ReloadTurrets.verb>
+  <!-- EN: reloading -->
+  <ReloadTurrets.gerund>TODO</ReloadTurrets.gerund>
+
+  <!-- EN: make ammo -->
+  <DoBillsAmmoBench.label>TODO</DoBillsAmmoBench.label>
+  <!-- EN: produce ammo -->
+  <DoBillsAmmoBench.verb>TODO</DoBillsAmmoBench.verb>
+  <!-- EN: producing ammo at -->
+  <DoBillsAmmoBench.gerund>TODO</DoBillsAmmoBench.gerund>
+
+  <!-- EN: modify weapons -->
+  <ModifyWeapons.label>TODO</ModifyWeapons.label>
+  <!-- EN: attach attachments -->
+  <ModifyWeapons.verb>TODO</ModifyWeapons.verb>
+  <!-- EN: applying modifications at -->
+  <ModifyWeapons.gerund>TODO</ModifyWeapons.gerund>
+
+
+</LanguageData>

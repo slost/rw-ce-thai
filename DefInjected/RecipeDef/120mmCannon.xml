@@ -1,0 +1,20 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make 120mm HEAT cannon shells x2 -->
+  <MakeAmmo_120mmCannonShell_HEAT.label>TODO</MakeAmmo_120mmCannonShell_HEAT.label>
+  <!-- EN: Craft 2 120mm HEAT cannon shells. -->
+  <MakeAmmo_120mmCannonShell_HEAT.description>TODO</MakeAmmo_120mmCannonShell_HEAT.description>
+  <!-- EN: Making 120mm HEAT cannon shells. -->
+  <MakeAmmo_120mmCannonShell_HEAT.jobString>TODO</MakeAmmo_120mmCannonShell_HEAT.jobString>
+
+  <!-- EN: make 120mm HE cannon shells x2 -->
+  <MakeAmmo_120mmCannonShell_HE.label>TODO</MakeAmmo_120mmCannonShell_HE.label>
+  <!-- EN: Craft 2 120mm HE cannon shells. -->
+  <MakeAmmo_120mmCannonShell_HE.description>TODO</MakeAmmo_120mmCannonShell_HE.description>
+  <!-- EN: Making 120mm HE cannon shells. -->
+  <MakeAmmo_120mmCannonShell_HE.jobString>TODO</MakeAmmo_120mmCannonShell_HE.jobString>
+
+
+</LanguageData>

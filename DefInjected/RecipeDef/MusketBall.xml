@@ -1,0 +1,13 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make musket ball x100 -->
+  <MakeAmmo_MusketBall.label>TODO</MakeAmmo_MusketBall.label>
+  <!-- EN: Craft 100 musket balls. -->
+  <MakeAmmo_MusketBall.description>TODO</MakeAmmo_MusketBall.description>
+  <!-- EN: Making musket balls. -->
+  <MakeAmmo_MusketBall.jobString>TODO</MakeAmmo_MusketBall.jobString>
+
+
+</LanguageData>

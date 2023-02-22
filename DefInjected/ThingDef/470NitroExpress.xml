@@ -1,0 +1,45 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: .470 Nitro Express cartridge (FMJ) -->
+  <Ammo_470NitroExpress_FMJ.label>TODO</Ammo_470NitroExpress_FMJ.label>
+  <!-- EN: Large and powerful cartridge designed to be fired at large game, like elephants or rhinoceroses. -->
+  <Ammo_470NitroExpress_FMJ.description>TODO</Ammo_470NitroExpress_FMJ.description>
+
+  <!-- EN: .470 Nitro Express cartridge (AP) -->
+  <Ammo_470NitroExpress_AP.label>TODO</Ammo_470NitroExpress_AP.label>
+  <!-- EN: Large and powerful cartridge designed to be fired at large game, like elephants or rhinoceroses. -->
+  <Ammo_470NitroExpress_AP.description>TODO</Ammo_470NitroExpress_AP.description>
+
+  <!-- EN: .470 Nitro Express cartridge (AP-I) -->
+  <Ammo_470NitroExpress_Incendiary.label>TODO</Ammo_470NitroExpress_Incendiary.label>
+  <!-- EN: Large and powerful cartridge designed to be fired at large game, like elephants or rhinoceroses. -->
+  <Ammo_470NitroExpress_Incendiary.description>TODO</Ammo_470NitroExpress_Incendiary.description>
+
+  <!-- EN: .470 Nitro Express cartridge (AP-HE) -->
+  <Ammo_470NitroExpress_HE.label>TODO</Ammo_470NitroExpress_HE.label>
+  <!-- EN: Large and powerful cartridge designed to be fired at large game, like elephants or rhinoceroses. -->
+  <Ammo_470NitroExpress_HE.description>TODO</Ammo_470NitroExpress_HE.description>
+
+  <!-- EN: .470 Nitro Express cartridge (Sabot) -->
+  <Ammo_470NitroExpress_Sabot.label>TODO</Ammo_470NitroExpress_Sabot.label>
+  <!-- EN: Large and powerful cartridge designed to be fired at large game, like elephants or rhinoceroses. -->
+  <Ammo_470NitroExpress_Sabot.description>TODO</Ammo_470NitroExpress_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: .470 Nitro Express bullet (FMJ) -->
+  <Bullet_470NitroExpress_FMJ.label>TODO</Bullet_470NitroExpress_FMJ.label>
+  <!-- EN: .470 Nitro Express bullet (AP) -->
+  <Bullet_470NitroExpress_AP.label>TODO</Bullet_470NitroExpress_AP.label>
+  <!-- EN: .470 Nitro Express bullet (AP-I) -->
+  <Bullet_470NitroExpress_Incendiary.label>TODO</Bullet_470NitroExpress_Incendiary.label>
+  <!-- EN: .470 Nitro Express bullet (AP-HE) -->
+  <Bullet_470NitroExpress_HE.label>TODO</Bullet_470NitroExpress_HE.label>
+  <!-- EN: .470 Nitro Express bullet (Sabot) -->
+  <Bullet_470NitroExpress_Sabot.label>TODO</Bullet_470NitroExpress_Sabot.label>
+
+
+</LanguageData>

@@ -1,0 +1,34 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make 40x53mm VOG-25 HE grenades x100 -->
+  <MakeAmmo_40x53mmVOG25Grenade_HE.label>TODO</MakeAmmo_40x53mmVOG25Grenade_HE.label>
+  <!-- EN: Craft 100 40x53mm VOG-25 HE grenades. -->
+  <MakeAmmo_40x53mmVOG25Grenade_HE.description>TODO</MakeAmmo_40x53mmVOG25Grenade_HE.description>
+  <!-- EN: Making 40x53mm VOG-25 HE grenades. -->
+  <MakeAmmo_40x53mmVOG25Grenade_HE.jobString>TODO</MakeAmmo_40x53mmVOG25Grenade_HE.jobString>
+
+  <!-- EN: make 40x53mm VOG-25 HE airburst grenades x100 -->
+  <MakeAmmo_40x53mmVOG25Grenade_HE_TFuzed.label>TODO</MakeAmmo_40x53mmVOG25Grenade_HE_TFuzed.label>
+  <!-- EN: Craft 100 40x53mm VOG-25 HE airburst grenades. -->
+  <MakeAmmo_40x53mmVOG25Grenade_HE_TFuzed.description>TODO</MakeAmmo_40x53mmVOG25Grenade_HE_TFuzed.description>
+  <!-- EN: Making 40x53mm VOG-25 HE airburst grenades. -->
+  <MakeAmmo_40x53mmVOG25Grenade_HE_TFuzed.jobString>TODO</MakeAmmo_40x53mmVOG25Grenade_HE_TFuzed.jobString>
+
+  <!-- EN: make 40x53mm VOG-25 EMP grenades x100 -->
+  <MakeAmmo_40x53mmVOG25Grenade_EMP.label>TODO</MakeAmmo_40x53mmVOG25Grenade_EMP.label>
+  <!-- EN: Craft 100 40x53mm VOG-25 EMP grenades. -->
+  <MakeAmmo_40x53mmVOG25Grenade_EMP.description>TODO</MakeAmmo_40x53mmVOG25Grenade_EMP.description>
+  <!-- EN: Making 40x53mm VOG-25 EMP grenades. -->
+  <MakeAmmo_40x53mmVOG25Grenade_EMP.jobString>TODO</MakeAmmo_40x53mmVOG25Grenade_EMP.jobString>
+
+  <!-- EN: make 40x53mm VOG25 smoke grenades x100 -->
+  <MakeAmmo_40x53mmVOG25Grenade_Smoke.label>TODO</MakeAmmo_40x53mmVOG25Grenade_Smoke.label>
+  <!-- EN: Craft 100 40x53mmVOG25 smoke grenades. -->
+  <MakeAmmo_40x53mmVOG25Grenade_Smoke.description>TODO</MakeAmmo_40x53mmVOG25Grenade_Smoke.description>
+  <!-- EN: Making 40x53mmVOG25 smoke grenades. -->
+  <MakeAmmo_40x53mmVOG25Grenade_Smoke.jobString>TODO</MakeAmmo_40x53mmVOG25Grenade_Smoke.jobString>
+
+
+</LanguageData>

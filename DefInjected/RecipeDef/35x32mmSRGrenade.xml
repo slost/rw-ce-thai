@@ -1,0 +1,34 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make 35x32mmSR HE grenades x100 -->
+  <MakeAmmo_35x32mmSRGrenade_HE.label>TODO</MakeAmmo_35x32mmSRGrenade_HE.label>
+  <!-- EN: Craft 100 35x32mmSR HE grenades. -->
+  <MakeAmmo_35x32mmSRGrenade_HE.description>TODO</MakeAmmo_35x32mmSRGrenade_HE.description>
+  <!-- EN: Making 35x32mmSR HE grenades. -->
+  <MakeAmmo_35x32mmSRGrenade_HE.jobString>TODO</MakeAmmo_35x32mmSRGrenade_HE.jobString>
+
+  <!-- EN: make 35x32mmSR HEDP grenades x100 -->
+  <MakeAmmo_35x32mmSRGrenade_HEDP.label>TODO</MakeAmmo_35x32mmSRGrenade_HEDP.label>
+  <!-- EN: Craft 100 35x32mmSR HEDP grenades. -->
+  <MakeAmmo_35x32mmSRGrenade_HEDP.description>TODO</MakeAmmo_35x32mmSRGrenade_HEDP.description>
+  <!-- EN: Making 35x32mmSR HEDP grenades. -->
+  <MakeAmmo_35x32mmSRGrenade_HEDP.jobString>TODO</MakeAmmo_35x32mmSRGrenade_HEDP.jobString>
+
+  <!-- EN: make 35x32mmSR EMP grenades x100 -->
+  <MakeAmmo_35x32mmSRGrenade_EMP.label>TODO</MakeAmmo_35x32mmSRGrenade_EMP.label>
+  <!-- EN: Craft 100 35x32mmSR EMP grenades. -->
+  <MakeAmmo_35x32mmSRGrenade_EMP.description>TODO</MakeAmmo_35x32mmSRGrenade_EMP.description>
+  <!-- EN: Making 35x32mmSR EMP grenades. -->
+  <MakeAmmo_35x32mmSRGrenade_EMP.jobString>TODO</MakeAmmo_35x32mmSRGrenade_EMP.jobString>
+
+  <!-- EN: make 35x32mmSR smoke grenades x100 -->
+  <MakeAmmo_35x32mmSRGrenade_Smoke.label>TODO</MakeAmmo_35x32mmSRGrenade_Smoke.label>
+  <!-- EN: Craft 100 35x32mmSR smoke grenades. -->
+  <MakeAmmo_35x32mmSRGrenade_Smoke.description>TODO</MakeAmmo_35x32mmSRGrenade_Smoke.description>
+  <!-- EN: Making 35x32mmSR smoke grenades. -->
+  <MakeAmmo_35x32mmSRGrenade_Smoke.jobString>TODO</MakeAmmo_35x32mmSRGrenade_Smoke.jobString>
+
+
+</LanguageData>

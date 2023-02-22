@@ -1,0 +1,17 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 15cm Nebelwerfer Rocket (HE) -->
+  <Ammo_15cmNebelwerfer_HE.label>TODO</Ammo_15cmNebelwerfer_HE.label>
+  <!-- EN: 15cm heavy rocket typically used in multi-barrel rocket artillery launchers. -->
+  <Ammo_15cmNebelwerfer_HE.description>TODO</Ammo_15cmNebelwerfer_HE.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 15cm Nebelwerfer Rocket (HE) -->
+  <Bullet_15cmNebelwerfer_HE.label>TODO</Bullet_15cmNebelwerfer_HE.label>
+
+
+</LanguageData>

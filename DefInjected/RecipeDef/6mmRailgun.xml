@@ -1,0 +1,13 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make 6mm Railgun cartridge (Sabot) x500 -->
+  <MakeAmmo_6mmRailgun_Sabot.label>TODO</MakeAmmo_6mmRailgun_Sabot.label>
+  <!-- EN: Craft 500 6mm Railgun (Sabot) cartridges. -->
+  <MakeAmmo_6mmRailgun_Sabot.description>TODO</MakeAmmo_6mmRailgun_Sabot.description>
+  <!-- EN: Making 6mm Railgun (Sabot) cartridges. -->
+  <MakeAmmo_6mmRailgun_Sabot.jobString>TODO</MakeAmmo_6mmRailgun_Sabot.jobString>
+
+
+</LanguageData>

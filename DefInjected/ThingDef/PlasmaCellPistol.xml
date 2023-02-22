@@ -1,0 +1,17 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: Plasma Pistol Power Cell -->
+  <Ammo_PlasmaCellPistol.label>TODO</Ammo_PlasmaCellPistol.label>
+  <!-- EN: Plasma containment power cell optimized for pistols -->
+  <Ammo_PlasmaCellPistol.description>TODO</Ammo_PlasmaCellPistol.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: Plasma Bolt -->
+  <Bullet_PlasmaCellPistol.label>TODO</Bullet_PlasmaCellPistol.label>
+
+
+</LanguageData>

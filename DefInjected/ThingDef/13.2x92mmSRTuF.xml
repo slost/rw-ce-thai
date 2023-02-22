@@ -1,0 +1,45 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 13.2x92mmSR TuF cartridge (FMJ) -->
+  <Ammo_132x92mmSRTuF_FMJ.label>TODO</Ammo_132x92mmSRTuF_FMJ.label>
+  <!-- EN: Outdated large caliber bullet used in anti-materiel rifles. -->
+  <Ammo_132x92mmSRTuF_FMJ.description>TODO</Ammo_132x92mmSRTuF_FMJ.description>
+
+  <!-- EN: 13.2x92mmSR TuF cartridge (AP) -->
+  <Ammo_132x92mmSRTuF_AP.label>TODO</Ammo_132x92mmSRTuF_AP.label>
+  <!-- EN: Outdated large caliber bullet used in anti-materiel rifles. -->
+  <Ammo_132x92mmSRTuF_AP.description>TODO</Ammo_132x92mmSRTuF_AP.description>
+
+  <!-- EN: 13.2x92mmSR TuF cartridge (AP-I) -->
+  <Ammo_132x92mmSRTuF_Incendiary.label>TODO</Ammo_132x92mmSRTuF_Incendiary.label>
+  <!-- EN: Outdated large caliber bullet used in anti-materiel rifles. -->
+  <Ammo_132x92mmSRTuF_Incendiary.description>TODO</Ammo_132x92mmSRTuF_Incendiary.description>
+
+  <!-- EN: 13.2x92mmSR TuF cartridge (AP-HE) -->
+  <Ammo_132x92mmSRTuF_HE.label>TODO</Ammo_132x92mmSRTuF_HE.label>
+  <!-- EN: Outdated large caliber bullet used in anti-materiel rifles. -->
+  <Ammo_132x92mmSRTuF_HE.description>TODO</Ammo_132x92mmSRTuF_HE.description>
+
+  <!-- EN: 13.2x92mmSR TuF cartridge (Sabot) -->
+  <Ammo_132x92mmSRTuF_Sabot.label>TODO</Ammo_132x92mmSRTuF_Sabot.label>
+  <!-- EN: Outdated large caliber bullet used in anti-materiel rifles. -->
+  <Ammo_132x92mmSRTuF_Sabot.description>TODO</Ammo_132x92mmSRTuF_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 13.2mm TuF bullet (FMJ) -->
+  <Bullet_132x92mmSRTuF_FMJ.label>TODO</Bullet_132x92mmSRTuF_FMJ.label>
+  <!-- EN: 13.2mm TuF bullet (AP) -->
+  <Bullet_132x92mmSRTuF_AP.label>TODO</Bullet_132x92mmSRTuF_AP.label>
+  <!-- EN: 13.2x92mmSR TuF bullet (AP-I) -->
+  <Bullet_132x92mmSRTuF_Incendiary.label>TODO</Bullet_132x92mmSRTuF_Incendiary.label>
+  <!-- EN: 13.2x92mmSR TuF bullet (AP-HE) -->
+  <Bullet_132x92mmSRTuF_HE.label>TODO</Bullet_132x92mmSRTuF_HE.label>
+  <!-- EN: 13.2x92mmSR TuF bullet (Sabot) -->
+  <Bullet_132x92mmSRTuF_Sabot.label>TODO</Bullet_132x92mmSRTuF_Sabot.label>
+
+
+</LanguageData>

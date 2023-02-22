@@ -1,0 +1,17 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 50mm type 89 mortar shell (HE) -->
+  <Ammo_50mmType89MortarShell_HE.label>TODO</Ammo_50mmType89MortarShell_HE.label>
+  <!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+  <Ammo_50mmType89MortarShell_HE.description>TODO</Ammo_50mmType89MortarShell_HE.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 50mm type 89 mortar shell (HE) -->
+  <Bullet_50mmType89MortarShell_HE.label>TODO</Bullet_50mmType89MortarShell_HE.label>
+
+
+</LanguageData>

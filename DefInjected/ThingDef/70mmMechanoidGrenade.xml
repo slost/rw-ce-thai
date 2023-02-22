@@ -1,0 +1,24 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 70mm mechanoid grenade (HE) -->
+  <Ammo_70mmMechanoidGrenade_HE.label>TODO</Ammo_70mmMechanoidGrenade_HE.label>
+  <!-- EN: Low velocity, large bore grenade fired from mechanoid grenade launchers. -->
+  <Ammo_70mmMechanoidGrenade_HE.description>TODO</Ammo_70mmMechanoidGrenade_HE.description>
+
+  <!-- EN: 70mm mechanoid grenade (EMP) -->
+  <Ammo_70mmMechanoidGrenade_EMP.label>TODO</Ammo_70mmMechanoidGrenade_EMP.label>
+  <!-- EN: Low velocity, large bore grenade fired from mechanoid grenade launchers. -->
+  <Ammo_70mmMechanoidGrenade_EMP.description>TODO</Ammo_70mmMechanoidGrenade_EMP.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 70mm mechanoid grenade (HE) -->
+  <Bullet_70mmMechanoidGrenade_HE.label>TODO</Bullet_70mmMechanoidGrenade_HE.label>
+  <!-- EN: 70mm mechanoid grenade (EMP) -->
+  <Bullet_70mmMechanoidGrenade_EMP.label>TODO</Bullet_70mmMechanoidGrenade_EMP.label>
+
+
+</LanguageData>

@@ -1,0 +1,19 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 5x100mm Caseless cartridge (Sabot) -->
+  <Ammo_5x100mmCaseless_Sabot.label>TODO</Ammo_5x100mmCaseless_Sabot.label>
+  <!-- EN: A long caseless cartridge with a solid propellant enveloping the slim projectile. -->
+  <Ammo_5x100mmCaseless_Sabot.description>TODO</Ammo_5x100mmCaseless_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 5x100 Caseless bullet (Sabot) -->
+  <Bullet_5x100mmCaseless_Sabot.label>TODO</Bullet_5x100mmCaseless_Sabot.label>
+  <!-- EN: 5x100 Caseless bullet (Toxic) -->
+  <Bullet_5x100mmCaseless_Toxic.label>TODO</Bullet_5x100mmCaseless_Toxic.label>
+
+
+</LanguageData>

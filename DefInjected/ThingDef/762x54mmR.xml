@@ -1,0 +1,52 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 7.62x54mmR cartridge (FMJ) -->
+  <Ammo_762x54mmR_FMJ.label>TODO</Ammo_762x54mmR_FMJ.label>
+  <!-- EN: Rimmed rifle cartridge used by many machine guns, bolt-action and sniper rifles. -->
+  <Ammo_762x54mmR_FMJ.description>TODO</Ammo_762x54mmR_FMJ.description>
+
+  <!-- EN: 7.62x54mmR cartridge (AP) -->
+  <Ammo_762x54mmR_AP.label>TODO</Ammo_762x54mmR_AP.label>
+  <!-- EN: Rimmed rifle cartridge used by many machine guns, bolt-action and sniper rifles. -->
+  <Ammo_762x54mmR_AP.description>TODO</Ammo_762x54mmR_AP.description>
+
+  <!-- EN: 7.62x54mmR cartridge (HP) -->
+  <Ammo_762x54mmR_HP.label>TODO</Ammo_762x54mmR_HP.label>
+  <!-- EN: Rimmed rifle cartridge used by many machine guns, bolt-action and sniper rifles. -->
+  <Ammo_762x54mmR_HP.description>TODO</Ammo_762x54mmR_HP.description>
+
+  <!-- EN: 7.62x54mmR cartridge (AP-I) -->
+  <Ammo_762x54mmR_Incendiary.label>TODO</Ammo_762x54mmR_Incendiary.label>
+  <!-- EN: Rimmed rifle cartridge used by many machine guns, bolt-action and sniper rifles. -->
+  <Ammo_762x54mmR_Incendiary.description>TODO</Ammo_762x54mmR_Incendiary.description>
+
+  <!-- EN: 7.62x54mmR cartridge (AP-HE) -->
+  <Ammo_762x54mmR_HE.label>TODO</Ammo_762x54mmR_HE.label>
+  <!-- EN: Rimmed rifle cartridge used by many machine guns, bolt-action and sniper rifles. -->
+  <Ammo_762x54mmR_HE.description>TODO</Ammo_762x54mmR_HE.description>
+
+  <!-- EN: 7.62x54mmR cartridge (Sabot) -->
+  <Ammo_762x54mmR_Sabot.label>TODO</Ammo_762x54mmR_Sabot.label>
+  <!-- EN: Rimmed rifle cartridge used by many machine guns, bolt-action and sniper rifles. -->
+  <Ammo_762x54mmR_Sabot.description>TODO</Ammo_762x54mmR_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 7.62mmR bullet (FMJ) -->
+  <Bullet_762x54mmR_FMJ.label>TODO</Bullet_762x54mmR_FMJ.label>
+  <!-- EN: 7.62mmR bullet (AP) -->
+  <Bullet_762x54mmR_AP.label>TODO</Bullet_762x54mmR_AP.label>
+  <!-- EN: 7.62mmR bullet (HP) -->
+  <Bullet_762x54mmR_HP.label>TODO</Bullet_762x54mmR_HP.label>
+  <!-- EN: 7.62mmR bullet (AP-I) -->
+  <Bullet_762x54mmR_Incendiary.label>TODO</Bullet_762x54mmR_Incendiary.label>
+  <!-- EN: 7.62mmR bullet (AP-HE) -->
+  <Bullet_762x54mmR_HE.label>TODO</Bullet_762x54mmR_HE.label>
+  <!-- EN: 7.62mmR bullet (Sabot) -->
+  <Bullet_762x54mmR_Sabot.label>TODO</Bullet_762x54mmR_Sabot.label>
+
+
+</LanguageData>

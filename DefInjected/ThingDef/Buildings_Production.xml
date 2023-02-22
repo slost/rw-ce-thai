@@ -1,0 +1,26 @@
+<LanguageData>
+
+  <!-- Work tables -->
+
+  <!-- EN: loading bench -->
+  <AmmoBench.label>TODO</AmmoBench.label>
+  <!-- EN: A workstation for handloading ammo. -->
+  <AmmoBench.description>TODO</AmmoBench.description>
+  <!-- EN: loading bench (blueprint) -->
+  <AmmoBench_Blueprint.label>TODO</AmmoBench_Blueprint.label>
+  <!-- EN: loading bench (blueprint) -->
+  <AmmoBench_Blueprint_Install.label>TODO</AmmoBench_Blueprint_Install.label>
+  <!-- EN: loading bench (building) -->
+  <AmmoBench_Frame.label>TODO</AmmoBench_Frame.label>
+  <!-- EN: A workstation for handloading ammo. -->
+  <AmmoBench_Frame.description>TODO</AmmoBench_Frame.description>
+
+  <!-- EN: gunsmithing bench -->
+  <GunsmithingBench.label>TODO</GunsmithingBench.label>
+  <!-- EN: A workstation for creating and attaching attachments to weapons. -->
+  <GunsmithingBench.description>TODO</GunsmithingBench.description>
+  <!-- EN: gunsmithing bench (blueprint) -->
+  <GunsmithingBench_Blueprint_Install.label>TODO</GunsmithingBench_Blueprint_Install.label>
+
+
+</LanguageData>

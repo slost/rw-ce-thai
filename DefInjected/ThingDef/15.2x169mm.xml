@@ -1,0 +1,17 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 15.2x169mm cartridge (Sabot) -->
+  <Ammo_152x169mm_Sabot.label>TODO</Ammo_152x169mm_Sabot.label>
+  <!-- EN: Prototype smoothbore cartridge designed for anti-material use. -->
+  <Ammo_152x169mm_Sabot.description>TODO</Ammo_152x169mm_Sabot.description>
+
+
+  <!-- Projectile -->
+
+  <!-- EN: 15.2x169mm bullet (Sabot) -->
+  <Bullet_152x169mm_Sabot.label>TODO</Bullet_152x169mm_Sabot.label>
+
+
+</LanguageData>

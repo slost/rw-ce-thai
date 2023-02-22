@@ -1,0 +1,115 @@
+<LanguageData>
+
+  <!-- Blaster Turret -->
+
+  <!-- EN: charge blaster auto-turret -->
+  <Turret_Blaster.label>TODO</Turret_Blaster.label>
+  <!-- EN: Automatic turret equipped with a charge blaster. -->
+  <Turret_Blaster.description>TODO</Turret_Blaster.description>
+  <!-- EN: charge blaster auto-turret (blueprint) -->
+  <Turret_Blaster_Blueprint.label>TODO</Turret_Blaster_Blueprint.label>
+  <!-- EN: charge blaster auto-turret (blueprint) -->
+  <Turret_Blaster_Blueprint_Install.label>TODO</Turret_Blaster_Blueprint_Install.label>
+  <!-- EN: charge blaster auto-turret (building) -->
+  <Turret_Blaster_Frame.label>TODO</Turret_Blaster_Frame.label>
+  <!-- EN: Automatic turret equipped with a charge blaster. -->
+  <Turret_Blaster_Frame.description>TODO</Turret_Blaster_Frame.description>
+
+
+  <!-- Heavy Turret -->
+
+  <!-- EN: heavy auto-turret -->
+  <Turret_Heavy.label>TODO</Turret_Heavy.label>
+  <!-- EN: Plated automatic turret equiped with a high caliber machine gun. Very resistant to damage. -->
+  <Turret_Heavy.description>TODO</Turret_Heavy.description>
+  <!-- EN: heavy auto-turret (blueprint) -->
+  <Turret_Heavy_Blueprint.label>TODO</Turret_Heavy_Blueprint.label>
+  <!-- EN: heavy auto-turret (blueprint) -->
+  <Turret_Heavy_Blueprint_Install.label>TODO</Turret_Heavy_Blueprint_Install.label>
+  <!-- EN: heavy auto-turret (building) -->
+  <Turret_Heavy_Frame.label>TODO</Turret_Heavy_Frame.label>
+  <!-- EN: Plated automatic turret equiped with a high caliber machine gun. Very resistant to damage. -->
+  <Turret_Heavy_Frame.description>TODO</Turret_Heavy_Frame.description>
+
+
+  <!-- Medium Turret -->
+
+  <!-- EN: medium auto-turret -->
+  <Turret_Medium.label>TODO</Turret_Medium.label>
+  <!-- EN: Automatic turret equiped with a full powered cartridge machine gun. Fairly resistant to damage. -->
+  <Turret_Medium.description>TODO</Turret_Medium.description>
+  <!-- EN: medium auto-turret (blueprint) -->
+  <Turret_Medium_Blueprint.label>TODO</Turret_Medium_Blueprint.label>
+  <!-- EN: medium auto-turret (blueprint) -->
+  <Turret_Medium_Blueprint_Install.label>TODO</Turret_Medium_Blueprint_Install.label>
+  <!-- EN: medium auto-turret (building) -->
+  <Turret_Medium_Frame.label>TODO</Turret_Medium_Frame.label>
+  <!-- EN: Automatic turret equiped with a full powered cartridge machine gun. Fairly resistant to damage. -->
+  <Turret_Medium_Frame.description>TODO</Turret_Medium_Frame.description>
+
+
+  <!-- KPV -->
+
+  <!-- EN: KPV machine gun -->
+  <Turret_KPV.label>TODO</Turret_KPV.label>
+  <!-- EN: KPV heavy machine gun mounted on a tripod. -->
+  <Turret_KPV.description>TODO</Turret_KPV.description>
+  <!-- EN: KPV machine gun (blueprint) -->
+  <Turret_KPV_Blueprint.label>TODO</Turret_KPV_Blueprint.label>
+  <!-- EN: KPV machine gun (blueprint) -->
+  <Turret_KPV_Blueprint_Install.label>TODO</Turret_KPV_Blueprint_Install.label>
+  <!-- EN: KPV machine gun (building) -->
+  <Turret_KPV_Frame.label>TODO</Turret_KPV_Frame.label>
+  <!-- EN: KPV heavy machine gun mounted on a tripod. -->
+  <Turret_KPV_Frame.description>TODO</Turret_KPV_Frame.description>
+
+
+  <!-- M240B -->
+
+  <!-- EN: M240B -->
+  <Turret_M240B.label>TODO</Turret_M240B.label>
+  <!-- EN: M240B medium machine gun mounted on a tripod. -->
+  <Turret_M240B.description>TODO</Turret_M240B.description>
+  <!-- EN: M240B (blueprint) -->
+  <Turret_M240B_Blueprint.label>TODO</Turret_M240B_Blueprint.label>
+  <!-- EN: M240B (blueprint) -->
+  <Turret_M240B_Blueprint_Install.label>TODO</Turret_M240B_Blueprint_Install.label>
+  <!-- EN: M240B (building) -->
+  <Turret_M240B_Frame.label>TODO</Turret_M240B_Frame.label>
+  <!-- EN: M240B medium machine gun mounted on a tripod. -->
+  <Turret_M240B_Frame.description>TODO</Turret_M240B_Frame.description>
+
+
+  <!-- AGS-30 -->
+
+  <!-- EN: AGS-30 -->
+  <Turret_AGSThirty.label>TODO</Turret_AGSThirty.label>
+  <!-- EN: Lightweight automatic grenade launcher mounted on a tripod. -->
+  <Turret_AGSThirty.description>TODO</Turret_AGSThirty.description>
+  <!-- EN: AGS-30 (blueprint) -->
+  <Turret_AGSThirty_Blueprint.label>TODO</Turret_AGSThirty_Blueprint.label>
+  <!-- EN: AGS-30 (blueprint) -->
+  <Turret_AGSThirty_Blueprint_Install.label>TODO</Turret_AGSThirty_Blueprint_Install.label>
+  <!-- EN: AGS-30 (building) -->
+  <Turret_AGSThirty_Frame.label>TODO</Turret_AGSThirty_Frame.label>
+  <!-- EN: Lightweight automatic grenade launcher mounted on a tripod. -->
+  <Turret_AGSThirty_Frame.description>TODO</Turret_AGSThirty_Frame.description>
+
+
+  <!-- Flak cannon -->
+
+  <!-- EN: 90mm flak turret -->
+  <Turret_Flak.label>TODO</Turret_Flak.label>
+  <!-- EN: Old school anti-aircraft cannon. Ineffective against modern aviation but still popular on rimworlds for use against entrenched enemies and vehicles. -->
+  <Turret_Flak.description>TODO</Turret_Flak.description>
+  <!-- EN: 90mm flak turret (blueprint) -->
+  <Turret_Flak_Blueprint.label>TODO</Turret_Flak_Blueprint.label>
+  <!-- EN: 90mm flak turret (blueprint) -->
+  <Turret_Flak_Blueprint_Install.label>TODO</Turret_Flak_Blueprint_Install.label>
+  <!-- EN: 90mm flak turret (building) -->
+  <Turret_Flak_Frame.label>TODO</Turret_Flak_Frame.label>
+  <!-- EN: Old school anti-aircraft cannon. Ineffective against modern aviation but still popular on rimworlds for use against entrenched enemies and vehicles. -->
+  <Turret_Flak_Frame.description>TODO</Turret_Flak_Frame.description>
+
+
+</LanguageData>

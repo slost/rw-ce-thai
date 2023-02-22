@@ -1,0 +1,52 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: .300 AAC Blackout cartridge (FMJ) -->
+  <Ammo_300AACBlackout_FMJ.label>TODO</Ammo_300AACBlackout_FMJ.label>
+  <!-- EN: Intermediate rifle cartridge that was designed to achieve ballistics similar to 7.62x39mm. -->
+  <Ammo_300AACBlackout_FMJ.description>TODO</Ammo_300AACBlackout_FMJ.description>
+
+  <!-- EN: .300 AAC Blackout cartridge (AP) -->
+  <Ammo_300AACBlackout_AP.label>TODO</Ammo_300AACBlackout_AP.label>
+  <!-- EN: Intermediate rifle cartridge that was designed to achieve ballistics similar to 7.62x39mm. -->
+  <Ammo_300AACBlackout_AP.description>TODO</Ammo_300AACBlackout_AP.description>
+
+  <!-- EN: .300 AAC Blackout cartridge (HP) -->
+  <Ammo_300AACBlackout_HP.label>TODO</Ammo_300AACBlackout_HP.label>
+  <!-- EN: Intermediate rifle cartridge that was designed to achieve ballistics similar to 7.62x39mm. -->
+  <Ammo_300AACBlackout_HP.description>TODO</Ammo_300AACBlackout_HP.description>
+
+  <!-- EN: .300 AAC Blackout cartridge (AP-I) -->
+  <Ammo_300AACBlackout_Incendiary.label>TODO</Ammo_300AACBlackout_Incendiary.label>
+  <!-- EN: Intermediate rifle cartridge that was designed to achieve ballistics similar to 7.62x39mm. -->
+  <Ammo_300AACBlackout_Incendiary.description>TODO</Ammo_300AACBlackout_Incendiary.description>
+
+  <!-- EN: .300 AAC Blackout cartridge (AP-HE) -->
+  <Ammo_300AACBlackout_HE.label>TODO</Ammo_300AACBlackout_HE.label>
+  <!-- EN: Intermediate rifle cartridge that was designed to achieve ballistics similar to 7.62x39mm. -->
+  <Ammo_300AACBlackout_HE.description>TODO</Ammo_300AACBlackout_HE.description>
+
+  <!-- EN: .300 AAC Blackout cartridge (Sabot) -->
+  <Ammo_300AACBlackout_Sabot.label>TODO</Ammo_300AACBlackout_Sabot.label>
+  <!-- EN: Intermediate rifle cartridge that was designed to achieve ballistics similar to 7.62x39mm. -->
+  <Ammo_300AACBlackout_Sabot.description>TODO</Ammo_300AACBlackout_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: .300 AAC Blackout bullet (FMJ) -->
+  <Bullet_300AACBlackout_FMJ.label>TODO</Bullet_300AACBlackout_FMJ.label>
+  <!-- EN: .300 AAC Blackout bullet (AP) -->
+  <Bullet_300AACBlackout_AP.label>TODO</Bullet_300AACBlackout_AP.label>
+  <!-- EN: .300 AAC Blackout bullet (HP) -->
+  <Bullet_300AACBlackout_HP.label>TODO</Bullet_300AACBlackout_HP.label>
+  <!-- EN: .300 AAC Blackout bullet (AP-I) -->
+  <Bullet_300AACBlackout_Incendiary.label>TODO</Bullet_300AACBlackout_Incendiary.label>
+  <!-- EN: .300 AAC Blackout bullet (AP-HE) -->
+  <Bullet_300AACBlackout_HE.label>TODO</Bullet_300AACBlackout_HE.label>
+  <!-- EN: .300 AAC Blackout bullet (Sabot) -->
+  <Bullet_300AACBlackout_Sabot.label>TODO</Bullet_300AACBlackout_Sabot.label>
+
+
+</LanguageData>

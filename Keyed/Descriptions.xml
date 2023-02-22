@@ -1,0 +1,28 @@
+<LanguageData>
+
+  <!-- EN: Damage -->
+  <CE_DescDamage>TODO</CE_DescDamage>
+  <!-- EN: Base damage -->
+  <CE_DescBaseDamage>TODO</CE_DescBaseDamage>
+  <!-- EN: Explosion radius -->
+  <CE_DescExplosionRadius>TODO</CE_DescExplosionRadius>
+  <!-- EN: Secondary explosion -->
+  <CE_DescSecondaryExplosion>TODO</CE_DescSecondaryExplosion>
+  <!-- EN: Armor penetration -->
+  <CE_DescArmorPenetration>TODO</CE_DescArmorPenetration>
+  <!-- EN: Sharp penetration -->
+  <CE_DescSharpPenetration>TODO</CE_DescSharpPenetration>
+  <!-- EN: Blunt penetration -->
+  <CE_DescBluntPenetration>TODO</CE_DescBluntPenetration>
+  <!-- EN: Pellet count -->
+  <CE_DescPelletCount>TODO</CE_DescPelletCount>
+  <!-- EN: Spread factor -->
+  <CE_DescSpreadMult>TODO</CE_DescSpreadMult>
+  <!-- EN: Fragments -->
+  <CE_DescFragments>TODO</CE_DescFragments>
+  <!-- EN: Multiplier: -->
+  <CE_Multiplier>TODO</CE_Multiplier>
+  <!-- EN: Value: -->
+  <CE_SetValPartial>TODO</CE_SetValPartial>
+
+</LanguageData>

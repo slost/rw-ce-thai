@@ -1,0 +1,52 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 8x50mmR Lebel cartridge (FMJ) -->
+  <Ammo_8x50mmRLebel_FMJ.label>TODO</Ammo_8x50mmRLebel_FMJ.label>
+  <!-- EN: Rimmed rifle cartridge found mostly in outdated bolt-action firearms. -->
+  <Ammo_8x50mmRLebel_FMJ.description>TODO</Ammo_8x50mmRLebel_FMJ.description>
+
+  <!-- EN: 8x50mmR Lebel cartridge (AP) -->
+  <Ammo_8x50mmRLebel_AP.label>TODO</Ammo_8x50mmRLebel_AP.label>
+  <!-- EN: Rimmed rifle cartridge found mostly in outdated bolt-action firearms. -->
+  <Ammo_8x50mmRLebel_AP.description>TODO</Ammo_8x50mmRLebel_AP.description>
+
+  <!-- EN: 8x50mmR Lebel cartridge (HP) -->
+  <Ammo_8x50mmRLebel_HP.label>TODO</Ammo_8x50mmRLebel_HP.label>
+  <!-- EN: Rimmed rifle cartridge found mostly in outdated bolt-action firearms. -->
+  <Ammo_8x50mmRLebel_HP.description>TODO</Ammo_8x50mmRLebel_HP.description>
+
+  <!-- EN: 8x50mmR Lebel cartridge (AP-I) -->
+  <Ammo_8x50mmRLebel_Incendiary.label>TODO</Ammo_8x50mmRLebel_Incendiary.label>
+  <!-- EN: Rimmed rifle cartridge found mostly in outdated bolt-action firearms. -->
+  <Ammo_8x50mmRLebel_Incendiary.description>TODO</Ammo_8x50mmRLebel_Incendiary.description>
+
+  <!-- EN: 8x50mmR Lebel cartridge (AP-HE) -->
+  <Ammo_8x50mmRLebel_HE.label>TODO</Ammo_8x50mmRLebel_HE.label>
+  <!-- EN: Rimmed rifle cartridge found mostly in outdated bolt-action firearms. -->
+  <Ammo_8x50mmRLebel_HE.description>TODO</Ammo_8x50mmRLebel_HE.description>
+
+  <!-- EN: 8x50mmR Lebel cartridge (Sabot) -->
+  <Ammo_8x50mmRLebel_Sabot.label>TODO</Ammo_8x50mmRLebel_Sabot.label>
+  <!-- EN: Rimmed rifle cartridge found mostly in outdated bolt-action firearms. -->
+  <Ammo_8x50mmRLebel_Sabot.description>TODO</Ammo_8x50mmRLebel_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 8mmR Lebel bullet (FMJ) -->
+  <Bullet_8x50mmRLebel_FMJ.label>TODO</Bullet_8x50mmRLebel_FMJ.label>
+  <!-- EN: 8mmR Lebel bullet (AP) -->
+  <Bullet_8x50mmRLebel_AP.label>TODO</Bullet_8x50mmRLebel_AP.label>
+  <!-- EN: 8mmR Lebel bullet (HP) -->
+  <Bullet_8x50mmRLebel_HP.label>TODO</Bullet_8x50mmRLebel_HP.label>
+  <!-- EN: 8mmR Lebel bullet (AP-I) -->
+  <Bullet_8x50mmRLebel_Incendiary.label>TODO</Bullet_8x50mmRLebel_Incendiary.label>
+  <!-- EN: 8mmR Lebel bullet (AP-HE) -->
+  <Bullet_8x50mmRLebel_HE.label>TODO</Bullet_8x50mmRLebel_HE.label>
+  <!-- EN: 8mmR Lebel bullet (Sabot) -->
+  <Bullet_8x50mmRLebel_Sabot.label>TODO</Bullet_8x50mmRLebel_Sabot.label>
+
+
+</LanguageData>

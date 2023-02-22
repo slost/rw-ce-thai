@@ -1,0 +1,13 @@
+<LanguageData>
+
+  <!-- Example def -->
+
+  <!-- EN: preset helmet -->
+  <Helmet.label>TODO</Helmet.label>
+  <!-- EN: preset light helmet -->
+  <LightHelmet.label>TODO</LightHelmet.label>
+  <!-- EN: preset hat -->
+  <Hat.label>TODO</Hat.label>
+
+
+</LanguageData>

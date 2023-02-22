@@ -1,0 +1,31 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 13mm Gyrojet rocket (FMJ) -->
+  <Ammo_13mmGyrojet_FMJ.label>TODO</Ammo_13mmGyrojet_FMJ.label>
+  <!-- EN: Rare pistol rocket that utilizes miniature rockets for propulsion instead of gunpowder. -->
+  <Ammo_13mmGyrojet_FMJ.description>TODO</Ammo_13mmGyrojet_FMJ.description>
+
+  <!-- EN: 13mm Gyrojet rocket (AP) -->
+  <Ammo_13mmGyrojet_AP.label>TODO</Ammo_13mmGyrojet_AP.label>
+  <!-- EN: Rare pistol rocket that utilizes miniature rockets for propulsion instead of gunpowder. -->
+  <Ammo_13mmGyrojet_AP.description>TODO</Ammo_13mmGyrojet_AP.description>
+
+  <!-- EN: 13mm Gyrojet rocket (HP) -->
+  <Ammo_13mmGyrojet_HP.label>TODO</Ammo_13mmGyrojet_HP.label>
+  <!-- EN: Rare pistol rocket that utilizes miniature rockets for propulsion instead of gunpowder. -->
+  <Ammo_13mmGyrojet_HP.description>TODO</Ammo_13mmGyrojet_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 13mm Gyrojet bullet (FMJ) -->
+  <Bullet_13mmGyrojet_FMJ.label>TODO</Bullet_13mmGyrojet_FMJ.label>
+  <!-- EN: 13mm Gyrojet bullet (AP) -->
+  <Bullet_13mmGyrojet_AP.label>TODO</Bullet_13mmGyrojet_AP.label>
+  <!-- EN: 13mm Gyrojet bullet (HP) -->
+  <Bullet_13mmGyrojet_HP.label>TODO</Bullet_13mmGyrojet_HP.label>
+
+
+</LanguageData>

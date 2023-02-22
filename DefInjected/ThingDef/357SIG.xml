@@ -1,0 +1,31 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: .357 SIG cartridge (FMJ) -->
+  <Ammo_357SIG_FMJ.label>TODO</Ammo_357SIG_FMJ.label>
+  <!-- EN: A powerful cartridge designed to bring the performance of .357 Magnum to autoloaders. -->
+  <Ammo_357SIG_FMJ.description>TODO</Ammo_357SIG_FMJ.description>
+
+  <!-- EN: .357 SIG cartridge (AP) -->
+  <Ammo_357SIG_AP.label>TODO</Ammo_357SIG_AP.label>
+  <!-- EN: A powerful cartridge designed to bring the performance of .357 Magnum to autoloaders. -->
+  <Ammo_357SIG_AP.description>TODO</Ammo_357SIG_AP.description>
+
+  <!-- EN: .357 SIG cartridge (HP) -->
+  <Ammo_357SIG_HP.label>TODO</Ammo_357SIG_HP.label>
+  <!-- EN: A powerful cartridge designed to bring the performance of .357 Magnum to autoloaders. -->
+  <Ammo_357SIG_HP.description>TODO</Ammo_357SIG_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: .357 SIG bullet (FMJ) -->
+  <Bullet_357SIG_FMJ.label>TODO</Bullet_357SIG_FMJ.label>
+  <!-- EN: .357 SIG bullet (AP) -->
+  <Bullet_357SIG_AP.label>TODO</Bullet_357SIG_AP.label>
+  <!-- EN: .357 SIG bullet (HP) -->
+  <Bullet_357SIG_HP.label>TODO</Bullet_357SIG_HP.label>
+
+
+</LanguageData>

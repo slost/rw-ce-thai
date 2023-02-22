@@ -1,0 +1,48 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: great arrow (stone) -->
+  <Ammo_GreatArrow_Stone.label>TODO</Ammo_GreatArrow_Stone.label>
+  <!-- EN: Heavy arrow designed to be fired from a great bow. -->
+  <Ammo_GreatArrow_Stone.description>TODO</Ammo_GreatArrow_Stone.description>
+
+  <!-- EN: great arrow (steel) -->
+  <Ammo_GreatArrow_Steel.label>TODO</Ammo_GreatArrow_Steel.label>
+  <!-- EN: Heavy arrow designed to be fired from a great bow. -->
+  <Ammo_GreatArrow_Steel.description>TODO</Ammo_GreatArrow_Steel.description>
+
+  <!-- EN: great arrow (plasteel) -->
+  <Ammo_GreatArrow_Plasteel.label>TODO</Ammo_GreatArrow_Plasteel.label>
+  <!-- EN: Heavy arrow designed to be fired from a great bow. -->
+  <Ammo_GreatArrow_Plasteel.description>TODO</Ammo_GreatArrow_Plasteel.description>
+
+  <!-- EN: great arrow (venom) -->
+  <Ammo_GreatArrow_Venom.label>TODO</Ammo_GreatArrow_Venom.label>
+  <!-- EN: Heavy arrow designed to be fired from a great bow. -->
+  <Ammo_GreatArrow_Venom.description>TODO</Ammo_GreatArrow_Venom.description>
+
+  <!-- EN: great arrow (flame) -->
+  <Ammo_GreatArrow_Flame.label>TODO</Ammo_GreatArrow_Flame.label>
+  <!-- EN: Heavy arrow designed to be fired from a great bow. -->
+  <Ammo_GreatArrow_Flame.description>TODO</Ammo_GreatArrow_Flame.description>
+
+
+  <!-- The amount of arrows usable over the ammo lifetime for each resource cost is equal to
+		[r / (1 - x)];
+			x = preExplosionSpawnChance,
+			r = resource cost. -->
+
+  <!-- EN: great arrow (stone) -->
+  <Projectile_GreatArrow_Stone.label>TODO</Projectile_GreatArrow_Stone.label>
+  <!-- EN: great arrow (steel) -->
+  <Projectile_GreatArrow_Steel.label>TODO</Projectile_GreatArrow_Steel.label>
+  <!-- EN: great arrow (plasteel) -->
+  <Projectile_GreatArrow_Plasteel.label>TODO</Projectile_GreatArrow_Plasteel.label>
+  <!-- EN: great arrow (venom) -->
+  <Projectile_GreatArrow_Venom.label>TODO</Projectile_GreatArrow_Venom.label>
+  <!-- EN: great arrow (flame) -->
+  <Projectile_GreatArrow_Flame.label>TODO</Projectile_GreatArrow_Flame.label>
+
+
+</LanguageData>

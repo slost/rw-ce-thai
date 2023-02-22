@@ -1,0 +1,52 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 5.8x42mm DBP10 cartridge (FMJ) -->
+  <Ammo_58x42mmDBP10_FMJ.label>TODO</Ammo_58x42mmDBP10_FMJ.label>
+  <!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
+  <Ammo_58x42mmDBP10_FMJ.description>TODO</Ammo_58x42mmDBP10_FMJ.description>
+
+  <!-- EN: 5.8x42mm DBP10 cartridge (AP) -->
+  <Ammo_58x42mmDBP10_AP.label>TODO</Ammo_58x42mmDBP10_AP.label>
+  <!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
+  <Ammo_58x42mmDBP10_AP.description>TODO</Ammo_58x42mmDBP10_AP.description>
+
+  <!-- EN: 5.8x42mm DBP10 cartridge (HP) -->
+  <Ammo_58x42mmDBP10_HP.label>TODO</Ammo_58x42mmDBP10_HP.label>
+  <!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
+  <Ammo_58x42mmDBP10_HP.description>TODO</Ammo_58x42mmDBP10_HP.description>
+
+  <!-- EN: 5.8x42mm DBP10 cartridge (AP-I) -->
+  <Ammo_58x42mmDBP10_Incendiary.label>TODO</Ammo_58x42mmDBP10_Incendiary.label>
+  <!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
+  <Ammo_58x42mmDBP10_Incendiary.description>TODO</Ammo_58x42mmDBP10_Incendiary.description>
+
+  <!-- EN: 5.8x42mm DBP10 cartridge (AP-HE) -->
+  <Ammo_58x42mmDBP10_HE.label>TODO</Ammo_58x42mmDBP10_HE.label>
+  <!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
+  <Ammo_58x42mmDBP10_HE.description>TODO</Ammo_58x42mmDBP10_HE.description>
+
+  <!-- EN: 5.8x42mm DBP10 cartridge (Sabot) -->
+  <Ammo_58x42mmDBP10_Sabot.label>TODO</Ammo_58x42mmDBP10_Sabot.label>
+  <!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
+  <Ammo_58x42mmDBP10_Sabot.description>TODO</Ammo_58x42mmDBP10_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 5.8mm DBP10 bullet (FMJ) -->
+  <Bullet_58x42mmDBP10_FMJ.label>TODO</Bullet_58x42mmDBP10_FMJ.label>
+  <!-- EN: 5.8mm DBP10 bullet (AP) -->
+  <Bullet_58x42mmDBP10_AP.label>TODO</Bullet_58x42mmDBP10_AP.label>
+  <!-- EN: 5.8mm DBP10 bullet (HP) -->
+  <Bullet_58x42mmDBP10_HP.label>TODO</Bullet_58x42mmDBP10_HP.label>
+  <!-- EN: 5.8mm DBP10 bullet (AP-I) -->
+  <Bullet_58x42mmDBP10_Incendiary.label>TODO</Bullet_58x42mmDBP10_Incendiary.label>
+  <!-- EN: 5.8mm DBP10 bullet (AP-HE) -->
+  <Bullet_58x42mmDBP10_HE.label>TODO</Bullet_58x42mmDBP10_HE.label>
+  <!-- EN: 5.8mm DBP10 bullet (Sabot) -->
+  <Bullet_58x42mmDBP10_Sabot.label>TODO</Bullet_58x42mmDBP10_Sabot.label>
+
+
+</LanguageData>

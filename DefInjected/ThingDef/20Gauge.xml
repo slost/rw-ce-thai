@@ -1,0 +1,38 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 20 gauge shell (Buck) -->
+  <Ammo_20Gauge_Buck.label>TODO</Ammo_20Gauge_Buck.label>
+  <!-- EN: Very common shotgun caliber used mostly for hunting. -->
+  <Ammo_20Gauge_Buck.description>TODO</Ammo_20Gauge_Buck.description>
+
+  <!-- EN: 20 gauge shell (Slug) -->
+  <Ammo_20Gauge_Slug.label>TODO</Ammo_20Gauge_Slug.label>
+  <!-- EN: Very common shotgun caliber used mostly for hunting. -->
+  <Ammo_20Gauge_Slug.description>TODO</Ammo_20Gauge_Slug.description>
+
+  <!-- EN: 20 gauge shell (Bean) -->
+  <Ammo_20Gauge_Beanbag.label>TODO</Ammo_20Gauge_Beanbag.label>
+  <!-- EN: Very common shotgun caliber used mostly for hunting. -->
+  <Ammo_20Gauge_Beanbag.description>TODO</Ammo_20Gauge_Beanbag.description>
+
+  <!-- EN: 20 gauge shell (EMP) -->
+  <Ammo_20Gauge_ElectroSlug.label>TODO</Ammo_20Gauge_ElectroSlug.label>
+  <!-- EN: Very common shotgun caliber used mostly for hunting. -->
+  <Ammo_20Gauge_ElectroSlug.description>TODO</Ammo_20Gauge_ElectroSlug.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: buckshot pellet -->
+  <Bullet_20Gauge_Buck.label>TODO</Bullet_20Gauge_Buck.label>
+  <!-- EN: shotgun slug -->
+  <Bullet_20Gauge_Slug.label>TODO</Bullet_20Gauge_Slug.label>
+  <!-- EN: beanbag -->
+  <Bullet_20Gauge_Beanbag.label>TODO</Bullet_20Gauge_Beanbag.label>
+  <!-- EN: EMP slug -->
+  <Bullet_20Gauge_ElectroSlug.label>TODO</Bullet_20Gauge_ElectroSlug.label>
+
+
+</LanguageData>

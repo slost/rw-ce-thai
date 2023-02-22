@@ -1,0 +1,17 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 57x483mm Bofors cartridge (HE) -->
+  <Ammo_57x483mmBofors_HE.label>TODO</Ammo_57x483mmBofors_HE.label>
+  <!-- EN: Large caliber cartridge used by naval artillery cannons. -->
+  <Ammo_57x483mmBofors_HE.description>TODO</Ammo_57x483mmBofors_HE.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 57x483mm Bofors bullet (HE) -->
+  <Bullet_57x483mmBofors_HE.label>TODO</Bullet_57x483mmBofors_HE.label>
+
+
+</LanguageData>

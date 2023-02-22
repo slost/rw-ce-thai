@@ -1,0 +1,71 @@
+<LanguageData>
+
+  <!-- Blaster Turret -->
+
+  <!-- EN: blaster turret gun -->
+  <Gun_BlasterTurret.label>TODO</Gun_BlasterTurret.label>
+  <!-- EN: Charge blaster attached to a turret mount. -->
+  <Gun_BlasterTurret.description>TODO</Gun_BlasterTurret.description>
+
+
+  <!-- Heavy Turret -->
+
+  <!-- EN: heavy turret gun -->
+  <Gun_HeavyTurret.label>TODO</Gun_HeavyTurret.label>
+  <!-- EN: High caliber gun on a turret mount. -->
+  <Gun_HeavyTurret.description>TODO</Gun_HeavyTurret.description>
+
+
+  <!-- Medium Turret -->
+
+  <!-- EN: medium turret gun -->
+  <Gun_MediumTurret.label>TODO</Gun_MediumTurret.label>
+  <!-- EN: Full powered cartridge gun on a turret mount. -->
+  <Gun_MediumTurret.description>TODO</Gun_MediumTurret.description>
+
+
+  <!-- Autocannon Turret -->
+
+  <!--[Core] <Gun_AutocannonTurret.label>autocannon</Gun_AutocannonTurret.label>-->
+  <!--[Core] <Gun_AutocannonTurret.description>A self-loading large-bore cannon designed to attach to a turret.</Gun_AutocannonTurret.description>-->
+
+
+  <!-- Sniper turret -->
+
+  <!--[Core] <Gun_TurretSniper.label>uranium slug cannon</Gun_TurretSniper.label>-->
+  <!--[Core] <Gun_TurretSniper.description>A self-loading uranium slug cannon designed to attach to a turret.</Gun_TurretSniper.description>-->
+
+
+  <!-- KPV -->
+
+  <!-- EN: KPV machine gun -->
+  <Gun_KPV.label>TODO</Gun_KPV.label>
+  <!-- EN: Heavy machine gun for use against light vehicles. -->
+  <Gun_KPV.description>TODO</Gun_KPV.description>
+
+
+  <!-- M240B -->
+
+  <!-- EN: M240B machine gun -->
+  <Gun_M240B.label>TODO</Gun_M240B.label>
+  <!-- EN: M240B machine gun mounted on a tripod. -->
+  <Gun_M240B.description>TODO</Gun_M240B.description>
+
+
+  <!-- Flak cannon -->
+
+  <!-- EN: Flak gun -->
+  <Gun_FlakTurret.label>TODO</Gun_FlakTurret.label>
+  <!-- EN: 90mm Flak cannon on a stationary emplacement. -->
+  <Gun_FlakTurret.description>TODO</Gun_FlakTurret.description>
+
+
+  <!-- AGS-30 -->
+
+  <!-- EN: AGS-30 grenade launcher -->
+  <Gun_AGSThirty.label>TODO</Gun_AGSThirty.label>
+  <!-- EN: AGS-30 attached to a tripod. -->
+  <Gun_AGSThirty.description>TODO</Gun_AGSThirty.description>
+
+
+</LanguageData>

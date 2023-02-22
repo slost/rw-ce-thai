@@ -1,0 +1,12 @@
+<LanguageData>
+
+  <!-- EN: Preparing CombatExtended loadout generators -->
+  <CE_LongEvent_LoadoutProperties>TODO</CE_LongEvent_LoadoutProperties>
+  <!-- EN: Injecting ammunition -->
+  <CE_LongEvent_AmmoInjector>TODO</CE_LongEvent_AmmoInjector>
+  <!-- EN: Generating CombatExtended bounding boxes -->
+  <CE_LongEvent_BoundingBoxes>TODO</CE_LongEvent_BoundingBoxes>
+  <!-- EN: Loading tutorial pop-up -->
+  <CE_LongEvent_TutorialPopup>TODO</CE_LongEvent_TutorialPopup>
+
+</LanguageData>

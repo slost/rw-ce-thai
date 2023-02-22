@@ -1,0 +1,38 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 25x59mm grenade (HEAT) -->
+  <Ammo_25x59mmGrenade_HEAT.label>TODO</Ammo_25x59mmGrenade_HEAT.label>
+  <!-- EN: Specialized high-velocity grenade developed anti-materiel purposes. -->
+  <Ammo_25x59mmGrenade_HEAT.description>TODO</Ammo_25x59mmGrenade_HEAT.description>
+
+  <!-- EN: 25x59mm grenade (HE) -->
+  <Ammo_25x59mmGrenade_HE.label>TODO</Ammo_25x59mmGrenade_HE.label>
+  <!-- EN: Specialized high-velocity grenade developed anti-materiel purposes. -->
+  <Ammo_25x59mmGrenade_HE.description>TODO</Ammo_25x59mmGrenade_HE.description>
+
+  <!-- EN: 25x59mm grenade (EMP) -->
+  <Ammo_25x59mmGrenade_EMP.label>TODO</Ammo_25x59mmGrenade_EMP.label>
+  <!-- EN: Specialized high-velocity grenade developed anti-materiel purposes. -->
+  <Ammo_25x59mmGrenade_EMP.description>TODO</Ammo_25x59mmGrenade_EMP.description>
+
+  <!-- EN: 25x59mm grenade (Smoke) -->
+  <Ammo_25x59mmGrenade_Smoke.label>TODO</Ammo_25x59mmGrenade_Smoke.label>
+  <!-- EN: Specialized high-velocity grenade developed anti-materiel purposes. -->
+  <Ammo_25x59mmGrenade_Smoke.description>TODO</Ammo_25x59mmGrenade_Smoke.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 25x59mm grenade -->
+  <Bullet_25x59mmGrenade_HEAT.label>TODO</Bullet_25x59mmGrenade_HEAT.label>
+  <!-- EN: 25x59mm grenade -->
+  <Bullet_25x59mmGrenade_HE.label>TODO</Bullet_25x59mmGrenade_HE.label>
+  <!-- EN: 25x59mm grenade -->
+  <Bullet_25x59mmGrenade_EMP.label>TODO</Bullet_25x59mmGrenade_EMP.label>
+  <!-- EN: 25x59mm grenade (Smoke) -->
+  <Bullet_25x59mmGrenade_Smoke.label>TODO</Bullet_25x59mmGrenade_Smoke.label>
+
+
+</LanguageData>

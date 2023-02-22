@@ -1,0 +1,31 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 10mm Auto cartridge (FMJ) -->
+  <Ammo_10mmAuto_FMJ.label>TODO</Ammo_10mmAuto_FMJ.label>
+  <!-- EN: A large and powerful cartridge designed for automatic pistols. -->
+  <Ammo_10mmAuto_FMJ.description>TODO</Ammo_10mmAuto_FMJ.description>
+
+  <!-- EN: 10mm Auto cartridge (AP) -->
+  <Ammo_10mmAuto_AP.label>TODO</Ammo_10mmAuto_AP.label>
+  <!-- EN: A large and powerful cartridge designed for automatic pistols. -->
+  <Ammo_10mmAuto_AP.description>TODO</Ammo_10mmAuto_AP.description>
+
+  <!-- EN: 10mm Auto cartridge (HP) -->
+  <Ammo_10mmAuto_HP.label>TODO</Ammo_10mmAuto_HP.label>
+  <!-- EN: A large and powerful cartridge designed for automatic pistols. -->
+  <Ammo_10mmAuto_HP.description>TODO</Ammo_10mmAuto_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 10mm Auto bullet (FMJ) -->
+  <Bullet_10mmAuto_FMJ.label>TODO</Bullet_10mmAuto_FMJ.label>
+  <!-- EN: 10mm Auto bullet (AP) -->
+  <Bullet_10mmAuto_AP.label>TODO</Bullet_10mmAuto_AP.label>
+  <!-- EN: 10mm Auto bullet (HP) -->
+  <Bullet_10mmAuto_HP.label>TODO</Bullet_10mmAuto_HP.label>
+
+
+</LanguageData>

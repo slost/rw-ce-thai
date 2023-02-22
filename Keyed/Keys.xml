@@ -1,0 +1,245 @@
+<LanguageData>
+
+  <!-- Tabs -->
+
+  <!-- EN: Attachm. -->
+  <TabAttachments>TODO</TabAttachments>
+
+  <!-- Billing -->
+
+  <!-- EN: Requires gunsmithing bench -->
+  <CE_MissinGunsmithingBench>TODO</CE_MissinGunsmithingBench>
+
+  <!-- Suppression -->
+  <!-- EN: Suppressed! -->
+  <CE_SuppressedMote>TODO</CE_SuppressedMote>
+  <!-- EN: Hunkering! -->
+  <CE_HunkeringMote>TODO</CE_HunkeringMote>
+  <!-- EN: Suppressed (crouch-walking) -->
+  <CE_CrouchWalking>TODO</CE_CrouchWalking>
+
+  <!-- Aim/Fire modes -->
+  <!-- EN: Auto -->
+  <CE_AutoFireLabel>TODO</CE_AutoFireLabel>
+  <!-- EN: Burst -->
+  <CE_BurstFireLabel>TODO</CE_BurstFireLabel>
+  <!-- EN: Single -->
+  <CE_SingleFireLabel>TODO</CE_SingleFireLabel>
+  <!-- EN: Snapshot -->
+  <CE_SnapshotLabel>TODO</CE_SnapshotLabel>
+  <!-- EN: Aimed shot -->
+  <CE_AimedShotLabel>TODO</CE_AimedShotLabel>
+  <!-- EN: Suppress -->
+  <CE_SuppressFireLabel>TODO</CE_SuppressFireLabel>
+  <!-- EN: Hold fire -->
+  <CE_HoldFireLabel>TODO</CE_HoldFireLabel>
+  <!-- EN: Toggle fire mode. -->
+  <CE_ToggleFireModeDesc>TODO</CE_ToggleFireModeDesc>
+  <!-- EN: Toggle aim mode. -->
+  <CE_ToggleAimModeDesc>TODO</CE_ToggleAimModeDesc>
+
+  <!-- Bipod system -->
+  <!-- EN: Bipod IS set up -->
+  <CE_Bipod_Set_Up>TODO</CE_Bipod_Set_Up>
+  <!-- EN: Bipod IS NOT set up -->
+  <CE_Bipod_Not_Set_Up>TODO</CE_Bipod_Not_Set_Up>
+  <!-- EN: Deploy bipod -->
+  <CE_Deploy_Bipod>TODO</CE_Deploy_Bipod>
+  <!-- EN: Close bipod -->
+  <CE_Close_Bipod>TODO</CE_Close_Bipod>
+
+  <!-- Aiming system -->
+  <!-- EN: Marked for artillery, expires in -->
+  <CE_MarkedForArtillery>TODO</CE_MarkedForArtillery>
+
+  <!-- EN: Visibility error -->
+  <CE_VisibilityError>TODO</CE_VisibilityError>
+  <!-- EN: Smoke -->
+  <CE_SmokeDensity>TODO</CE_SmokeDensity>
+  <!-- EN: Lead error -->
+  <CE_LeadError>TODO</CE_LeadError>
+  <!-- EN: Range error -->
+  <CE_RangeError>TODO</CE_RangeError>
+  <!-- EN: Sway -->
+  <CE_Sway>TODO</CE_Sway>
+  <!-- EN: Spread -->
+  <CE_Spread>TODO</CE_Spread>
+  <!-- EN: Miss radius -->
+  <CE_MissRadius>TODO</CE_MissRadius>
+  <!-- EN: Indirect fire -->
+  <CE_IndirectFire>TODO</CE_IndirectFire>
+  <!-- EN: Cover height -->
+  <CE_CoverHeight>TODO</CE_CoverHeight>
+  <!-- EN: Target height -->
+  <CE_TargetHeight>TODO</CE_TargetHeight>
+  <!-- EN: Target width -->
+  <CE_TargetWidth>TODO</CE_TargetWidth>
+
+  <!-- EN: Estimated hit chance -->
+  <CE_EstimatedHitChance>TODO</CE_EstimatedHitChance>
+
+  <!-- Reloading -->
+  <!-- EN: equipped -->
+  <CE_ReloadingEquipment>TODO</CE_ReloadingEquipment>
+  <!-- EN: stored -->
+  <CE_ReloadingInventory>TODO</CE_ReloadingInventory>
+  <!-- EN: ammo -->
+  <CE_ReloadingGenericAmmo>TODO</CE_ReloadingGenericAmmo>
+  <!-- EN: Reloading {0}! -->
+  <CE_ReloadingMote>TODO</CE_ReloadingMote>
+  <!-- EN: Reloading turret {0}. -->
+  <CE_ReloadingTurretMote>TODO</CE_ReloadingTurretMote>
+  <!-- EN: manned turret -->
+  <CE_MannedTurret>TODO</CE_MannedTurret>
+  <!-- EN: auto-turret -->
+  <CE_AutoTurret>TODO</CE_AutoTurret>
+  <!-- EN: Unload -->
+  <CE_UnloadLabel>TODO</CE_UnloadLabel>
+  <!-- EN: Reload -->
+  <CE_ReloadLabel>TODO</CE_ReloadLabel>
+  <!-- EN: Reloads this gun. -->
+  <CE_ReloadDesc>TODO</CE_ReloadDesc>
+  <!-- EN: Reloading -->
+  <CE_TurretReloading>TODO</CE_TurretReloading>
+
+  <!-- Inventory -->
+  <!-- EN: Equipping -->
+  <CE_TakeFromOther_Equipping>TODO</CE_TakeFromOther_Equipping>
+  <!-- EN: Taking -->
+  <CE_TakeFromOther_Taking>TODO</CE_TakeFromOther_Taking>
+
+  <!-- EN: Carried weight -->
+  <CE_CarriedWeight>TODO</CE_CarriedWeight>
+  <!-- EN: Carried bulk -->
+  <CE_CarriedBulk>TODO</CE_CarriedBulk>
+  <!-- EN: Encumbered -->
+  <CE_Encumbered>TODO</CE_Encumbered>
+  <!-- EN: Final modifier -->
+  <CE_FinalModifier>TODO</CE_FinalModifier>
+  <!-- EN: Inventory is full -->
+  <CE_InventoryFull>TODO</CE_InventoryFull>
+  <!-- EN: Pick up -->
+  <CE_PickUp>TODO</CE_PickUp>
+  <!-- EN: Pick up half -->
+  <CE_PickUpHalf>TODO</CE_PickUpHalf>
+  <!-- EN: Cannot pick up -->
+  <CE_CannotPickUp>TODO</CE_CannotPickUp>
+  <!-- EN: Out of ammo -->
+  <CE_OutOfAmmo>TODO</CE_OutOfAmmo>
+  <!-- EN: Put away {0} -->
+  <CE_PutAway>TODO</CE_PutAway>
+  <!-- EN: Reload {0} with {1} -->
+  <CE_ReloadApparel>TODO</CE_ReloadApparel>
+  <!-- EN: can't do taming job because of a full inventory. -->
+  <CE_TamerInventoryFull>TODO</CE_TamerInventoryFull>
+  <!-- EN: Drop and haul -->
+  <CE_DropThingHaul>TODO</CE_DropThingHaul>
+  <!-- EN: Cannot drop -->
+  <CE_CannotDropThing>TODO</CE_CannotDropThing>
+  <!-- EN: Cannot drop and haul -->
+  <CE_CannotDropThingHaul>TODO</CE_CannotDropThingHaul>
+  <!-- EN: Cannot put away {0} -->
+  <CE_CannotPutAway>TODO</CE_CannotPutAway>
+  <!-- EN: This person refuses to change equipment. -->
+  <CE_CannotChangeEquipment>TODO</CE_CannotChangeEquipment>
+  <!-- EN: Consume -->
+  <CE_Eat>TODO</CE_Eat>
+  <!-- EN: Stop Holding -->
+  <CE_HoldTrackerForget>TODO</CE_HoldTrackerForget>
+  <!-- EN: Forced Holding -->
+  <CE_ForcedHold>TODO</CE_ForcedHold>
+
+  <!-- Medical -->
+  <!-- EN: Stabilize {0} -->
+  <CE_Stabilize>TODO</CE_Stabilize>
+  <!-- EN: Cannot stabilize -->
+  <CE_CannotStabilize>TODO</CE_CannotStabilize>
+  <!-- EN: {0} is not carrying any medicine in inventory -->
+  <CE_NoMedicine>TODO</CE_NoMedicine>
+
+  <!-- Info Box -->
+  <!-- EN: Magazine size -->
+  <CE_MagazineSize>TODO</CE_MagazineSize>
+  <!-- EN: Reload time -->
+  <CE_ReloadTime>TODO</CE_ReloadTime>
+  <!-- EN: Caliber -->
+  <CE_AmmoSet>TODO</CE_AmmoSet>
+  <!-- EN: Fire modes -->
+  <CE_FireModes>TODO</CE_FireModes>
+  <!-- EN: Burst shot count -->
+  <CE_AimedBurstCount>TODO</CE_AimedBurstCount>
+  <!-- EN: Used by -->
+  <CE_UsedBy>TODO</CE_UsedBy>
+  <!-- EN: Multiplier for precipitation -->
+  <CE_StatsReport_FlammabilityPrecipitation>TODO</CE_StatsReport_FlammabilityPrecipitation>
+  <!-- EN: Apparel flammability -->
+  <CE_StatsReport_FlammabilityApparelFactor>TODO</CE_StatsReport_FlammabilityApparelFactor>
+  <!-- EN: Apparel coverage -->
+  <CE_StatsReport_FlammabilityApparelCoverage>TODO</CE_StatsReport_FlammabilityApparelCoverage>
+  <!-- EN: Base value -->
+  <CE_StatsReport_BaseValue>TODO</CE_StatsReport_BaseValue>
+  <!-- EN: mm RHA -->
+  <CE_mmRHA>TODO</CE_mmRHA>
+  <!-- EN: MPa -->
+  <CE_MPa>TODO</CE_MPa>
+  <!-- EN: c -->
+  <CE_cells>TODO</CE_cells>
+  <!-- EN: ° -->
+  <CE_degrees>TODO</CE_degrees>
+  <!-- EN: m -->
+  <CE_meters>TODO</CE_meters>
+  <!-- EN: Weapon penetration factor -->
+  <CE_WeaponPenetrationFactor>TODO</CE_WeaponPenetrationFactor>
+  <!-- EN: Adjusted for weapon -->
+  <CE_AdjustedForWeapon>TODO</CE_AdjustedForWeapon>
+  <!-- EN: Damage per second -->
+  <CE_DPS>TODO</CE_DPS>
+  <!-- EN: Damage variation -->
+  <CE_DamageVariation>TODO</CE_DamageVariation>
+  <!-- EN: Final average damage -->
+  <CE_FinalAverageDamage>TODO</CE_FinalAverageDamage>
+  <!-- EN: Wielder skill level -->
+  <CE_WielderSkillLevel>TODO</CE_WielderSkillLevel>
+  <!-- EN: chance -->
+  <CE_Chance>TODO</CE_Chance>
+  <!-- EN: Chance factor -->
+  <CE_ChanceFactor>TODO</CE_ChanceFactor>
+
+  <!-- Alerts -->
+  <!-- EN: Colonist has shield and two-handed weapon -->
+  <CE_ColonistHasShieldAndTwoHandedWeapon>TODO</CE_ColonistHasShieldAndTwoHandedWeapon>
+  <!-- EN: One of your colonists is carrying a shield and has a two-handed weapon equipped. They won't be able to attack unless they remove the shield or switch to another weapon. -->
+  <CE_ColonistHasShieldAndTwoHandedWeaponDesc>TODO</CE_ColonistHasShieldAndTwoHandedWeaponDesc>
+
+  <!-- Letters -->
+  <!-- EN: Strange signals -->
+  <CE_MechWarningLabel>TODO</CE_MechWarningLabel>
+  <!-- EN: You have intercepted several strange electronic signals nearby. While harmless on their own, such signals are often an indicator of Mechanoid activity in the area.\n\nSome of the larger Mechanoids have heavy armor that will easily deflect all rifle fire. {0} says you will need something that can defeat at least {1}mm RHA, molotov cocktails which can sink into openings and overheat internal components or EMP weapons which can destroy their circuitry. -->
+  <CE_MechWarningText>TODO</CE_MechWarningText>
+  <!-- EN: One of your colonists -->
+  <CE_MechWarningText_UnnamedColonist>TODO</CE_MechWarningText_UnnamedColonist>
+  <!-- Special display stats -->
+  <!-- EN: Collision height of this object. Will stop gunfire up to this height and humanlikes will generally crouch down this low to shoot over it.\n\nIf higher than a shooter's shot height it can't be fired over. If higher than body height it will obscure entirely. For baseline, grown humans this means 1.5m shot/1.75m body height respectively. -->
+  <CE_CoverHeightExplanation>TODO</CE_CoverHeightExplanation>
+
+  <!-- Tutorial popup -->
+  <!-- EN: CE adds several tutorial entries on subjects such as how the armor mechanics work and how not to die from Centipedes. It is recommended first time players enable the learning helper. -->
+  <CE_EnableTutorText>TODO</CE_EnableTutorText>
+  <!-- EN: Enable learning helper -->
+  <CE_EnableTutorEnable>TODO</CE_EnableTutorEnable>
+  <!-- EN: I know the risk -->
+  <CE_EnableTutorDisable>TODO</CE_EnableTutorDisable>
+
+  <!-- Assign menu -->
+  <!-- EN: Rearm -->
+  <CE_UpdateLoadoutNow>TODO</CE_UpdateLoadoutNow>
+
+  <!-- Uncompiled dev build popup -->
+  <!-- EN: Uncompiled CE dev build\n\nYou're running a development build of Combat Extended that is not intended for gameplay purposes, this will create a large amount of errors if you attempt to play a colony.\n\nEither download an official CE release from GitHub's Releases section, or if you need the latest development snapshot for testing purposes, get it from the link below. -->
+  <CE_UncompiledDevBuild>TODO</CE_UncompiledDevBuild>
+  <!-- EN: Get development snapshot -->
+  <CE_GetCompiledDevBuild>TODO</CE_GetCompiledDevBuild>
+  <!-- EN: Continue anyway -->
+  <CE_ContinueAnyway>TODO</CE_ContinueAnyway>
+
+</LanguageData>

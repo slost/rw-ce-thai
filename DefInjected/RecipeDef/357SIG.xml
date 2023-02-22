@@ -1,0 +1,27 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make .357 SIG (FMJ) cartridge x500 -->
+  <MakeAmmo_357SIG_FMJ.label>TODO</MakeAmmo_357SIG_FMJ.label>
+  <!-- EN: Craft 500 .357 SIG (FMJ) cartridges. -->
+  <MakeAmmo_357SIG_FMJ.description>TODO</MakeAmmo_357SIG_FMJ.description>
+  <!-- EN: Making .357 SIG (FMJ) cartridges. -->
+  <MakeAmmo_357SIG_FMJ.jobString>TODO</MakeAmmo_357SIG_FMJ.jobString>
+
+  <!-- EN: make .357 SIG (AP) cartridge x500 -->
+  <MakeAmmo_357SIG_AP.label>TODO</MakeAmmo_357SIG_AP.label>
+  <!-- EN: Craft 500 .357 SIG (AP) cartridges. -->
+  <MakeAmmo_357SIG_AP.description>TODO</MakeAmmo_357SIG_AP.description>
+  <!-- EN: Making .357 SIG (AP) cartridges. -->
+  <MakeAmmo_357SIG_AP.jobString>TODO</MakeAmmo_357SIG_AP.jobString>
+
+  <!-- EN: make .357 SIG (HP) cartridge x500 -->
+  <MakeAmmo_357SIG_HP.label>TODO</MakeAmmo_357SIG_HP.label>
+  <!-- EN: Craft 500 .357 SIG (HP) cartridges. -->
+  <MakeAmmo_357SIG_HP.description>TODO</MakeAmmo_357SIG_HP.description>
+  <!-- EN: Making .357 SIG (HP) cartridges. -->
+  <MakeAmmo_357SIG_HP.jobString>TODO</MakeAmmo_357SIG_HP.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,24 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 37x223mmR cartridge (APHE) -->
+  <Ammo_37x223mmR_HE.label>TODO</Ammo_37x223mmR_HE.label>
+  <!-- EN: Medium caliber cannon shell used by light, quick-firing anti-tank guns. -->
+  <Ammo_37x223mmR_HE.description>TODO</Ammo_37x223mmR_HE.description>
+
+  <!-- EN: 37x223mmR cartridge (AP) -->
+  <Ammo_37x223mmR_AP.label>TODO</Ammo_37x223mmR_AP.label>
+  <!-- EN: Medium caliber cannon shell used by light, quick-firing anti-tank guns. -->
+  <Ammo_37x223mmR_AP.description>TODO</Ammo_37x223mmR_AP.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 37x223mmR shell (APHE) -->
+  <Bullet_37x223mmR_HE.label>TODO</Bullet_37x223mmR_HE.label>
+  <!-- EN: 37x223mmR shell (AP) -->
+  <Bullet_37x223mmR_AP.label>TODO</Bullet_37x223mmR_AP.label>
+
+
+</LanguageData>

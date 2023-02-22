@@ -1,0 +1,27 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make .454 Casull (FMJ) cartridge x500 -->
+  <MakeAmmo_454Casull_FMJ.label>TODO</MakeAmmo_454Casull_FMJ.label>
+  <!-- EN: Craft 500 .454 Casull (FMJ) cartridges. -->
+  <MakeAmmo_454Casull_FMJ.description>TODO</MakeAmmo_454Casull_FMJ.description>
+  <!-- EN: Making .454 Casull (FMJ) cartridges. -->
+  <MakeAmmo_454Casull_FMJ.jobString>TODO</MakeAmmo_454Casull_FMJ.jobString>
+
+  <!-- EN: make .454 Casull (AP) cartridge x500 -->
+  <MakeAmmo_454Casull_AP.label>TODO</MakeAmmo_454Casull_AP.label>
+  <!-- EN: Craft 500 .454 Casull (AP) cartridges. -->
+  <MakeAmmo_454Casull_AP.description>TODO</MakeAmmo_454Casull_AP.description>
+  <!-- EN: Making .454 Casull (AP) cartridges. -->
+  <MakeAmmo_454Casull_AP.jobString>TODO</MakeAmmo_454Casull_AP.jobString>
+
+  <!-- EN: make .454 Casull (HP) cartridge x500 -->
+  <MakeAmmo_454Casull_HP.label>TODO</MakeAmmo_454Casull_HP.label>
+  <!-- EN: Craft 500 .454 Casull (HP) cartridges. -->
+  <MakeAmmo_454Casull_HP.description>TODO</MakeAmmo_454Casull_HP.description>
+  <!-- EN: Making .454 Casull (HP) cartridges. -->
+  <MakeAmmo_454Casull_HP.jobString>TODO</MakeAmmo_454Casull_HP.jobString>
+
+
+</LanguageData>

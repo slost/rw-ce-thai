@@ -1,0 +1,17 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 50mm rocket (HE) -->
+  <Ammo_50mmRocket_HE.label>TODO</Ammo_50mmRocket_HE.label>
+  <!-- EN: An unguided rocket equipped with an explosive warhead and a contact fuse. -->
+  <Ammo_50mmRocket_HE.description>TODO</Ammo_50mmRocket_HE.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 50mm rocket (HE) -->
+  <Bullet_50mmRocket_HE.label>TODO</Bullet_50mmRocket_HE.label>
+
+
+</LanguageData>

@@ -1,0 +1,17 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 12x64mm Charged cartridge -->
+  <Ammo_12x64mmCharged.label>TODO</Ammo_12x64mmCharged.label>
+  <!-- EN: Mechanoid-built high-caliber charged shot ammo used in heavy weapons. -->
+  <Ammo_12x64mmCharged.description>TODO</Ammo_12x64mmCharged.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 12x64mm Charged bullet -->
+  <Bullet_12x64mmCharged.label>TODO</Bullet_12x64mmCharged.label>
+
+
+</LanguageData>

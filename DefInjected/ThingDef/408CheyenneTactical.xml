@@ -1,0 +1,45 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: .408 Cheyenne Tactical cartridge (FMJ) -->
+  <Ammo_408CheyenneTactical_FMJ.label>TODO</Ammo_408CheyenneTactical_FMJ.label>
+  <!-- EN: Large cartridge developed for military long-range sniper rifles. -->
+  <Ammo_408CheyenneTactical_FMJ.description>TODO</Ammo_408CheyenneTactical_FMJ.description>
+
+  <!-- EN: .408 Cheyenne Tactical cartridge (AP) -->
+  <Ammo_408CheyenneTactical_AP.label>TODO</Ammo_408CheyenneTactical_AP.label>
+  <!-- EN: Large cartridge developed for military long-range sniper rifles. -->
+  <Ammo_408CheyenneTactical_AP.description>TODO</Ammo_408CheyenneTactical_AP.description>
+
+  <!-- EN: .408 Cheyenne Tactical cartridge (AP-I) -->
+  <Ammo_408CheyenneTactical_Incendiary.label>TODO</Ammo_408CheyenneTactical_Incendiary.label>
+  <!-- EN: Large cartridge developed for military long-range sniper rifles. -->
+  <Ammo_408CheyenneTactical_Incendiary.description>TODO</Ammo_408CheyenneTactical_Incendiary.description>
+
+  <!-- EN: .408 Cheyenne Tactical cartridge (AP-HE) -->
+  <Ammo_408CheyenneTactical_HE.label>TODO</Ammo_408CheyenneTactical_HE.label>
+  <!-- EN: Large cartridge developed for military long-range sniper rifles. -->
+  <Ammo_408CheyenneTactical_HE.description>TODO</Ammo_408CheyenneTactical_HE.description>
+
+  <!-- EN: .408 Cheyenne Tactical cartridge (Sabot) -->
+  <Ammo_408CheyenneTactical_Sabot.label>TODO</Ammo_408CheyenneTactical_Sabot.label>
+  <!-- EN: Large cartridge developed for military long-range sniper rifles. -->
+  <Ammo_408CheyenneTactical_Sabot.description>TODO</Ammo_408CheyenneTactical_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: .408 Cheyenne Tactical bullet (FMJ) -->
+  <Bullet_408CheyenneTactical_FMJ.label>TODO</Bullet_408CheyenneTactical_FMJ.label>
+  <!-- EN: .408 Cheyenne Tactical bullet (AP) -->
+  <Bullet_408CheyenneTactical_AP.label>TODO</Bullet_408CheyenneTactical_AP.label>
+  <!-- EN: .408 Cheyenne Tactical bullet (AP-I) -->
+  <Bullet_408CheyenneTactical_Incendiary.label>TODO</Bullet_408CheyenneTactical_Incendiary.label>
+  <!-- EN: .408 Cheyenne Tactical bullet (AP-HE) -->
+  <Bullet_408CheyenneTactical_HE.label>TODO</Bullet_408CheyenneTactical_HE.label>
+  <!-- EN: .408 Cheyenne Tactical bullet (Sabot) -->
+  <Bullet_408CheyenneTactical_Sabot.label>TODO</Bullet_408CheyenneTactical_Sabot.label>
+
+
+</LanguageData>

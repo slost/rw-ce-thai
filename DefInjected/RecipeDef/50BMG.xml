@@ -1,0 +1,41 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make .50 BMG (FMJ) cartridge x200 -->
+  <MakeAmmo_50BMG_FMJ.label>TODO</MakeAmmo_50BMG_FMJ.label>
+  <!-- EN: Craft 200 .50 BMG (FMJ) cartridges. -->
+  <MakeAmmo_50BMG_FMJ.description>TODO</MakeAmmo_50BMG_FMJ.description>
+  <!-- EN: Making .50 BMG (FMJ) cartridges. -->
+  <MakeAmmo_50BMG_FMJ.jobString>TODO</MakeAmmo_50BMG_FMJ.jobString>
+
+  <!-- EN: make .50 BMG (AP) cartridge x200 -->
+  <MakeAmmo_50BMG_AP.label>TODO</MakeAmmo_50BMG_AP.label>
+  <!-- EN: Craft 200 .50 BMG (AP) cartridges. -->
+  <MakeAmmo_50BMG_AP.description>TODO</MakeAmmo_50BMG_AP.description>
+  <!-- EN: Making .50 BMG (AP) cartridges. -->
+  <MakeAmmo_50BMG_AP.jobString>TODO</MakeAmmo_50BMG_AP.jobString>
+
+  <!-- EN: make .50 BMG (AP-I) cartridge x200 -->
+  <MakeAmmo_50BMG_Incendiary.label>TODO</MakeAmmo_50BMG_Incendiary.label>
+  <!-- EN: Craft 200 .50 BMG (AP-I) cartridges. -->
+  <MakeAmmo_50BMG_Incendiary.description>TODO</MakeAmmo_50BMG_Incendiary.description>
+  <!-- EN: Making .50 BMG (AP-I) cartridges. -->
+  <MakeAmmo_50BMG_Incendiary.jobString>TODO</MakeAmmo_50BMG_Incendiary.jobString>
+
+  <!-- EN: make .50 BMG (AP-HE) cartridge x200 -->
+  <MakeAmmo_50BMG_HE.label>TODO</MakeAmmo_50BMG_HE.label>
+  <!-- EN: Craft 200 .50 BMG (AP-HE) cartridges. -->
+  <MakeAmmo_50BMG_HE.description>TODO</MakeAmmo_50BMG_HE.description>
+  <!-- EN: Making .50 BMG (AP-HE) cartridges. -->
+  <MakeAmmo_50BMG_HE.jobString>TODO</MakeAmmo_50BMG_HE.jobString>
+
+  <!-- EN: make .50 BMG (Sabot) cartridge x200 -->
+  <MakeAmmo_50BMG_Sabot.label>TODO</MakeAmmo_50BMG_Sabot.label>
+  <!-- EN: Craft 200 .50 BMG (Sabot) cartridges. -->
+  <MakeAmmo_50BMG_Sabot.description>TODO</MakeAmmo_50BMG_Sabot.description>
+  <!-- EN: Making .50 BMG (Sabot) cartridges. -->
+  <MakeAmmo_50BMG_Sabot.jobString>TODO</MakeAmmo_50BMG_Sabot.jobString>
+
+
+</LanguageData>

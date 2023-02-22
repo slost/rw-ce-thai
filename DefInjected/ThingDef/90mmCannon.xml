@@ -1,0 +1,38 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 90mm cannon shell (HEAT) -->
+  <Ammo_90mmCannonShell_HEAT.label>TODO</Ammo_90mmCannonShell_HEAT.label>
+  <!-- EN: Relatively small cannon shell. -->
+  <Ammo_90mmCannonShell_HEAT.description>TODO</Ammo_90mmCannonShell_HEAT.description>
+
+  <!-- EN: 90mm cannon shell (HE) -->
+  <Ammo_90mmCannonShell_HE.label>TODO</Ammo_90mmCannonShell_HE.label>
+  <!-- EN: Relatively small cannon shell. -->
+  <Ammo_90mmCannonShell_HE.description>TODO</Ammo_90mmCannonShell_HE.description>
+
+  <!-- EN: 90mm cannon shell (HE Time Fuzed) -->
+  <Ammo_90mmCannonShell_HE_TFuzed.label>TODO</Ammo_90mmCannonShell_HE_TFuzed.label>
+  <!-- EN: Relatively small cannon shell. -->
+  <Ammo_90mmCannonShell_HE_TFuzed.description>TODO</Ammo_90mmCannonShell_HE_TFuzed.description>
+
+  <!-- EN: 90mm cannon shell (EMP) -->
+  <Ammo_90mmCannonShell_EMP.label>TODO</Ammo_90mmCannonShell_EMP.label>
+  <!-- EN: Relatively small cannon shell. -->
+  <Ammo_90mmCannonShell_EMP.description>TODO</Ammo_90mmCannonShell_EMP.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 90mm cannon shell (HEAT) -->
+  <Bullet_90mmCannonShell_HEAT.label>TODO</Bullet_90mmCannonShell_HEAT.label>
+  <!-- EN: 90mm cannon shell (HE) -->
+  <Bullet_90mmCannonShell_HE.label>TODO</Bullet_90mmCannonShell_HE.label>
+  <!-- EN: 90mm cannon shell (HE Time Fuse) -->
+  <Bullet_90mmCannonShell_HE_TFuzed.label>TODO</Bullet_90mmCannonShell_HE_TFuzed.label>
+  <!-- EN: 90mm cannon shell (EMP) -->
+  <Bullet_90mmCannonShell_EMP.label>TODO</Bullet_90mmCannonShell_EMP.label>
+
+
+</LanguageData>

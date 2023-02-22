@@ -1,0 +1,19 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: .410 Bore shell (Buck) -->
+  <Ammo_410Bore_Buck.label>TODO</Ammo_410Bore_Buck.label>
+  <!-- EN: Low caliber shotgun shell. Its small diameter allows it to be fired from many of the same firearms as the .45 Colt cartridge. -->
+  <Ammo_410Bore_Buck.description>TODO</Ammo_410Bore_Buck.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: buckshot pellet -->
+  <Bullet_410Bore_Buck_SB.label>TODO</Bullet_410Bore_Buck_SB.label>
+  <!-- EN: buckshot pellet -->
+  <Bullet_410Bore_Buck.label>TODO</Bullet_410Bore_Buck.label>
+
+
+</LanguageData>

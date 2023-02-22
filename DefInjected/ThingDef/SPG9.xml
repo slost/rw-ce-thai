@@ -1,0 +1,24 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: SPG-9 grenade (HEAT) -->
+  <Ammo_SPG9Grenade_HEAT.label>TODO</Ammo_SPG9Grenade_HEAT.label>
+  <!-- EN: Rocket-assisted projectile for use with the SPG-9 launcher. -->
+  <Ammo_SPG9Grenade_HEAT.description>TODO</Ammo_SPG9Grenade_HEAT.description>
+
+  <!-- EN: SPG-9 grenade (Frag) -->
+  <Ammo_SPG9Grenade_Frag.label>TODO</Ammo_SPG9Grenade_Frag.label>
+  <!-- EN: Rocket-assisted projectile for use with the SPG-9 launcher. -->
+  <Ammo_SPG9Grenade_Frag.description>TODO</Ammo_SPG9Grenade_Frag.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: SPG-9 grenade (HEAT) -->
+  <Bullet_SPG9Grenade_HEAT.label>TODO</Bullet_SPG9Grenade_HEAT.label>
+  <!-- EN: SPG-9 grenade (Frag) -->
+  <Bullet_SPG9Grenade_Frag.label>TODO</Bullet_SPG9Grenade_Frag.label>
+
+
+</LanguageData>

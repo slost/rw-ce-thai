@@ -1,0 +1,13 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make 5x100mm Caseless (Sabot) cartridge x500 -->
+  <MakeAmmo_5x100mmCaseless_Sabot.label>TODO</MakeAmmo_5x100mmCaseless_Sabot.label>
+  <!-- EN: Craft 500 5x100mm Caseless (Sabot) cartridges. -->
+  <MakeAmmo_5x100mmCaseless_Sabot.description>TODO</MakeAmmo_5x100mmCaseless_Sabot.description>
+  <!-- EN: Making 5x100mm Caseless (Sabot) cartridges. -->
+  <MakeAmmo_5x100mmCaseless_Sabot.jobString>TODO</MakeAmmo_5x100mmCaseless_Sabot.jobString>
+
+
+</LanguageData>

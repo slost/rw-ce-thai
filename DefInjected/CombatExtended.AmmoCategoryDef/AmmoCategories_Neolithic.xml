@@ -1,0 +1,111 @@
+<LanguageData>
+
+  <!-- EN: javelin -->
+  <Javelin.label>TODO</Javelin.label>
+  <!-- EN: A heavy steel tip attached to a long wooden pole, packing a very strong punch against scarcely armored targets. -->
+  <Javelin.description>TODO</Javelin.description>
+
+  <!-- EN: kunai -->
+  <Kunai.label>TODO</Kunai.label>
+  <!-- EN: Originally a Japanese farming instrument, similar in use to a hand-shovel, the kunai is a multi-purpose tool useful in both ranged and melee combat. -->
+  <Kunai.description>TODO</Kunai.description>
+
+  <!-- EN: stone arrow -->
+  <StoneArrow.label>TODO</StoneArrow.label>
+  <!-- EN: stone -->
+  <StoneArrow.labelShort>TODO</StoneArrow.labelShort>
+  <!-- EN: A sharpened stone is attached as an arrow head. Cuts exposed tissue fairly well but is ineffective against any kind of armor. -->
+  <StoneArrow.description>TODO</StoneArrow.description>
+
+  <!-- EN: steel arrow -->
+  <SteelArrow.label>TODO</SteelArrow.label>
+  <!-- EN: steel -->
+  <SteelArrow.labelShort>TODO</SteelArrow.labelShort>
+  <!-- EN: The arrow head is made from steel to enhance armor penetration. -->
+  <SteelArrow.description>TODO</SteelArrow.description>
+
+  <!-- EN: plasteel arrow -->
+  <PlasteelArrow.label>TODO</PlasteelArrow.label>
+  <!-- EN: plasteel -->
+  <PlasteelArrow.labelShort>TODO</PlasteelArrow.labelShort>
+  <!-- EN: Fitted with a plasteel head to maximize armor penetration. -->
+  <PlasteelArrow.description>TODO</PlasteelArrow.description>
+
+
+  <!-- For Vanilla-Friendly Weapons Expansion -->
+
+  <!-- EN: stone sling bullet -->
+  <StoneSlingBullet.label>TODO</StoneSlingBullet.label>
+  <!-- EN: stone -->
+  <StoneSlingBullet.labelShort>TODO</StoneSlingBullet.labelShort>
+  <!-- EN: A streamlined stone designed to fly far and hit hard. Not particularly effective against armor. -->
+  <StoneSlingBullet.description>TODO</StoneSlingBullet.description>
+
+  <!-- EN: steel sling bullet -->
+  <SteelSlingBullet.label>TODO</SteelSlingBullet.label>
+  <!-- EN: steel -->
+  <SteelSlingBullet.labelShort>TODO</SteelSlingBullet.labelShort>
+  <!-- EN: A refined sling bullet made out of steel to enhance armor penetration. -->
+  <SteelSlingBullet.description>TODO</SteelSlingBullet.description>
+
+  <!-- EN: plasteel sling bullet -->
+  <PlasteelSlingBullet.label>TODO</PlasteelSlingBullet.label>
+  <!-- EN: plasteel -->
+  <PlasteelSlingBullet.labelShort>TODO</PlasteelSlingBullet.labelShort>
+  <!-- EN: A highly-refined sling bullet made out of plasteel to maximize penetration. -->
+  <PlasteelSlingBullet.description>TODO</PlasteelSlingBullet.description>
+
+  <!-- EN: stone crossbow bolt -->
+  <StoneCrossbowBolt.label>TODO</StoneCrossbowBolt.label>
+  <!-- EN: stone -->
+  <StoneCrossbowBolt.labelShort>TODO</StoneCrossbowBolt.labelShort>
+  <!-- EN: A sharpened stone is attached to a wooden shaft. Cuts exposed tissue fairly well but isn't very effective against armor. -->
+  <StoneCrossbowBolt.description>TODO</StoneCrossbowBolt.description>
+
+  <!-- EN: steel crossbow bolt -->
+  <SteelCrossbowBolt.label>TODO</SteelCrossbowBolt.label>
+  <!-- EN: steel -->
+  <SteelCrossbowBolt.labelShort>TODO</SteelCrossbowBolt.labelShort>
+  <!-- EN: The head of the crossbow bolt is made from steel to enhance armor penetration. -->
+  <SteelCrossbowBolt.description>TODO</SteelCrossbowBolt.description>
+
+  <!-- EN: plasteel crossbow bolt -->
+  <PlasteelCrossbowBolt.label>TODO</PlasteelCrossbowBolt.label>
+  <!-- EN: plasteel -->
+  <PlasteelCrossbowBolt.labelShort>TODO</PlasteelCrossbowBolt.labelShort>
+  <!-- EN: The head of the crossbow bolt is made from plasteel to maximize armor penetration. -->
+  <PlasteelCrossbowBolt.description>TODO</PlasteelCrossbowBolt.description>
+
+
+  <!-- Irregular Arrows -->
+
+  <!-- EN: venom arrow -->
+  <VenomArrow.label>TODO</VenomArrow.label>
+  <!-- EN: venom -->
+  <VenomArrow.labelShort>TODO</VenomArrow.labelShort>
+  <!-- EN: The arrow head is made from steel and coated in toxin. -->
+  <VenomArrow.description>TODO</VenomArrow.description>
+
+  <!-- EN: flame arrow -->
+  <FlameArrow.label>TODO</FlameArrow.label>
+  <!-- EN: flame -->
+  <FlameArrow.labelShort>TODO</FlameArrow.labelShort>
+  <!-- EN: Steel open cage arrowhead containing incendiary components for setting targets alight. -->
+  <FlameArrow.description>TODO</FlameArrow.description>
+
+  <!-- EN: venom crossbow bolt -->
+  <VenomCrossbowBolt.label>TODO</VenomCrossbowBolt.label>
+  <!-- EN: venom -->
+  <VenomCrossbowBolt.labelShort>TODO</VenomCrossbowBolt.labelShort>
+  <!-- EN: The head of the crossbow bolt is made from steel and coated in toxin. -->
+  <VenomCrossbowBolt.description>TODO</VenomCrossbowBolt.description>
+
+  <!-- EN: flame crossbow bolt -->
+  <FlameCrossbowBolt.label>TODO</FlameCrossbowBolt.label>
+  <!-- EN: flame -->
+  <FlameCrossbowBolt.labelShort>TODO</FlameCrossbowBolt.labelShort>
+  <!-- EN: Steel open cage crossbow bolt head containing incendiary components for setting targets alight. -->
+  <FlameCrossbowBolt.description>TODO</FlameCrossbowBolt.description>
+
+
+</LanguageData>

@@ -1,0 +1,20 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make SPG-9 HEAT grenades x5 -->
+  <MakeAmmo_SPG9Grenade_HEAT.label>TODO</MakeAmmo_SPG9Grenade_HEAT.label>
+  <!-- EN: Craft 5 SPG-9 HEAT grenades. -->
+  <MakeAmmo_SPG9Grenade_HEAT.description>TODO</MakeAmmo_SPG9Grenade_HEAT.description>
+  <!-- EN: Making SPG-9 HEAT grenades. -->
+  <MakeAmmo_SPG9Grenade_HEAT.jobString>TODO</MakeAmmo_SPG9Grenade_HEAT.jobString>
+
+  <!-- EN: make SPG-9 frag grenades x5 -->
+  <MakeAmmo_SPG9Grenade_Frag.label>TODO</MakeAmmo_SPG9Grenade_Frag.label>
+  <!-- EN: Craft 5 SPG-9 frag grenades. -->
+  <MakeAmmo_SPG9Grenade_Frag.description>TODO</MakeAmmo_SPG9Grenade_Frag.description>
+  <!-- EN: Making SPG-9 frag grenades. -->
+  <MakeAmmo_SPG9Grenade_Frag.jobString>TODO</MakeAmmo_SPG9Grenade_Frag.jobString>
+
+
+</LanguageData>

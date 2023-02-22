@@ -1,0 +1,31 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 76.2x385mmR Cannon shell (HEAT) -->
+  <Ammo_762x385mmRCannonShell_HEAT.label>TODO</Ammo_762x385mmRCannonShell_HEAT.label>
+  <!-- EN: Light cannon shell used in field guns. -->
+  <Ammo_762x385mmRCannonShell_HEAT.description>TODO</Ammo_762x385mmRCannonShell_HEAT.description>
+
+  <!-- EN: 76.2x385mmR Cannon shell (HE) -->
+  <Ammo_762x385mmRCannonShell_HE.label>TODO</Ammo_762x385mmRCannonShell_HE.label>
+  <!-- EN: Light cannon shell used in field guns. -->
+  <Ammo_762x385mmRCannonShell_HE.description>TODO</Ammo_762x385mmRCannonShell_HE.description>
+
+  <!-- EN: 76.2x385mmR Cannon shell (EMP) -->
+  <Ammo_762x385mmRCannonShell_EMP.label>TODO</Ammo_762x385mmRCannonShell_EMP.label>
+  <!-- EN: Light cannon shell used in field guns. -->
+  <Ammo_762x385mmRCannonShell_EMP.description>TODO</Ammo_762x385mmRCannonShell_EMP.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 76.2x385mmR Cannon shell (HEAT) -->
+  <Bullet_762x385mmRCannonShell_HEAT.label>TODO</Bullet_762x385mmRCannonShell_HEAT.label>
+  <!-- EN: 76.2x385mmR Cannon shell (HE) -->
+  <Bullet_762x385mmRCannonShell_HE.label>TODO</Bullet_762x385mmRCannonShell_HE.label>
+  <!-- EN: 76.2x385mmR Cannon shell (EMP) -->
+  <Bullet_762x385mmRCannonShell_EMP.label>TODO</Bullet_762x385mmRCannonShell_EMP.label>
+
+
+</LanguageData>

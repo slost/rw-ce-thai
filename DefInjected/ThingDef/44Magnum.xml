@@ -1,0 +1,41 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: .44 Magnum cartridge (FMJ) -->
+  <Ammo_44Magnum_FMJ.label>TODO</Ammo_44Magnum_FMJ.label>
+  <!-- EN: Ancient pistol cartridge originally designed for revolvers. -->
+  <Ammo_44Magnum_FMJ.description>TODO</Ammo_44Magnum_FMJ.description>
+
+  <!-- EN: .44 Magnum cartridge (AP) -->
+  <Ammo_44Magnum_AP.label>TODO</Ammo_44Magnum_AP.label>
+  <!-- EN: Ancient pistol cartridge originally designed for revolvers. -->
+  <Ammo_44Magnum_AP.description>TODO</Ammo_44Magnum_AP.description>
+
+  <!-- EN: .44 Magnum cartridge (HP) -->
+  <Ammo_44Magnum_HP.label>TODO</Ammo_44Magnum_HP.label>
+  <!-- EN: Ancient pistol cartridge originally designed for revolvers. -->
+  <Ammo_44Magnum_HP.description>TODO</Ammo_44Magnum_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: .44 Magnum bullet (FMJ) -->
+  <Bullet_44Magnum_FMJ.label>TODO</Bullet_44Magnum_FMJ.label>
+  <!-- EN: .44 Magnum bullet (AP) -->
+  <Bullet_44Magnum_AP.label>TODO</Bullet_44Magnum_AP.label>
+  <!-- EN: .44 Magnum bullet (HP) -->
+  <Bullet_44Magnum_HP.label>TODO</Bullet_44Magnum_HP.label>
+
+
+  <!-- High velocity -->
+
+  <!-- EN: .44 Magnum bullet (FMJ) -->
+  <Bullet_44Magnum_HV_FMJ.label>TODO</Bullet_44Magnum_HV_FMJ.label>
+  <!-- EN: .44 Magnum bullet (AP) -->
+  <Bullet_44Magnum_HV_AP.label>TODO</Bullet_44Magnum_HV_AP.label>
+  <!-- EN: .44 Magnum bullet (HP) -->
+  <Bullet_44Magnum_HV_HP.label>TODO</Bullet_44Magnum_HV_HP.label>
+
+
+</LanguageData>

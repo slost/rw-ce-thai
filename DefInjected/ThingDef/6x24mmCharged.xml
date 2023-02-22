@@ -1,0 +1,31 @@
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <!-- EN: 6x24mm Charged cartridge -->
+  <Ammo_6x24mmCharged.label>TODO</Ammo_6x24mmCharged.label>
+  <!-- EN: Charged shot ammo used by advanced assault rifle designs. -->
+  <Ammo_6x24mmCharged.description>TODO</Ammo_6x24mmCharged.description>
+
+  <!-- EN: 6x24mm Charged cartridge (Conc.) -->
+  <Ammo_6x24mmCharged_AP.label>TODO</Ammo_6x24mmCharged_AP.label>
+  <!-- EN: Charged shot ammo used by advanced assault rifle designs. -->
+  <Ammo_6x24mmCharged_AP.description>TODO</Ammo_6x24mmCharged_AP.description>
+
+  <!-- EN: 6x24mm Charged cartridge (Ion) -->
+  <Ammo_6x24mmCharged_Ion.label>TODO</Ammo_6x24mmCharged_Ion.label>
+  <!-- EN: Charged shot ammo used by advanced assault rifle designs. -->
+  <Ammo_6x24mmCharged_Ion.description>TODO</Ammo_6x24mmCharged_Ion.description>
+
+
+  <!-- Projectiles -->
+
+  <!-- EN: 6x24mm Charged bullet -->
+  <Bullet_6x24mmCharged.label>TODO</Bullet_6x24mmCharged.label>
+  <!-- EN: 6x24mm Charged bullet (Conc.) -->
+  <Bullet_6x24mmCharged_AP.label>TODO</Bullet_6x24mmCharged_AP.label>
+  <!-- EN: 6x24mm Charged bullet (Ion) -->
+  <Bullet_6x24mmCharged_Ion.label>TODO</Bullet_6x24mmCharged_Ion.label>
+
+
+</LanguageData>

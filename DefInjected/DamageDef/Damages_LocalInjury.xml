@@ -1,0 +1,59 @@
+<LanguageData>
+
+  <!-- EN: beanbag -->
+  <Beanbag.label>TODO</Beanbag.label>
+  <!-- EN: {0} has been beanbagged to death. -->
+  <Beanbag.deathMessage>TODO</Beanbag.deathMessage>
+
+  <!-- EN: taser -->
+  <Taser.label>TODO</Taser.label>
+  <!-- EN: {0} has been tasered to death. -->
+  <Taser.deathMessage>TODO</Taser.deathMessage>
+
+  <!-- EN: fragment -->
+  <Fragment.label>TODO</Fragment.label>
+  <!-- EN: {0} has been shredded to death. -->
+  <Fragment.deathMessage>TODO</Fragment.deathMessage>
+
+  <!-- EN: prometheum flame -->
+  <PrometheumFlame.label>TODO</PrometheumFlame.label>
+  <!-- EN: {0} has burned to death. -->
+  <PrometheumFlame.deathMessage>TODO</PrometheumFlame.deathMessage>
+
+  <!-- EN: bomb -->
+  <Bomb_Secondary.label>TODO</Bomb_Secondary.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <Bomb_Secondary.deathMessage>TODO</Bomb_Secondary.deathMessage>
+
+  <!-- EN: thermobaric -->
+  <Thermobaric.label>TODO</Thermobaric.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <Thermobaric.deathMessage>TODO</Thermobaric.deathMessage>
+
+  <!-- EN: burn -->
+  <Flame_Secondary.label>TODO</Flame_Secondary.label>
+  <!-- EN: {0} has burned to death. -->
+  <Flame_Secondary.deathMessage>TODO</Flame_Secondary.deathMessage>
+
+  <!-- EN: electrical -->
+  <Electrical.label>TODO</Electrical.label>
+  <!-- EN: {0} has been electrocuted. -->
+  <Electrical.deathMessage>TODO</Electrical.deathMessage>
+
+  <!-- EN: arrow -->
+  <ArrowVenom.label>TODO</ArrowVenom.label>
+  <!-- EN: {0} has been shot to death by an arrow. -->
+  <ArrowVenom.deathMessage>TODO</ArrowVenom.deathMessage>
+
+  <!-- EN: arrow -->
+  <ArrowFire.label>TODO</ArrowFire.label>
+  <!-- EN: {0} has been shot to death by an arrow. -->
+  <ArrowFire.deathMessage>TODO</ArrowFire.deathMessage>
+
+  <!-- EN: tranquilizer -->
+  <Tranquilizer.label>TODO</Tranquilizer.label>
+  <!-- EN: {0} has been shot to death. -->
+  <Tranquilizer.deathMessage>TODO</Tranquilizer.deathMessage>
+
+
+</LanguageData>

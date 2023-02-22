@@ -1,0 +1,13 @@
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <!-- EN: make 57x483mm Bofors (HE) cartridge x25 -->
+  <MakeAmmo_57x483mmBofors_HE.label>TODO</MakeAmmo_57x483mmBofors_HE.label>
+  <!-- EN: Craft 25 57x483mm Bofors (HE) cartridges. -->
+  <MakeAmmo_57x483mmBofors_HE.description>TODO</MakeAmmo_57x483mmBofors_HE.description>
+  <!-- EN: Making 57x483mm Bofors (HE) cartridges. -->
+  <MakeAmmo_57x483mmBofors_HE.jobString>TODO</MakeAmmo_57x483mmBofors_HE.jobString>
+
+
+</LanguageData>
